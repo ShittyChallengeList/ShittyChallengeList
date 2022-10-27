@@ -1,0 +1,438 @@
+*{
+  font-family: 'Mukta Mahee', sans-serif;
+}
+
+body {
+	height: 100vh;
+	margin: 0;
+}
+header{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 6.25em;
+	max-height: 25%;
+  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#sitename{
+  position: fixed;
+  top: 25px;
+  left: 30px;
+  font-size: 2em;
+  text-shadow: -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px -1px 0 rgb(255, 255, 255);
+}
+
+#head{
+  position: fixed;
+  top: 53px;
+  left: 40px;
+  font-size: 0.9em;
+}
+
+#pc-link A {
+  color: rgb(162, 171, 255) !important;
+  position: fixed;
+  text-align: right;
+  top: 35px;
+  right: 30px;
+  font-size: 1.3em;
+  text-shadow: -1.6px 1.6px 0 rgb(0, 0, 0), 1.6px 1.6px 0 rgb(0, 0, 0), 1.6px -1.6px 0 rgb(0, 0, 0), -1.6px -1.6px 0 rgb(0, 0, 0);
+}
+
+/*Additional information aka the right panel aka HELL*/
+#additional-information{
+  background: linear-gradient(185deg, rgb(22, 22, 34)65%, rgb(10, 10, 20));
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 30%;
+  overflow-y: auto;
+  color: white;
+}
+#additional-information A:link{
+  color: white;
+}
+#additional-information A:visited{
+  color: white;
+}
+#additional-information A:hover{
+  color: rgb(103, 114, 151) !important;
+}
+#inner-right-info {
+  color: white !important; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 2rem;
+  padding: 1em;
+}
+#FormHelp{
+  text-align: center;
+  border: 2px dashed;
+  padding: 1em;
+  background-color: rgb(31, 34, 53);
+  border-radius: 0.5em;
+  width: 75%;
+}
+#FormLink{
+  color:#4e77ff !important;
+}
+#FormLink A:visited{
+  color: #4e77ff !important;
+}
+.StaffList {
+  border: 3px solid;
+  padding: 1em 1.75em 1em 1.75em;
+  background-image: linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%) !important;
+  box-shadow: 7px 13px 30px #000000;
+  min-width: 60px;
+  width: 40%;
+  text-align: center;
+  border-radius: 1em;
+}
+.StaffList A:visited{
+  color: white !important;
+}
+.StaffRole {
+  font-size: 1.2em;
+  text-decoration: underline;
+}
+#Requirements {
+  border: 3px solid;
+  padding: 0.5em 1.6em 1.6em 1.6em;
+  background-color: rgb(26, 28, 44);
+  border-radius: 1em;
+  width: 85%;
+}
+
+#DiscordEmbed {
+	text-align: center;
+}
+
+/*Player Records List thingy (why is this so confusing to deco)*/
+Swal{
+  color: rgb(255, 255, 255) !important;
+}
+.swal2-popup .swal2-title {
+  color: rgb(255, 255, 255) !important;
+}
+.swal2-popup .swal2-content {
+  color: rgb(255, 255, 255) !important;
+}
+.swal2-popup {
+  background: linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%) !important;
+  border: solid 3px rgb(255, 255, 255);
+  border-radius: 2rem;
+}
+.swal2-popup A:link{
+  color: white !important;
+}
+.swal2-popup A:visited{
+  color: white !important;
+}
+.swal2-popup A:hover{
+  color: rgba(167, 174, 204, 0.7) !important;
+}
+.swal2-popup .swal2-styled.swal2-confirm {
+  background-color: #223158 !important;
+}
+.swal2-popup .swal2-styled.swal2-confirm:hover {
+  background-color: #3c579b !important;
+}
+
+/*Middle panel with all the important stuff*/
+#info{
+  background: linear-gradient(315deg, rgb(10, 14, 43), rgb(43, 55, 139) 100%);
+  position: fixed;
+  top: 100px;
+  left: 30%;
+  width: 40%;
+  overflow-y: auto;
+  color: white !important; 
+}
+#inner-info{
+  padding: 1em;
+}
+#levelqualify{
+  margin-bottom: 1em;
+  color: white !important; 
+}
+#records-title{
+  color: white !important;
+  color: white !important; 
+  color: white !important; 
+}
+.records-table{
+	color: white !important;
+}
+.records-table A:visited{
+	color: white !important;
+}
+.interentry A:visited{
+	color: white !important;
+}
+.interentry{
+	color: white !important;
+}
+#Submit{
+  color:#ffffff !important;
+  padding: 0.7em;
+  border: 2px solid rgb(255, 255, 255);
+  background-color: rgb(31, 34, 53);
+}
+#Submit A:visited{
+  color: #ffffff !important;
+}
+#Submit:hover{
+  background-color: rgb(59, 64, 92)
+}
+/*The left panel aka the actual list*/
+#list{
+  background: rgb(0, 0, 0);
+  position: fixed;
+  top: 100px;
+  left: 0;
+  width: 30%;
+  overflow-y: auto;
+  color: white !important; 
+}
+.entry{
+  padding: 1em;
+}
+.entry:nth-child(odd){
+  background: linear-gradient(90deg, rgb(30, 30, 43), rgb(15, 15, 22));
+}
+.entry:nth-child(even){
+  background: linear-gradient(90deg, rgb(17, 17, 27), rgb(0, 0, 0));
+}
+.entry:hover{
+  background: rgb(70, 78, 104);
+  cursor: pointer;
+}
+.entry:active{
+  background: rgb(102, 113, 143);
+  cursor: pointer;
+}
+
+A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
+
+.selected:nth-child(odd){
+  border-width: 0;
+  border-left: 10px solid;
+  border-color: black;
+  background: linear-gradient(300deg, rgb(80, 80, 113) 0%, rgb(30, 30, 43) 45%);
+}
+.selected:nth-child(even){
+  border-width: 0;
+  border-left: 10px solid;
+  border-color: black;
+  background: linear-gradient(300deg, rgb(67, 67, 87) 0%, rgb(17, 17, 27) 45%);
+}
+.author{
+  font-variant: small-caps;
+}
+#levelname{
+  font-size: 1.7em;
+  font-weight: bold;
+
+}
+#levelauthor{
+  font-size: 1.1em;
+}
+#leveldescription{
+  font-size: 0.8em;
+  font-variant: small-caps;
+
+}
+.vid{
+	width: 100%;
+	aspect-ratio: 16/9;
+}
+#records{
+  width: 100%;
+}
+#records-title{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+#records-table{
+  width: 100%;
+}
+#explanation-simple-title{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+#explanation-simple{
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+.interentry{
+  padding: 0.7em;
+  border: 1px solid rgb(199, 205, 255);
+}
+.record-entry a:link{
+  color: white !important;
+}
+.record-entry:nth-child(even){
+  background: rgb(31, 39, 82);
+}
+.record-entry:nth-child(odd){
+  background: rgb(37, 50, 110);
+}
+#block{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  color: black;
+  font-size: 3em;
+}
+.hacked{
+  background: rgb(45, 56, 200);
+  color: white;
+  font-weight: strong;
+  font-size: 0.4em;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.p-hacked{
+  background: rgb(102, 109, 204);
+  color: white;
+  font-weight: strong;
+  font-size: 0.4em;
+  padding: 0.4em;
+  border-radius: 1em;
+}
+#hi{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: blueviolet;
+  z-index: 99;
+}
+#user-rank {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+element.style {
+  display: inline-block;
+  border-left-color: rgb(48, 133, 214);
+  border-right-color: rgb(48, 133, 214);
+}
+
+/* list collapsible */
+
+.wrapper{
+  margin: 10% auto;
+  width: 400px;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+label{
+  display: block;
+  cursor: pointer;
+  padding: 10px;
+  border: 3px solid rgb(196, 210, 255);
+}
+
+label:hover{
+  background: rgb(180, 200, 255);
+}
+
+label.last{
+  border-bottom: 3px solid rgb(176, 220, 255);
+}
+
+ul ul li{
+  padding: 10px;
+  background: rgb(149, 198, 255);
+}
+
+
+input[type="checkbox"]{
+  position: absolute;
+  left: -9999px;
+}
+
+input[type="checkbox"] ~ ul{
+  height: 0;
+  transform: scaleY(0);
+}
+
+input[type="checkbox"]:checked ~ ul{
+  height: 100%;
+  transform-origin: top;
+  transition: transform .2s ease-out;
+  transform: scaleY(1); 
+}
+
+input[type="checkbox"]:checked + label{
+  background: rgb(164, 214, 255);
+  border-bottom: 3px solid rgb(49, 145, 255);
+}
+
+/* scroll bar [DO NOT MODIFY] */
+/* width */
+::-webkit-scrollbar {
+  width: 12px;
+  border-width: 0;
+  border-left: 2px solid;
+  border-color: rgb(0, 0, 0);
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #181e3f; 
+  border-width: 0;
+  border-left: 2px solid;
+  border-color: rgb(0, 0, 0);
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(94, 112, 214); 
+  border-width: 0;
+  border-left: 2px solid;
+  border-color: rgb(0, 0, 0);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(141, 158, 255);
+  border-width: 0;
+  border-left: 2px solid;
+  border-color: rgb(0, 0, 0); 
+}
+
+#additional-information{
+  border-width: 0;
+  border-left: 2px solid;
+  border-color: rgb(0, 0, 0);
+}
+
+#info{
+  border-width: 0;
+  border-left: 2px solid;
+  border-color: rgb(0, 0, 0);
+}
+
+#CopyID {
+	cursor: pointer;
+}

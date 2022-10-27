@@ -1,0 +1,20 @@
+    /*=============================================================================*/
+{
+			"vids": [
+      {
+					"user": "None",
+					"link": "",
+					"percent": (percent),
+					"hz": ""
+        },  
+],        
+			"name": "Name",
+			"author": "Author",
+			"more": "none",
+			"id": id,
+			"pass": "pass",
+			"percentToQualify": percentToQualify,
+			"verificationVid": "vidLink",
+		},
+
+Hi -gayass
