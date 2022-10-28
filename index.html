@@ -10,17 +10,25 @@
 	<meta id="meta-image" name="og:image" itemprop="image" content="https://cdn.discordapp.com/attachments/665153255474724866/935978853900357702/SCLLAnekoIconfirstBetter.png">
 	<meta name="viewport" content="user-scalable=yes">
 	<meta charset="UTF-8">
-    <script>
-        const copyToClipboard = str => {
-          const el = document.createElement('textarea');
-          el.value = document.getElementById("CopyID").innerHTML;
-          el.setAttribute('readonly', '');
-          document.body.appendChild(el);
-          el.select();
-          document.execCommand('copy');
-          alert("Level ID Copied!");
-          document.body.removeChild(el);
-        };
+<!-- this code is so messy I do not have the patience to deal with this rn TODO: make it so icon works
+	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<script src="sweetalert2.all.min.js"></script> -->
+    <script defer>
+		const copyToClipboard = str => {
+			const el = document.createElement('textarea');
+			el.value = document.getElementById("CopyID").innerHTML;
+			el.setAttribute('readonly', '');
+			document.body.appendChild(el);
+			el.select();
+			document.execCommand('copy');
+			Swal.fire({
+				titleText: 'Copied!',
+				icon: 'success',
+				text: 'Level ID has been copied to clipboard!',
+				confirmButtonText: 'Ok'
+			});
+			document.body.removeChild(el);
+		};
     </script>
 </head>
 
@@ -101,13 +109,13 @@
                 <br>
                   <b class="StaffRole">List Moderators</b>
                 <br>
-                	<a href="#">none lol (THIS COULD BE YOU)</a>
+                	<a href="https://www.youtube.com/channel/UCMgmMN55bpzlWfvBcPzrLGQ">Brooke</a>
                 <br>
                   <b class="StaffRole">List Helpers</b>
-                <br>
-                    <a href="#">TheInsanePro</a>
 				<br>
 					<a href="#">BlizzardLaZario</a>
+				<br>
+					<a href="https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw">Willow</a>
                 
 
                 </div>
