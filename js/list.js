@@ -1447,6 +1447,98 @@ const d =  {
     "verificationVid":"https://www.youtube.com/watch?v=iPFgMF3sblY",
   },
 /*=============================================================================*/
+    {
+      "vids":[
+
+      ],
+      "name":"Shitty Crystalline",
+      "author": "Dipper552",
+      "id":85218206,
+      "percentToQualify":100,
+      "verificationVid":"https://www.youtube.com/watch?v=pDAS1pDTOtQ",
+    },
+/*=============================================================================*/
+    {
+      "vids":[
+
+      ],
+      "name":"Shitty Vandal",
+      "author": "phvmes",
+      "id":82261517,
+      "percentToQualify":100,
+      "verificationVid":"https://www.youtube.com/watch?v=-btf1xMBtUk",
+    },
+/*=============================================================================*/
+          {
+			"vids": [ 
+        {
+          "user": "Troy3",
+          "link": "https://www.youtube.com/watch?v=kDLbtvN3his",
+          "percent":100,
+          "hz":"180hz"
+        },
+        {
+          "user": "Halledo",
+          "link": "https://www.youtube.com/watch?v=cDDA_cxPh3Y",
+          "percent":100,
+          "hz":"144hz"
+        },
+        {
+       "user": "Toon",
+       "link": "https://www.youtube.com/watch?v=6h_Dehc58tU",
+       "percent":100,
+       "hz":"360hz"
+     },
+],        
+			"name": "Shitty Coughy Bean",
+			"author": "Charlotte",
+			"id": 77662094,
+			"pass": "None",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/_5Qi6owGTJM",
+		},
+/*=============================================================================*/
+          {
+      "vids":[
+        {
+          "user":"Chuck Danger",
+          "link":"https://medal.tv/games/geometry-dash/clips/7XfHXYhf9duPN/d13372fVdOZP?invite=cr-MSxOcmYsNDMwNDUyMDEs",
+          "percent":100,
+          "hz":"144hz",
+        },
+        {
+          "user":"Tai0",
+          "link":"https://youtu.be/CACurwEvBVk",
+          "percent":100,
+          "hz":"144hz",
+        },
+        {
+          "user":"Troy3",
+          "link":"https://youtu.be/ovhNHMR_bLo",
+          "percent":100,
+          "hz":"180hz",
+        },
+        {
+          "user":"ThirtyTwelve",
+          "link":"https://m.youtube.com/watch?v=ae95oEW-ikE",
+          "percent":100,
+          "hz":"240hz",
+        },
+        {
+          "user":"SeazeIsCool",
+          "link":"https://youtu.be/chHAfw4Qjo4",
+          "percent":100,
+          "hz":"300hz",
+        },
+
+      ],
+      "name":"Shitty SGF",
+      "author":"Magic",
+      "id":73464648,
+      "percentToQualify":100,
+      "verificationVid":"https://www.youtube.com/watch?v=Cw_DPT4xnJE",
+    },
+/*=============================================================================*/
           {
       "vids":[
         {
@@ -1497,46 +1589,6 @@ const d =  {
       "id":69626629,
       "percentToQualify":100,
       "verificationVid":"https://www.youtube.com/watch?v=l9MaMlQWwYo",
-    },
-/*=============================================================================*/
-          {
-			"vids": [ 
-        {
-          "user": "Troy3",
-          "link": "https://www.youtube.com/watch?v=kDLbtvN3his",
-          "percent":100,
-          "hz":"180hz"
-        },
-        {
-          "user": "Halledo",
-          "link": "https://www.youtube.com/watch?v=cDDA_cxPh3Y",
-          "percent":100,
-          "hz":"144hz"
-        },
-        {
-       "user": "Toon",
-       "link": "https://www.youtube.com/watch?v=6h_Dehc58tU",
-       "percent":100,
-       "hz":"360hz"
-     },
-],        
-			"name": "Shitty Coughy Bean",
-			"author": "Charlotte",
-			"id": 77662094,
-			"pass": "None",
-			"percentToQualify": 100,
-			"verificationVid": "https://youtu.be/_5Qi6owGTJM",
-		},
-/*=============================================================================*/
-    {
-      "vids":[
-
-      ],
-      "name":"Shitty Vandal",
-      "author": "phvmes",
-      "id":82261517,
-      "percentToQualify":100,
-      "verificationVid":"https://www.youtube.com/watch?v=-btf1xMBtUk",
     },
 /*=============================================================================*/
           {
@@ -1602,47 +1654,6 @@ const d =  {
       "id":70510783,
       "percentToQualify":100,
       "verificationVid":"https://www.youtube.com/watch?v=t1DbQ8ApJjc",
-    },
-/*=============================================================================*/
-          {
-      "vids":[
-        {
-          "user":"Chuck Danger",
-          "link":"https://medal.tv/games/geometry-dash/clips/7XfHXYhf9duPN/d13372fVdOZP?invite=cr-MSxOcmYsNDMwNDUyMDEs",
-          "percent":100,
-          "hz":"144hz",
-        },
-        {
-          "user":"Tai0",
-          "link":"https://youtu.be/CACurwEvBVk",
-          "percent":100,
-          "hz":"144hz",
-        },
-        {
-          "user":"Troy3",
-          "link":"https://youtu.be/ovhNHMR_bLo",
-          "percent":100,
-          "hz":"180hz",
-        },
-        {
-          "user":"ThirtyTwelve",
-          "link":"https://m.youtube.com/watch?v=ae95oEW-ikE",
-          "percent":100,
-          "hz":"240hz",
-        },
-        {
-          "user":"SeazeIsCool",
-          "link":"https://youtu.be/chHAfw4Qjo4",
-          "percent":100,
-          "hz":"300hz",
-        },
-
-      ],
-      "name":"Shitty SGF",
-      "author":"Magic",
-      "id":73464648,
-      "percentToQualify":100,
-      "verificationVid":"https://www.youtube.com/watch?v=Cw_DPT4xnJE",
     },
 /*=============================================================================*/
           {
@@ -2052,6 +2063,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=qz1eXZMiCXc",
           "percent":100,
           "hz":"360hz",
+        },
+        {
+          "user":"Dipper552",
+          "link":"https://www.youtube.com/watch?v=ZKAYyk53QKU",
+          "percent":100,
+          "hz":"144hz",
         },
       ],
       "name":"Shitty Deorum",
@@ -2490,6 +2507,12 @@ const d =  {
         "link": "https://www.youtube.com/watch?v=_3tMGxw6GHg",
         "percent":100,
         "hz":"360hz"
+      },
+        {
+        "user": "Dipper552",
+        "link": "https://www.youtube.com/watch?v=aK-bqDH3MKM",
+        "percent":100,
+        "hz":"144hz"
       },
       ],
 			  
