@@ -15,6 +15,9 @@
 			"pass": "pass",
 			"percentToQualify": percentToQualify,
 			"verificationVid": "vidLink",
+			"desc": ""
+			"phacked": false
+			"hacked": false
 		},
 
 Hi -gayass

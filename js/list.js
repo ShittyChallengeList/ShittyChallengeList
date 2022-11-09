@@ -31,6 +31,17 @@ const d =  {
     /*=============================================================================*/
 {
     "vids":[
+
+    ],
+    "name":"Shitty Lavander",
+    "author":"sincos",
+    "id":83385866,
+    "percentToQualify":100,
+    "verificationVid":"https://youtu.be/r_u2wmC-Gr4",
+  },
+/*=============================================================================*/
+{
+    "vids":[
         { 
 		  "user":"toon",
           "link":"https://www.youtube.com/watch?v=ike2xhgaaU0",
@@ -809,6 +820,12 @@ const d =  {
           "percent":100,
           "hz":"240hz",
         },
+        {
+          "user":"MrMen11",
+          "link":"https://www.youtube.com/watch?v=MgHl8xjLek8",
+          "percent":100,
+          "hz":"240hz",
+        },
       ],
       "name":"Shitty I Love You",
       "author":"Vinny",
@@ -991,6 +1008,12 @@ const d =  {
         "link": "https://www.youtube.com/watch?v=MtzbnoXf6JI",
         "percent":100,
         "hz":"144hz"
+      },
+        {
+        "user": "MrMen11",
+        "link": "https://www.youtube.com/watch?v=u95dzbI3PYU",
+        "percent":100,
+        "hz":"240hz"
       },
 ],        
 			"name": "Shitty Final Fantasy",
@@ -1449,7 +1472,12 @@ const d =  {
 /*=============================================================================*/
     {
       "vids":[
-
+    {
+          "user": "Ruttheeknt",
+          "link": "https://www.youtube.com/watch?v=L2ZpSMwT1oI",
+          "percent":100,
+          "hz":"360hz"
+        },
       ],
       "name":"Shitty Crystalline",
       "author": "Dipper552",
@@ -1731,18 +1759,30 @@ const d =  {
           "hz":"144hz",
         },
         {
-        "user": "Charlotte",
-        "link": "https://www.youtube.com/watch?v=_3tMGxw6GHg",
-        "percent":100,
-        "hz":"360hz"
-      },
-      ],
-      "name":"Shitty Nauru",
-      "author":"Vinny",
-      "id":66689108,
-      "percentToQualify":100,
-      "verificationVid":"https://youtu.be/ApVbEvWCqgc",
-    },
+          "user":"Charlotte",
+          "link":"https://www.youtube.com/watch?v=_3tMGxw6GHg",
+          "percent":100,
+          "hz":"360hz",
+        },
+        {
+          "user":"Ruttheeknt",
+          "link":"https://www.youtube.com/watch?v=L2ZpSMwT1oI",
+          "percent":100,
+          "hz":"360hz",
+        },
+        {
+          "user":"Grilled",
+          "link":"https://www.youtube.com/watch?v=IFLwcfBF17Y",
+          "percent":100,
+          "hz":"360hz",
+        },
+        ],
+    "name":"Shitty Nauru",
+    "author":"Vinny",
+    "id":66689108,
+    "percentToQualify":100,
+    "verificationVid":"https://www.youtube.com/watch?v=ApVbEvWCqgc",
+  },
 /*=============================================================================*/
 {
     "vids":[
@@ -1817,6 +1857,12 @@ const d =  {
           "link":"https://m.youtube.com/watch?v=A-hE1uKoGp4",
           "percent":100,
           "hz":"144hz",
+        },
+      {
+          "user":"Grilled",
+          "link":"https://www.youtube.com/watch?v=IFLwcfBF17Y",
+          "percent":100,
+          "hz":"360hz",
         },
     ],
     "name":"Shitty SBC",
@@ -1906,6 +1952,12 @@ const d =  {
         "percent":"100",
         "hz":"360hz",
         },
+        {
+        "user":"Grilled",
+        "link":"https://www.youtube.com/watch?v=IFLwcfBF17Y",
+        "percent":"100",
+        "hz":"360hz",
+        },
       ],
       "name":"Shitty Lost Sense",
       "author":"Strix",
@@ -1913,6 +1965,17 @@ const d =  {
       "percentToQualify":100,
       "verificationVid":"NA",
     },
+/*=============================================================================*/
+{
+    "vids":[
+
+    ],
+    "name":"Shitty Yoshi Island",
+    "author":"Wyatt_GD",
+    "id":80082470,
+    "percentToQualify":100,
+    "verificationVid":"https://youtu.be/dABZy917J_w",
+  },
 /*=============================================================================*/
           {
       "vids":[
@@ -2069,6 +2132,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=ZKAYyk53QKU",
           "percent":100,
           "hz":"144hz",
+        },
+        {
+          "user":"MrMen11",
+          "link":"https://www.youtube.com/watch?v=pXK3pjyDwqE",
+          "percent":100,
+          "hz":"240hz",
         },
       ],
       "name":"Shitty Deorum",
@@ -2354,6 +2423,12 @@ const d =  {
         {
           "user":"L1neX",
           "link":"https://www.youtube.com/watch?v=BeivzE-UmHA",
+          "percent":100,
+          "hz":"360hz",
+        },
+        {
+          "user":"Grilled",
+          "link":"https://www.youtube.com/watch?v=IFLwcfBF17Y",
           "percent":100,
           "hz":"360hz",
         },
@@ -3215,6 +3290,12 @@ const d =  {
         {
           "user":"Charlotte",
           "link":"https://youtu.be/H9LU990m3CI",
+          "percent":100,
+          "hz":"360hz",
+        },
+        {
+          "user":"Grilled",
+          "link":"https://www.youtube.com/watch?v=ZjMAlFtCC90",
           "percent":100,
           "hz":"360hz",
         },

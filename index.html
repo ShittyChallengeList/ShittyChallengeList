@@ -12,7 +12,9 @@
 	<meta charset="UTF-8">
 <!-- this code is so messy I do not have the patience to deal with this rn TODO: make it so icon works
 	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-	<script src="sweetalert2.all.min.js"></script> -->
+	<script src="sweetalert2.all.min.js"></script>
+
+	//the old copy to clipboard code (sucks)
     <script defer>
 		const copyToClipboard = str => {
 			const el = document.createElement('textarea');
@@ -29,7 +31,7 @@
 			});
 			document.body.removeChild(el);
 		};
-    </script>
+    </script> -->
 </head>
 
 <body>
@@ -81,7 +83,7 @@
                         <hr>
                         <div id="records-title"><strong>Records</strong></div>
                         <strong id="levelqualify"></strong><br><br>
-                            <a id="Submit" target="_blank" href="https://forms.gle/2rH2rLiBnmhJbjGa9"><b>Submit Record</b></a>
+                            <a id="Submit" target="_blank" href="https://forms.gle/2rH2rLiBnmhJbjGa9">Submit Record</a>
                         <br><br>
                     </center>
                     <hr>
@@ -394,7 +396,7 @@
             }
             $("#levelqualify").text(entry.percentToQualify + "% to Qualify");
             $("#records-score").html(`<strong>Points when completed : ${getPoint(rank)}</strong>`);
-            $("#records-id").html(`<strong>Level ID : <i><u id="CopyID" onclick="copyToClipboard()">${entry.id}</u></i></strong>`);
+            $("#records-id").html(`<strong>Level ID : <i><u id="CopyID">${entry.id}</u></i></strong>`);
             $("#records-pass").html(`<strong>Level Password : ${entry.pass}</strong>`);
             $("#song").html(`<strong>Song Name: ${entry.song}</strong>`);
             $("#inside-level-author").html(final_author);
@@ -414,6 +416,15 @@
             }
         }
         cueCSS();
+      	$("#CopyID").on('click', (e) => {
+        	navigator.clipboard.writeText($("#CopyID").text());
+			Swal.fire({
+				titleText: 'Copied!',
+				icon: 'success',
+				text: 'Level ID has been copied to clipboard!',
+				confirmButtonText: 'Ok'
+			});
+      	});
     };
     $('.entry').click(function() {
         $('.entry').removeClass('selected')
