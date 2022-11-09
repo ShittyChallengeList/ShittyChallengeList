@@ -33,7 +33,7 @@ const d =  {
     "vids":[
 
     ],
-    "name":"Shitty Lavander",
+    "name":"Shitty Lavender",
     "author":"sincos",
     "id":83385866,
     "percentToQualify":100,
