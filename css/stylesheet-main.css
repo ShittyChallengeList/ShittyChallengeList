@@ -13,7 +13,7 @@ header{
   width: 100%;
   height: 6.25em;
 	max-height: 25%;
-  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center, ;
+  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
