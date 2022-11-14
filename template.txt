@@ -11,11 +11,11 @@
 			"name": "Name",
 			"author": "Author",
 			"more": "none",
+			"desc": ""
 			"id": id,
 			"pass": "pass",
 			"percentToQualify": percentToQualify,
 			"verificationVid": "vidLink",
-			"desc": ""
 			"phacked": false
 			"hacked": false
 		},
