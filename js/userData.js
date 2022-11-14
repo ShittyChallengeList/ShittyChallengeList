@@ -107,7 +107,11 @@ function getUserData(user) {
             'Best Record : '+user_data[user].highest+'<br>'+
             'Completed Levels : '+clears+' Level(s)<br>'+
             '<br>Record List : '+progresses+'<br>'+
-            '</strong></center>'
+            '</strong></center>',
+        color: "white",
+        background:
+        "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
+        confirmButtonColor: "#223158"
     });
 
 }

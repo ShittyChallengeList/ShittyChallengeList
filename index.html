@@ -49,9 +49,8 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
 	<script type='text/javascript' src="js/jquery-3.2.1.min.js">
 
 	</script>
-	<script type='text/javascript' src="js/sweetalert.min.js">
-
-	</script>
+	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="sweetalert2.all.min.js"></script>
 	<script type='text/javascript' src="js/list.js">
 
 	</script>
@@ -122,13 +121,13 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
                 <br>
                   <b class="StaffRole">List Moderators</b>
                 <br>
-                	<a href="https://www.youtube.com/channel/UCMgmMN55bpzlWfvBcPzrLGQ">Brooke</a>
+                	<a target="_blank" href="https://www.youtube.com/channel/UCMgmMN55bpzlWfvBcPzrLGQ">Brooke</a>
                 <br>
                   <b class="StaffRole">List Helpers</b>
 				<br>
-					<a href="#">BlizzardLaZario</a>
+					<a target="_blank" href="#">BlizzardLaZario</a>
 				<br>
-					<a href="https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw">Willow</a>
+					<a target="_blank" href="https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw">Willow</a>
                 
 
                 </div>
@@ -166,7 +165,7 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
             <hr>
             <div id="user-rank-info">
 				<!-- honestly I have no fucking clue why this exists -->
-                <style type='text/css'>
+                <!-- <style type='text/css'>
                 A:link {
                     color: black;
                     text-decoration: none;
@@ -187,7 +186,7 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
                     text-decoration: none;
                 }
                 /* 마우스 링크 위 올려 놓았을때 */
-                </style>
+                </style> -->
                 <center><strong>User Score List</strong></center>
                 <div id="user-rank"></div>
             </div>
@@ -266,7 +265,7 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
     }
     function getAuthors(rank) {
         Swal.fire({
-            html: list[rank - 1].more + '.'
+            html: list[rank - 1].more + '.',
         });
     }
     var rank_node = $("#user-rank");
@@ -430,10 +429,17 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
       	$("#CopyID").on('click', (e) => {
         	navigator.clipboard.writeText($("#CopyID").text());
 			Swal.fire({
+                icon: 'success',
 				titleText: 'Copied!',
-				icon: 'success',
 				text: 'Level ID has been copied to clipboard!',
-				confirmButtonText: 'Ok'
+                color: "white",
+                background:
+                "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
+                toast: true,
+                timer: 2000,
+                timerProgressBar: true,
+                position: "top",
+                showConfirmButton: false
 			});
       	});
     };

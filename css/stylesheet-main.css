@@ -1,7 +1,18 @@
 *{
   font-family: 'Mukta Mahee', sans-serif;
 }
-
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: rgba(0, 0, 0, 0.5) !important;
+  text-decoration: none;
+}
 body {
 	height: 100vh;
 	margin: 0;
@@ -111,37 +122,14 @@ header{
 
 #DiscordEmbed {
 	text-align: center;
+  box-shadow: 0 0 15px black;
 }
 
-/*Player Records List thingy (why is this so confusing to deco)*/
-Swal{
-  color: rgb(255, 255, 255) !important;
-}
-.swal2-popup .swal2-title {
-  color: rgb(255, 255, 255) !important;
-}
-.swal2-popup .swal2-content {
-  color: rgb(255, 255, 255) !important;
-}
+/*Player Records List thingy (why is this so confusing to deco)
+(it's not past me you were just dumb)*/
 .swal2-popup {
-  background: linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%) !important;
-  border: solid 3px rgb(255, 255, 255);
-  border-radius: 2rem;
-}
-.swal2-popup A:link{
-  color: white !important;
-}
-.swal2-popup A:visited{
-  color: white !important;
-}
-.swal2-popup A:hover{
-  color: rgba(167, 174, 204, 0.7) !important;
-}
-.swal2-popup .swal2-styled.swal2-confirm {
-  background-color: #223158 !important;
-}
-.swal2-popup .swal2-styled.swal2-confirm:hover {
-  background-color: #3c579b !important;
+  border-radius: 1em !important;
+  box-shadow: 0 0 15px black;
 }
 
 /*Middle panel with all the important stuff*/
