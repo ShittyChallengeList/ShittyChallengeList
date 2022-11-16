@@ -1,23 +1,23 @@
-    /*=============================================================================*/
+/*=============================================================================*/
 {
-			"vids": [
-      {
-					"user": "None",
-					"link": "",
-					"percent": (percent),
-					"hz": ""
-        },  
-],        
-			"name": "Name",
-			"author": "Author",
-			"more": "none",
-			"desc": ""
-			"id": id,
-			"pass": "pass",
-			"percentToQualify": percentToQualify,
-			"verificationVid": "vidLink",
-			"phacked": false
-			"hacked": false
-		},
-
+	"vids": [
+		{
+			"user": "None",
+			"link": "",
+			"percent": (percent),
+			"hz": ""
+		},  
+	],        
+	"name": "Name",
+	"author": "Author",
+	"more": "none",
+	"desc": "",
+	"id": Number,
+	"pass": Number,
+	"percentToQualify": Number,
+	"verificationVid": "vidLink",
+	"phacked": false,
+	"hacked": false
+},
+/*=============================================================================*/
 Hi -gayass
