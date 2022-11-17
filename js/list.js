@@ -565,6 +565,12 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
+        {
+          "user":"Dipper552",
+          "link":"https://www.youtube.com/watch?v=5P9_5L6Psyo",
+          "percent":100,
+          "hz":"144hz",
+        },
       ],
       "name":"Shitty Tartarus",
       "author":"Dreamzzy",
@@ -1478,6 +1484,12 @@ const d =  {
           "percent":100,
           "hz":"360hz"
         },
+        {
+          "user": "boylighty",
+          "link": "https://www.youtube.com/watch?v=KcZV65whkf4",
+          "percent":100,
+          "hz":"144hz"
+        },
       ],
       "name":"Shitty Crystalline",
       "author": "Dipper552",
@@ -1557,6 +1569,12 @@ const d =  {
           "link":"https://youtu.be/chHAfw4Qjo4",
           "percent":100,
           "hz":"300hz",
+        },
+        {
+          "user":"Dipper552",
+          "link":"https://www.youtube.com/watch?v=wWqotURepHw",
+          "percent":100,
+          "hz":"144hz",
         },
 
       ],
@@ -1776,6 +1794,12 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
+        {
+          "user":"Dipper552",
+          "link":"https://www.youtube.com/watch?v=Anpw-HBckTg",
+          "percent":100,
+          "hz":"144hz",
+        },
         ],
     "name":"Shitty Nauru",
     "author":"Vinny",
@@ -1863,6 +1887,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=IFLwcfBF17Y",
           "percent":100,
           "hz":"360hz",
+        },
+      {
+          "user":"Dipper552",
+          "link":"https://www.youtube.com/watch?v=3SHgkTAYunw",
+          "percent":100,
+          "hz":"144hz",
         },
     ],
     "name":"Shitty SBC",
@@ -2653,6 +2683,12 @@ const d =  {
         "link": "https://youtu.be/H3vykIvpKlo",
         "percent":100,
         "hz":"300hz"
+      },
+        {
+        "user": "Dipper552",
+        "link": "https://www.youtube.com/watch?v=_0g7Jr0oYW4",
+        "percent":100,
+        "hz":"144hz"
       },
     ],
 			"name": "Shitty Africa Chamber",
