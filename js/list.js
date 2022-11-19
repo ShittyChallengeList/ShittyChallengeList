@@ -1998,6 +1998,12 @@ const d =  {
 /*=============================================================================*/
 {
     "vids":[
+{
+        "user":"Bander",
+        "link":"https://www.youtube.com/watch?v=T4r7eiIgfIM",
+        "percent":"100",
+        "hz":"165hz",
+        },
 
     ],
     "name":"Shitty Yoshi Island",
@@ -2689,6 +2695,12 @@ const d =  {
         "link": "https://www.youtube.com/watch?v=_0g7Jr0oYW4",
         "percent":100,
         "hz":"144hz"
+      },
+{
+        "user": "ItsASandyXD",
+        "link": "https://www.youtube.com/watch?v=Pd_tje4DTTA",
+        "percent":100,
+        "hz":"240hz"
       },
     ],
 			"name": "Shitty Africa Chamber",
