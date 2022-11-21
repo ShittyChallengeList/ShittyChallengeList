@@ -12,7 +12,7 @@ The website isnt loading! What can I do?
 - since no webhost is perfect, downtime is expected. you can either wait until the website is back online or you can do some behind the scene stuff and run it locally.
 ---
 ### List FAQ
-How long will my record take to get accepted? 
+How long will my record take to get accepted?
 - Currently our staff is VERY INACTIVE so it'll take like a week lol
 
 What's an easy way to prove I don't hack?
@@ -36,18 +36,20 @@ More Coming Soon!
 - Aneko
 ---
 ## List Admins:
-- 
+- KylashTheKiller
 ---
 ## List Moderators:
 - Achlys
 - Brooke
----
-## List Helpers:
 - BlizzardLaZario
-- Willow
 ---
 ## Server Administrators:
 - Ludwig Drums
+---
+## Server Moderators:
+- Jasker
+- Quacky
+- Pudgy
 ---
 ## Repo Maintainers:
 - KrisGra
