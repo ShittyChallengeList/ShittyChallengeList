@@ -226,6 +226,12 @@ const d =  {
        "percent":100,
        "hz":"180hz"
      },
+     {
+      "user": "toonm",
+      "link": "https://cdn.discordapp.com/attachments/689277621959262268/1044343209750441984/Geometry_Dash_2022.11.21_-_13.34.00.02.DVR_Trim.mp4",
+      "percent":100,
+      "hz":"288hz"
+    },
    ],        
    "name": "Shitty Steak Lung X",
    "author": "Jasker [Charlotte]",
@@ -357,6 +363,12 @@ const d =  {
           "link": "https://youtu.be/oTBP104tBho",
           "percent":100,
           "hz":"144hz"
+        },
+        {
+          "user":"toonm",
+          "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044369184177528862/Geometry_Dash_2022.11.21_-_16.49.15.06.DVR_Trim.mp4",
+          "percent":100,
+          "hz":"288hz",
         },
       ],
       "name":"Shitty Sprite People",
@@ -576,6 +588,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=5P9_5L6Psyo",
           "percent":100,
           "hz":"144hz",
+        },
+        {
+          "user":"toonm",
+          "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044343736081064008/Geometry_Dash_2022.11.21_-_14.33.47.03.DVR_Trim.mp4",
+          "percent":100,
+          "hz":"288hz",
         },
       ],
       "name":"Shitty Tartarus",
