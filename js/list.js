@@ -261,6 +261,12 @@ const d =  {
           "percent":100,
           "hz":"144hz"
         },
+	      {
+          "user": "mist3red",
+          "link": "https://www.youtube.com/watch?v=MrhXgGxgV98",
+          "percent":100,
+          "hz":"225hz"
+        },
       ],
       "name": "Shitty Flutterwonder",
       "author": "Strix [KSol72]",
