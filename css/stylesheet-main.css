@@ -18,7 +18,7 @@ body {
 	margin: 0;
 }
 header{
-  position: relative;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -34,13 +34,6 @@ header{
   left: 30px;
   font-size: 2em;
   text-shadow: -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px -1px 0 rgb(255, 255, 255);
-}
-
-#head{
-  position: fixed;
-  top: 53px;
-  left: 40px;
-  font-size: 0.9em;
 }
 
 #pc-link A {
