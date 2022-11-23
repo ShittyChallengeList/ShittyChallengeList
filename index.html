@@ -261,7 +261,7 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
             point_rank = rank;
         }
         hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 150) {
+        if (rank > 75) {
             return 0;
         } else {
             var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
