@@ -35,6 +35,11 @@ header{
   font-size: 2em;
   text-shadow: -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px -1px 0 rgb(255, 255, 255);
 }
+#head {
+  position: fixed;
+  top: 50px;
+  left: 40px;
+}
 
 #pc-link A {
   color: rgb(162, 171, 255) !important;
