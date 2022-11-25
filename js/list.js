@@ -237,12 +237,6 @@ const d =  {
       "percent":100,
       "hz":"288hz"
     },
-    {
-       "user": "toon",
-       "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
-       "percent":100,
-       "hz":"288hz"
-     },
    ],        
    "name": "Shitty Steak Lung X",
    "author": "Jasker [Charlotte]",
