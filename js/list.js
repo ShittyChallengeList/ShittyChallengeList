@@ -129,7 +129,7 @@ const d =  {
 /*=============================================================================*/
 {
       "vids":[
-          { 
+{
           "user": "toon",
           "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent": 100,
@@ -234,6 +234,12 @@ const d =  {
      {
       "user": "toonm",
       "link": "https://cdn.discordapp.com/attachments/689277621959262268/1044343209750441984/Geometry_Dash_2022.11.21_-_13.34.00.02.DVR_Trim.mp4",
+      "percent":100,
+      "hz":"288hz"
+    },
+{
+      "user": "toon",
+      "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
       "percent":100,
       "hz":"288hz"
     },
@@ -369,17 +375,17 @@ const d =  {
           "percent":100,
           "hz":"144hz"
         },
-        {
-          "user":"toonm",
-          "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044369184177528862/Geometry_Dash_2022.11.21_-_16.49.15.06.DVR_Trim.mp4",
+{
+          "user": "toon",
+          "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
-          "hz":"288hz",
+          "hz":"288hz"
         },
-        {
-          "user":"arielus05",
-          "link":"https://www.youtube.com/watch?v=dqTMukavVOM",
+{
+          "user": "arielus05",
+          "link": "https://www.youtube.com/watch?v=dqTMukavVOM",
           "percent":100,
-          "hz":"144hz",
+          "hz":"144hz"
         },
       ],
       "name":"Shitty Sprite People",
@@ -555,9 +561,9 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
-        {
+{
           "user":"arielus05",
-          "link":"https://medal.tv/games/geometry-dash/clips/JFRDssUiZx7PR/d1337CR5dxRPw",
+          "link":"https://medal.tv/games/geometry-dash/clips/JFRDssUiZx7PR/d1337CR5dxRP",
           "percent":100,
           "hz":"144hz",
         },
@@ -609,6 +615,12 @@ const d =  {
         {
           "user":"toonm",
           "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044343736081064008/Geometry_Dash_2022.11.21_-_14.33.47.03.DVR_Trim.mp4",
+          "percent":100,
+          "hz":"288hz",
+        },
+{
+          "user":"toon",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
           "hz":"288hz",
         },
@@ -791,11 +803,11 @@ const d =  {
           "percent":100,
           "hz":"240hz",
         },
-        {
+{
           "user":"arielus05",
           "link":"https://www.youtube.com/watch?v=MFpHN4crzGc",
           "percent":100,
-          "hz":"144hz",
+          "hz":"144hz", 
         },
       ],
       "name":"Shitty Virulent Verge",
@@ -983,7 +995,7 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
-        {
+{
           "user":"toon",
           "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
@@ -1267,11 +1279,11 @@ const d =  {
 {
   "vids":[
 {
-       "user": "arielus05",
-       "link": "https://medal.tv/games/geometry-dash/clips/JHglZytckuJQl/d1337JfudesP",
-       "percent":100,
-       "hz":"144hz"
-     },
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JHglZytckuJQl/d1337JfudesP?invite=cr-MSxPMHksMzQzNDU2Mjks",
+          "percent":100,
+          "hz":"144hz",
+        },
   ],
   "name":"Shitty Temporal",
   "author": "phvmes [boardhunter123]",
@@ -1407,13 +1419,13 @@ const d =  {
           "link":"https://m.youtube.com/watch?v=XyYRS764rjY&feature=youtu.be",
           "percent":100,
           "hz":"240hz",
-        }
-        {
+        },
+{
           "user":"arielus05",
           "link":"https://medal.tv/games/geometry-dash/clips/JBPT2qSzm_Mzt/d1337gs0cGwe",
-          "percent":100,
+          "percent":"100",
           "hz":"144hz",
-        }
+        },
       ],
       "name":"Shitty Goodbye Moonmen",
       "author":"OverfluxQT [KSol72]",
@@ -1559,7 +1571,7 @@ const d =  {
           "percent":100,
           "hz":"144hz"
         },
-        {
+{
           "user": "arielus05",
           "link": "https://medal.tv/games/geometry-dash/clips/JGOuuJeFHgX0r/d1337m2SS1SE",
           "percent":100,
@@ -2079,7 +2091,7 @@ const d =  {
         "percent":"100",
         "hz":"165hz",
         },
-        {
+{
         "user":"arielus05",
         "link":"https://medal.tv/games/geometry-dash/clips/JFAzs95c1-MTw/d13378eAlMgQ",
         "percent":"100",
@@ -2167,7 +2179,7 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
-        {
+{
           "user":"arielus05",
         "link":"https://medal.tv/games/geometry-dash/clips/JFiyAKIvC_vZ0/d1337pGamoab",
           "percent":100,
@@ -2443,15 +2455,15 @@ const d =  {
         "percent":100,
         "hz":"360hz",
       },
-      {
-        "user":"toon",
-        "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
-        "percent":100,
-        "hz":"288hz",
-      },
-      {
+{
+          "user":"toon",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+          "percent":100,
+          "hz":"288hz",
+        },
+{
         "user":"arielus05",
-        "link":"https://medal.tv/games/geometry-dash/clips/JBGMrFzqQUrPM/d1337tanYzla?invite=cr-MSxlTnMsMzQzNDU2Mjks",
+        "link":"https://medal.tv/games/geometry-dash/clips/JBGMrFzqQUrPM/d1337tanYzla",
         "percent":100,
         "hz":"144hz",
       },
@@ -2640,7 +2652,7 @@ const d =  {
           "percent":100,
           "hz":"180hz",
         },
-        {
+{
           "user":"toon",
           "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
@@ -2804,6 +2816,12 @@ const d =  {
         "link": "https://www.youtube.com/watch?v=Pd_tje4DTTA",
         "percent":100,
         "hz":"240hz"
+      },
+{
+        "user": "toon",
+        "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
+        "percent":100,
+        "hz":"288hz"
       },
 ],
       "name":"Shitty Africa Chamber",
