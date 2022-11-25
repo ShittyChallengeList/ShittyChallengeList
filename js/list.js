@@ -2104,7 +2104,6 @@ const d =  {
         "percent":"100",
         "hz":"144hz",
         },
-
     ],
     "name":"Shitty Yoshi Island",
     "author":"Wyatt_GD",
@@ -2463,7 +2462,7 @@ const d =  {
         "percent":100,
         "hz":"360hz",
       },
-{
+      {
         "user":"toon",
         "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
         "percent":100,
@@ -2471,7 +2470,7 @@ const d =  {
       },
 {
         "user":"arielus05",
-        "link":"https://medal.tv/games/geometry-dash/clips/JBGMrFzqQUrPM/d1337tanYzla",
+        "link":"https://medal.tv/games/geometry-dash/clips/JBGMrFzqQUrPM/d1337tanYzla?invite=cr-MSxlTnMsMzQzNDU2Mjks",
         "percent":100,
         "hz":"144hz",
       },
@@ -2661,7 +2660,7 @@ const d =  {
           "percent":100,
           "hz":"180hz",
         },
-{
+        {
           "user":"toon",
           "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
