@@ -129,12 +129,12 @@ const d =  {
 /*=============================================================================*/
 {
       "vids":[
-{ 
+          { 
           "user": "toon",
           "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent": 100,
           "hz": "288hz"
-        }
+        },
       ],
     "name":"Shitty Shitty",
     "author": "itsAneko",
