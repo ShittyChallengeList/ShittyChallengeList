@@ -237,12 +237,12 @@ const d =  {
       "percent":100,
       "hz":"288hz"
     },
-{
-      "user": "toon",
-      "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
-      "percent":100
-      "hz":"288hz"
-    },
+    {
+       "user": "toon",
+       "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
+       "percent":100,
+       "hz":"288hz"
+     },
    ],        
    "name": "Shitty Steak Lung X",
    "author": "Jasker [Charlotte]",
@@ -381,13 +381,7 @@ const d =  {
           "percent":100,
           "hz":"288hz",
         },
-{
-          "user":"toon",
-          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
-          "percent":100,
-          "hz":"288hz",
-        },
-{
+        {
           "user":"arielus05",
           "link":"https://www.youtube.com/watch?v=dqTMukavVOM",
           "percent":100,
@@ -624,12 +618,6 @@ const d =  {
           "percent":100,
           "hz":"288hz",
         },
-{
-          "user":"toon",
-          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
-          "percent":100,
-          "hz":"288hz",
-        },
       ],
       "name":"Shitty Tartarus",
       "author":"Dreamzzy",
@@ -809,7 +797,7 @@ const d =  {
           "percent":100,
           "hz":"240hz",
         },
-{
+        {
           "user":"arielus05",
           "link":"https://www.youtube.com/watch?v=MFpHN4crzGc",
           "percent":100,
@@ -1001,7 +989,7 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
-{
+        {
           "user":"toon",
           "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
@@ -1033,13 +1021,12 @@ const d =  {
  /*=============================================================================*/
 {
     "vids":[
-      {
+        {
           "user":"Toon",
           "link":"https://www.youtube.com/watch?v=Z-MXeV62LxE",
           "percent":100,
           "hz":"360hz",
         },
-
     ],
     "name":"Shitty Wave Challenge Yossa",
     "author":"TheRandomStuff",
@@ -1427,7 +1414,7 @@ const d =  {
           "percent":100,
           "hz":"240hz",
         }
-{
+        {
           "user":"arielus05",
           "link":"https://medal.tv/games/geometry-dash/clips/JBPT2qSzm_Mzt/d1337gs0cGwe",
           "percent":100,
@@ -1578,7 +1565,7 @@ const d =  {
           "percent":100,
           "hz":"144hz"
         },
-{
+        {
           "user": "arielus05",
           "link": "https://medal.tv/games/geometry-dash/clips/JGOuuJeFHgX0r/d1337m2SS1SE",
           "percent":100,
@@ -2092,13 +2079,13 @@ const d =  {
 /*=============================================================================*/
 {
     "vids":[
-{
+        {
         "user":"Bander",
         "link":"https://www.youtube.com/watch?v=T4r7eiIgfIM",
         "percent":"100",
         "hz":"165hz",
         },
-{
+        {
         "user":"arielus05",
         "link":"https://medal.tv/games/geometry-dash/clips/JFAzs95c1-MTw/d13378eAlMgQ",
         "percent":"100",
@@ -2186,7 +2173,7 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
-{
+        {
           "user":"arielus05",
         "link":"https://medal.tv/games/geometry-dash/clips/JFiyAKIvC_vZ0/d1337pGamoab",
           "percent":100,
@@ -2468,7 +2455,7 @@ const d =  {
         "percent":100,
         "hz":"288hz",
       },
-{
+      {
         "user":"arielus05",
         "link":"https://medal.tv/games/geometry-dash/clips/JBGMrFzqQUrPM/d1337tanYzla?invite=cr-MSxlTnMsMzQzNDU2Mjks",
         "percent":100,
@@ -2585,8 +2572,7 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
-      ],
-			  
+      ],	  
       "name":"Shitty I Suppose",
       "author":"Jasker",
       "id":73075396,
@@ -2819,7 +2805,7 @@ const d =  {
         "percent":100,
         "hz":"144hz"
       },
-{
+      {
         "user": "ItsASandyXD",
         "link": "https://www.youtube.com/watch?v=Pd_tje4DTTA",
         "percent":100,
@@ -3123,7 +3109,6 @@ const d =  {
         "hz":"144hz",
         },
       ],
-            
       "name":"Shitty QHC",
       "author":"RoboJesus [KSol72]",
       "id":71956180,
