@@ -567,7 +567,7 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
-{
+        {
           "user":"arielus05",
           "link":"https://medal.tv/games/geometry-dash/clips/JFRDssUiZx7PR/d1337CR5dxRPw",
           "percent":100,
