@@ -2825,15 +2825,13 @@ const d =  {
         "percent":100,
         "hz":"240hz"
       },
-    ],
-			"name": "Shitty Africa Chamber",
-			"author": "wShedd",
-			"more": "none",
-			"id": 77478705,
-			"pass": "pass",
-			"percentToQualify": 100,
-			"verificationVid": "https://youtu.be/wOXvyeIthIc",
-		},
+],
+      "name":"Shitty Africa Chamber",
+      "author":"wShedd",
+      "id":77478705,
+      "percentToQualify":100,
+      "verificationVid":"https://www.youtube.com/watch?v=wOXvyeIthIc",
+    },
 /*=============================================================================*/
           {
       "vids":[
