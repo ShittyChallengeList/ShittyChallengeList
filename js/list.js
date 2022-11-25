@@ -129,7 +129,12 @@ const d =  {
 /*=============================================================================*/
 {
       "vids":[
-
+{ 
+          "user": "toon",
+          "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
+          "percent": 100,
+          "hz": "288hz"
+        }
       ],
     "name":"Shitty Shitty",
     "author": "itsAneko",
@@ -230,6 +235,12 @@ const d =  {
       "user": "toonm",
       "link": "https://cdn.discordapp.com/attachments/689277621959262268/1044343209750441984/Geometry_Dash_2022.11.21_-_13.34.00.02.DVR_Trim.mp4",
       "percent":100,
+      "hz":"288hz"
+    },
+{
+      "user": "toon",
+      "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
+      "percent":100
       "hz":"288hz"
     },
    ],        
@@ -369,6 +380,18 @@ const d =  {
           "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044369184177528862/Geometry_Dash_2022.11.21_-_16.49.15.06.DVR_Trim.mp4",
           "percent":100,
           "hz":"288hz",
+        },
+{
+          "user":"toon",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+          "percent":100,
+          "hz":"288hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://www.youtube.com/watch?v=dqTMukavVOM",
+          "percent":100,
+          "hz":"144hz",
         },
       ],
       "name":"Shitty Sprite People",
@@ -544,6 +567,12 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JFRDssUiZx7PR/d1337CR5dxRPw",
+          "percent":100,
+          "hz":"144hz",
+        },
       ],
       "name":"Shitty Flyers",
       "author":"Strix [Magic]",
@@ -592,6 +621,12 @@ const d =  {
         {
           "user":"toonm",
           "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044343736081064008/Geometry_Dash_2022.11.21_-_14.33.47.03.DVR_Trim.mp4",
+          "percent":100,
+          "hz":"288hz",
+        },
+{
+          "user":"toon",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
           "hz":"288hz",
         },
@@ -773,6 +808,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=L2qiA3QcSMU",
           "percent":100,
           "hz":"240hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://www.youtube.com/watch?v=MFpHN4crzGc",
+          "percent":100,
+          "hz":"144hz",
         },
       ],
       "name":"Shitty Virulent Verge",
@@ -959,6 +1000,12 @@ const d =  {
           "link":"https://youtu.be/s5eYxige4p0?t=117",
           "percent":100,
           "hz":"360hz",
+        },
+{
+          "user":"toon",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+          "percent":100,
+          "hz":"288hz",
         },
       ],
       "name":"Shitty SBM",
@@ -1152,7 +1199,12 @@ const d =  {
 /*=============================================================================*/
 {
     "vids":[
-
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JFZLHllC8-GOU/d1337wLC2Gqe",
+          "percent":100,
+          "hz":"144hz",
+        },
     ],
     "name":"Shitty Personal Challenge X",
     "author": "toon",
@@ -1233,6 +1285,12 @@ const d =  {
 /*=============================================================================*/
 {
   "vids":[
+{
+       "user": "arielus05",
+       "link": "https://medal.tv/games/geometry-dash/clips/JHglZytckuJQl/d1337JfudesP",
+       "percent":100,
+       "hz":"144hz"
+     },
   ],
   "name":"Shitty Temporal",
   "author": "phvmes [boardhunter123]",
@@ -1368,6 +1426,12 @@ const d =  {
           "link":"https://m.youtube.com/watch?v=XyYRS764rjY&feature=youtu.be",
           "percent":100,
           "hz":"240hz",
+        }
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JBPT2qSzm_Mzt/d1337gs0cGwe",
+          "percent":100,
+          "hz":"144hz",
         }
       ],
       "name":"Shitty Goodbye Moonmen",
@@ -1511,6 +1575,12 @@ const d =  {
         {
           "user": "boylighty",
           "link": "https://www.youtube.com/watch?v=KcZV65whkf4",
+          "percent":100,
+          "hz":"144hz"
+        },
+{
+          "user": "arielus05",
+          "link": "https://medal.tv/games/geometry-dash/clips/JGOuuJeFHgX0r/d1337m2SS1SE",
           "percent":100,
           "hz":"144hz"
         },
@@ -2028,6 +2098,12 @@ const d =  {
         "percent":"100",
         "hz":"165hz",
         },
+{
+        "user":"arielus05",
+        "link":"https://medal.tv/games/geometry-dash/clips/JFAzs95c1-MTw/d13378eAlMgQ",
+        "percent":"100",
+        "hz":"144hz",
+        },
 
     ],
     "name":"Shitty Yoshi Island",
@@ -2108,6 +2184,12 @@ const d =  {
         {
           "user":"Dipper552",
         "link":"https://www.youtube.com/watch?v=ZY5VzlQMbjc",
+          "percent":100,
+          "hz":"144hz",
+        },
+{
+          "user":"arielus05",
+        "link":"https://medal.tv/games/geometry-dash/clips/JFiyAKIvC_vZ0/d1337pGamoab",
           "percent":100,
           "hz":"144hz",
         },
@@ -2381,6 +2463,18 @@ const d =  {
         "percent":100,
         "hz":"360hz",
       },
+{
+        "user":"toon",
+        "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+        "percent":100,
+        "hz":"288hz",
+      },
+{
+        "user":"arielus05",
+        "link":"https://medal.tv/games/geometry-dash/clips/JBGMrFzqQUrPM/d1337tanYzla",
+        "percent":100,
+        "hz":"144hz",
+      },
     ],
     "name":"Shitty D",
     "author":"Godsnom",
@@ -2566,6 +2660,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=f1X-KyyT0F0",
           "percent":100,
           "hz":"180hz",
+        },
+{
+          "user":"toon",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+          "percent":100,
+          "hz":"288hz",
         },
     ],
     "name":"Shitty Yubin",
