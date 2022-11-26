@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <html lang="en-US">
-
 <head>
 	<title>Shitty Challenge List</title>
 	<meta name="google-site-verification" content="RxbHA1Ep11OdrI6KhJpCdvb7YHX5GQs9vrbLFS64UTc" />
@@ -21,46 +21,19 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
 	<link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
 	<link href="css/stylesheet-main.css" type="text/css" rel="stylesheet">
 	<link rel="shortcut icon" href="https://gdbrowser.com/assets/trophy2.png" type="image/x-icon">
-<!-- this code is so messy I do not have the patience to deal with this rn TODO: make it so icon works
-	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-	<script src="sweetalert2.all.min.js"></script>
-
-	//the old copy to clipboard code (sucks)
-    <script defer>
-		const copyToClipboard = str => {
-			const el = document.createElement('textarea');
-			el.value = document.getElementById("CopyID").innerHTML;
-			el.setAttribute('readonly', '');
-			document.body.appendChild(el);
-			el.select();
-			document.execCommand('copy');
-			Swal.fire({
-				titleText: 'Copied!',
-				icon: 'success',
-				text: 'Level ID has been copied to clipboard!',
-				confirmButtonText: 'Ok'
-			});
-			document.body.removeChild(el);
-		};
-    </script> -->
 </head>
 
 <body>
-	<script type='text/javascript' src="js/jquery-3.2.1.min.js">
-
-	</script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js"></script>
 	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-  <script src="sweetalert2.all.min.js"></script>
-	<script type='text/javascript' src="js/list.js">
+    <script src="sweetalert2.all.min.js"></script>
 
-	</script>
-	<script type='text/javascript' src="js/userData.js">
-
-	</script>
+	<script type='text/javascript' src="js/list.js"></script>
+	<script type='text/javascript' src="js/userData.js"></script>
 
 		<header id="dl-header">
 			<div id="sitename">
-				<!--<img src="https://discord.gg/q8N3VtMg4T" alt="" width="60" height="60">--><strong>
+				<strong>
 					Shitty Challenge List
 				<small>
 					<em id="version-node"></em>
@@ -104,7 +77,7 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
         </div>
         <div id="additional-information">
             <div id="inner-right-info">
-                <div id="FormHelp"><strong>Have a record to submit? Submit it <u><a id="FormLink" target="_blank" href="https://forms.gle/2rH2rLiBnmhJbjGa9">HERE</a></u></strong></div>
+                <div id="FormHelp"><strong><u><a id="FormLink" target="_blank" href="https://forms.gle/2rH2rLiBnmhJbjGa9">Submit your record here</a></u></strong></div>
 
                 <div class="StaffList">
 
@@ -156,9 +129,6 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
 												<li><i><b>- <u style="color: rgb(255, 64, 80);">LEGACY LIST RECORDS ARE NOT ACCPETED !!!</u></b></i></li>
                     </ul>
                 </div> 
-				<div id="DiscordEmbed">
-					<iframe src="https://discord.com/widget?id=944699617939968050&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-				</div>
                     <!-- <p>
                     Changelog:
                     <br>
@@ -412,7 +382,7 @@ content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041
             $("#leveldescription").text(entry.desc);
             $("#levelvid").empty();
             if (entry.verificationVid !== null && entry.verificationVid !== "") {
-                $("#levelvid").html(`<hr><iframe class="vid" height="47%" src="https://www.youtube.com/embed/${entry.verificationVid}?rel=0" frameborder="0" allowfullscreen></iframe>`);
+                $("#levelvid").html(`<hr><iframe title="YouTube Video" class="vid" height="47%" src="https://www.youtube.com/embed/${entry.verificationVid}?rel=0" frameborder="0" allowfullscreen></iframe>`);
             }
             $("#levelqualify").text(entry.percentToQualify + "% to Qualify");
             $("#records-score").html(`<strong>Points when completed : ${getPoint(rank)}</strong>`);
