@@ -1599,7 +1599,12 @@ const d =  {
 /*=============================================================================*/
     {
       "vids":[
-
+{
+          "user": "arielus05",
+          "link": "https://medal.tv/games/geometry-dash/clips/JMgUdufc-Roqe/d1337gdvpbSH",
+          "percent":100,
+          "hz":"144hz"
+        },
       ],
       "name":"Shitty Vandal",
       "author": "phvmes",
@@ -2087,7 +2092,13 @@ const d =  {
         "percent":"100",
         "hz":"360hz",
         },
-      ],
+{
+        "user":"arielus05",
+        "link":"https://medal.tv/games/geometry-dash/clips/JMtSulqLuOd7_/d1337LNhgojl",
+        "percent":"100",
+        "hz":"144hz",
+        },
+
       "name":"Shitty Lost Sense",
       "author":"Strix",
       "id":71604167,
