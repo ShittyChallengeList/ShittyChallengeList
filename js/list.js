@@ -2098,7 +2098,7 @@ const d =  {
         "percent":"100",
         "hz":"144hz",
         },
-
+],
       "name":"Shitty Lost Sense",
       "author":"Strix",
       "id":71604167,
