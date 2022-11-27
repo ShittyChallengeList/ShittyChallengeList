@@ -1007,6 +1007,12 @@ const d =  {
           "percent":100,
           "hz":"288hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JZYdNsUg1WYQ3/d1337XSzTYUt",
+          "percent":100,
+          "hz":"144hz",
+        },
       ],
       "name":"Shitty SBM",
       "author":"MrBrainy555",
@@ -1280,6 +1286,12 @@ const d =  {
        "percent":100,
        "hz":"240hz"
      },
+{
+       "user": "arielus05",
+       "link": "https://medal.tv/games/geometry-dash/clips/JZFnAhF90hayZ/d1337gm2nUzS",
+       "percent":100,
+       "hz":"144hz"
+     },
       ],
       "name":"Shitty The Acro Challenge",
       "author":"Saturn",
@@ -1453,6 +1465,12 @@ const d =  {
         "percent":100,
         "hz":"360hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JNxYFNrZVvcl2/d1337rlo8naV",
+          "percent":100,
+          "hz":"144hz",
+        },
 ],        
 			"name": "Shitty Gary Harrison",
 			"author": "Godsnom [Scorpion]",
@@ -1492,6 +1510,12 @@ const d =  {
           "link": "https://youtu.be/s5eYxige4p0?t=144",
           "percent":100,
           "hz":"360hz"
+        },
+{
+          "user": "arielus05",
+          "link": "https://medal.tv/games/geometry-dash/clips/JZKSjvEaRNSIl/d1337qAEAAOr",
+          "percent":100,
+          "hz":"144hz"
         },
       ],
       "name":"Shitty SBB",
@@ -1680,6 +1704,12 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JZuIOCQ3fKIRM/d1337Zd7gLGc",
+          "percent":100,
+          "hz":"144hz",
+        },
 
       ],
       "name":"Shitty SGF",
@@ -1732,6 +1762,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=5rwzezVskuM",
           "percent":100,
           "hz":"240hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JNi9XpDpEcHLt/d1337qMxfZAF",
+          "percent":100,
+          "hz":"144hz",
         }, 
       ],
       "name":"Shitty Zeronium",
@@ -1796,6 +1832,12 @@ const d =  {
           "link":"https://www.youtube.com/watch?v=f1X-KyyT0F0",
           "percent":100,
           "hz":"180hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JZhEoykX0G-mx/d1337wuaXdWB",
+          "percent":100,
+          "hz":"144hz",
         },
 
       ],
@@ -1995,6 +2037,12 @@ const d =  {
       {
           "user":"Dipper552",
           "link":"https://www.youtube.com/watch?v=3SHgkTAYunw",
+          "percent":100,
+          "hz":"144hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JZ4ocrDHV59zJ/d1337Vp18acR",
           "percent":100,
           "hz":"144hz",
         },
@@ -2601,6 +2649,12 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JQ4JXLtpKoT2D/d1337xOfpJb9",
+          "percent":100,
+          "hz":"144hz",
+        },
       ],	  
       "name":"Shitty I Suppose",
       "author":"Jasker",
@@ -2763,6 +2817,12 @@ const d =  {
         "percent":100,
         "hz":"144hz"
       },
+{
+        "user": "arielus05",
+        "link": "https://medal.tv/games/geometry-dash/clips/JPYNLBeWVWx-a/d1337KUD87XW?invite=cr-MSw4czYsMzQzNDU2Mjks",
+        "percent":100,
+        "hz":"144hz"
+      },
       ],
 			  
       "name":"Shitty Wave Technic",
@@ -2845,6 +2905,12 @@ const d =  {
         "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
         "percent":100,
         "hz":"288hz"
+      },
+{
+        "user": "arielus05",
+        "link": "https://medal.tv/games/geometry-dash/clips/JPFholn3Ih0mj/d1337QxR7TcP",
+        "percent":100,
+        "hz":"144hz"
       },
 ],
       "name":"Shitty Africa Chamber",
@@ -3069,6 +3135,12 @@ const d =  {
           "link":"https://youtu.be/H9LU990m3CI",
           "percent":100,
           "hz":"360hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/JPSDqUO6LqsKS/d1337E8q4gVx",
+          "percent":100,
+          "hz":"144hz",
         },
       ],
       "name":"Shitty Vesivius",
