@@ -33,7 +33,6 @@ More Coming Soon!
 ---
 ## Owners:
 - Krisgra
-- Aneko
 ---
 ## List Admins:
 - KylashTheKiller
