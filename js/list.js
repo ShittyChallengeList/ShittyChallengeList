@@ -108,7 +108,12 @@ const d =  {
           "percent": 100,
           "hz": "144hz"
         },
-
+        {
+          "user":"toonm",
+          "link":"https://www.youtube.com/watch?v=RK5WomaCCoY",
+          "percent":100,
+          "hz":"288hz",
+        },
       ],
       "name":"Shitty Hysteric Night",
       "author":"ItsAneko [KrisGra]",
@@ -325,6 +330,12 @@ const d =  {
           "percent":100,
           "hz":"360hz"
         },
+        { 
+          "user":"arielus05",
+              "link":"https://medal.tv/games/geometry-dash/clips/Kdz9KPFs3aH3b/ZNqFO4s5nTBQ?theater=true",
+              "percent":100,
+              "hz":"144hz",
+            },
       ],
       "name":"Shitty Temple Of Seraph",
       "author":"Toxicysm [Magic]",
