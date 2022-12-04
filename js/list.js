@@ -109,7 +109,7 @@ const d =  {
           "hz": "144hz"
         },
         {
-          "user":"toonm",
+          "user":"toon",
           "link":"https://www.youtube.com/watch?v=RK5WomaCCoY",
           "percent":100,
           "hz":"288hz",
@@ -242,12 +242,6 @@ const d =  {
        "percent":100,
        "hz":"180hz"
      },
-     {
-      "user": "toonm",
-      "link": "https://cdn.discordapp.com/attachments/689277621959262268/1044343209750441984/Geometry_Dash_2022.11.21_-_13.34.00.02.DVR_Trim.mp4",
-      "percent":100,
-      "hz":"288hz"
-    },
 {
       "user": "toon",
       "link": "https://www.youtube.com/watch?v=wIWgieEreuE",
@@ -629,17 +623,17 @@ const d =  {
           "percent":100,
           "hz":"144hz",
         },
-        {
-          "user":"toonm",
-          "link":"https://cdn.discordapp.com/attachments/689277621959262268/1044343736081064008/Geometry_Dash_2022.11.21_-_14.33.47.03.DVR_Trim.mp4",
-          "percent":100,
-          "hz":"288hz",
-        },
 {
           "user":"toon",
           "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
           "percent":100,
           "hz":"288hz",
+        },
+{
+          "user":"Aura",
+          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+          "percent":100,
+          "hz":"360hz",
         },
       ],
       "name":"Shitty Tartarus",
@@ -2355,6 +2349,12 @@ const d =  {
           "percent":100,
           "hz":"240hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/KMuSDquhNZwXZ/gmR2zh63yxNt?invite=cr-MSxOenQsMzQzNDU2Mjks",
+          "percent":100,
+          "hz":"144hz",
+        },
       ],
       "name":"Shitty Deorum",
       "author":"nSquidward [Pudgy]",
@@ -2428,6 +2428,12 @@ const d =  {
         {
           "user":"Dipper552",
           "link":"https://www.youtube.com/watch?v=QY1DtTee5sI",
+          "percent":100,
+          "hz":"144hz",
+        },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/KMnqX9N5xP4RF/ZIAFFVYyTyo5?invite=cr-MSxIaFEsMzQzNDU2Mjks",
           "percent":100,
           "hz":"144hz",
         },
@@ -2999,6 +3005,12 @@ const d =  {
           "percent":100,
           "hz":"360hz",
         },
+{
+          "user":"arielus05",
+          "link":"https://medal.tv/games/geometry-dash/clips/KLU0TmLodlX5c/Qe7DMrBUtjJD?invite=cr-MSxsZ0ssMzQzNDU2Mjks",
+          "percent":100,
+          "hz":"144hz",
+        },
       ],
       "name":"Shitty Dissipate",
       "author":"Sydney",
@@ -3223,6 +3235,11 @@ const d =  {
         },
         { "user":"boylighty",
         "link":"https://www.youtube.com/watch?v=wwvN996_qQE",
+        "percent":100,
+        "hz":"144hz",
+        },
+        { "user":"arielus05",
+        "link":"https://medal.tv/games/geometry-dash/clips/KLAYKKBpEdXf9/LiwhgwwmdhzG?invite=cr-MSxxcDUsMzQzNDU2Mjks",
         "percent":100,
         "hz":"144hz",
         },
