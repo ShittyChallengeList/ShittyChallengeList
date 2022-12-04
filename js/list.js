@@ -631,7 +631,7 @@ const d =  {
         },
 {
           "user":"Aura",
-          "link":"https://www.youtube.com/watch?v=wIWgieEreuE",
+          "link":"https://www.youtube.com/watch?v=vf-9CuV8gZw",
           "percent":100,
           "hz":"360hz",
         },
