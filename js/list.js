@@ -21,6 +21,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "Draven",
+          link: "https://youtu.be/QjM6gsxSGS8",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty SADOMASOCHISM",
       author: "Jasker [Coakmuffer]",
@@ -30,7 +36,14 @@ const d = {
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Draven",
+          link: "https://youtu.be/9FjQ7dqFifo",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
       name: "Shitty Lavender",
       author: "sincos",
       id: 83385866,
@@ -51,6 +64,12 @@ const d = {
           link: "https://www.youtube.com/watch?v=djyPOYUANjs",
           percent: 100,
           hz: "240hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/oNJXnWcdXJI",
+          percent: 100,
+          hz: "360hz",
         },
       ],
       name: "Shitty Envenomed",
