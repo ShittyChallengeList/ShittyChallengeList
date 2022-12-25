@@ -133,6 +133,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "Toon",
+          link: "https://youtu.be/So4jwHGIjDk",
+          percent: 100,
+          hz: "288hz",
+        },
       ],
       name: "Shitty Distorted",
       author: "zPhysixX [Adqm GD]",
@@ -913,6 +919,18 @@ const d = {
           hz: "240hz",
         },
         {
+          user: "StolenBurrito",
+          link: "https://streamable.com/my7dvg",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Loumig",
+          link: "https://www.youtube.com/watch?v=nlYbmiJkvkY",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
           user: "Draven",
           link: "https://youtu.be/qQEUk-PQpdU",
           percent: 100,
@@ -1163,6 +1181,12 @@ const d = {
           link: "https://www.youtube.com/watch?v=MgHl8xjLek8",
           percent: 100,
           hz: "240hz",
+        },
+        {
+          user: "StolenBurrito",
+          link: "https://streamable.com/xy4qaf",
+          percent: 100,
+          hz: "360hz",
         },
       ],
       name: "Shitty I Love You",
@@ -1431,6 +1455,12 @@ const d = {
           hz: "240hz",
         },
         {
+          user: "yolodomo",
+          link: "https://www.youtube.com/watch?v=MtzbnoXf6JI",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
           user: "Draven",
           link: "https://youtu.be/11_oDjvD4M0",
           percent: 100,
@@ -1532,7 +1562,14 @@ const d = {
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Draven",
+          link: "https://youtu.be/PMsYceUJmbY",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
       name: "Shitty Sadism",
       author: "Godsnom [Krisgra]",
       id: 79749908,
@@ -2067,6 +2104,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/iQB4MByoauU",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "StolenBurrito",
+          link: "https://streamable.com/rjkhsh",
           percent: 100,
           hz: "360hz",
         },
@@ -3821,6 +3864,12 @@ const d = {
         {
           user: "matw",
           link: "https://youtube.com/shorts/vtXb13Bv80g?feature=share",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "Badagoo",
+          link: "https://www.youtube.com/watch?v=93zID5mEaZw",
           percent: 100,
           hz: "240hz",
         },
