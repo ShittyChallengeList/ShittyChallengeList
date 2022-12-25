@@ -273,6 +273,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "JoinMolten",
+          link: "https://youtu.be/a-VbGBG6ASs",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Craven Soul",
       author: "Jasker [Charlotte]",
@@ -304,6 +310,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/docwfAqAQmo",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "JoinMolten",
+          link: "https://youtu.be/aTFnTrN6vx8",
           percent: 100,
           hz: "360hz",
         },
@@ -764,6 +776,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/UQDN1ezyvUk",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "JoinMolten",
+          link: "https://youtu.be/KP24Ng1o7nM",
           percent: 100,
           hz: "360hz",
         },
