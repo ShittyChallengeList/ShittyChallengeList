@@ -564,6 +564,12 @@ const d = {
           percent: 100,
           hz: "Mobile",
         },
+        {
+          user: "Draven",
+          link: "https://youtu.be/ohRgCsxiP3A",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Kubik",
       author: "Zenmode",
@@ -764,7 +770,14 @@ const d = {
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Draven",
+          link: "https://youtu.be/AMDCbcUj4G0",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
       name: "Shitty Taco Redux",
       author: "Lunar79Au [Troy3]",
       id: 79210359,
