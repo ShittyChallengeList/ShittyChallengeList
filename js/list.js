@@ -2226,6 +2226,12 @@ const d = {
           percent: 100,
           hz: "240hz",
         },
+        {
+          user: "Draven",
+          link: "https://youtu.be/iejgScB7qgU",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty SGF",
       author: "Magic",
