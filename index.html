@@ -32,21 +32,14 @@
     <script type='text/javascript' src="js/list.js"></script>
     <script type='text/javascript' src="js/userData.js"></script>
 
-    <header id="dl-header">
+    <header>
         <div id="sitename">
-            <strong>
-                Shitty Challenge List
-                <small>
-                    <em id="version-node"></em>
-                </small>
-                <br>
-            </strong>
+            <img src="css\assets\SCLLogoText.png" height="78" width="163">
+            <p id="version-node"></p>
         </div>
-        <div id="head">
-            <p><i><b>how do I make this show up in google search</b></i></p>
-        </div>
-        <div id="pc-link"><a target="_blank" href="https://discord.gg/gN826WxqcG"><em><strong><u>Official
-                            Discord</u></strong></a></em></div>
+        <a id="pc-link" target="_blank" href="https://discord.gg/gN826WxqcG">
+            <img src="css\assets\discord-logo-white.svg">
+        </a>
     </header>
     <div id="list">
     </div>
@@ -81,8 +74,7 @@
     </div>
     <div id="additional-information">
         <div id="inner-right-info">
-            <div id="FormHelp"><strong><u><a id="FormLink" target="_blank"
-                            href="https://forms.gle/2rH2rLiBnmhJbjGa9">Submit your record here</a></u></strong></div>
+            <div id="FormHelp"><a target="_blank" href="https://forms.gle/2rH2rLiBnmhJbjGa9">Submit your record here</a></div>
 
             <div class="StaffList">
 
@@ -416,8 +408,7 @@
                 navigator.clipboard.writeText($("#CopyID").text());
                 Swal.fire({
                     icon: 'success',
-                    titleText: 'Copied!',
-                    text: 'Level ID has been copied to clipboard!',
+                    text: 'Level ID copied!',
                     color: "white",
                     background:
                         "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
