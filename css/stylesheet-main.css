@@ -46,7 +46,20 @@ header{
   font-style: italic;
   text-shadow: -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px -1px 0 rgb(255, 255, 255);
 }
-
+#header-links {
+  display: flex;
+  gap: 1.25em;
+}
+#FormHelp{
+  text-align: center;
+  border: 2px solid;
+  padding: 0.5em 1em;
+  background-color: rgb(31, 34, 53);
+  border-radius: 1em;
+  color:#7e9cff !important;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
 #pc-link {
   position: relative;
   text-align: right;
@@ -116,15 +129,6 @@ header{
   align-items: center;
   gap: 2rem;
   padding: 1em;
-}
-#FormHelp{
-  text-align: center;
-  border: 2px dashed;
-  padding: 1em;
-  background-color: rgb(31, 34, 53);
-  border-radius: 0.5em;
-  width: 75%;
-  color:#7e9cff !important;
 }
 .StaffList {
   border: 3px solid;
