@@ -937,7 +937,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "StolenBurrito",
+          user: "Stolen Burrito",
           link: "https://streamable.com/my7dvg",
           percent: 100,
           hz: "360hz",
@@ -1201,7 +1201,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "StolenBurrito",
+          user: "Stolen Burrito",
           link: "https://streamable.com/xy4qaf",
           percent: 100,
           hz: "360hz",
@@ -2198,7 +2198,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "StolenBurrito",
+          user: "Stolen Burrito",
           link: "https://streamable.com/rjkhsh",
           percent: 100,
           hz: "360hz",
