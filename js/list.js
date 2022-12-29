@@ -126,7 +126,7 @@ const d = {
       ],
       name: "Shitty VSC",
       author: "Charlotte [KrisGra]",
-      id: 79401622,
+      id: 78888928,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=Z86A2TCMuKw",
     },
