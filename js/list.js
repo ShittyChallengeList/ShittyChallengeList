@@ -572,6 +572,7 @@ const d = {
           hz: "360hz",
         },
       ],
+      name: "Shitty Sprite People",
       author: "Strix [Tai0]",
       id: 71356000,
       percentToQualify: 100,
