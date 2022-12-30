@@ -3683,7 +3683,7 @@ const d = {
           user: "bacon",
           link: "https://www.youtube.com/watch?v=pt6G3pURQY8",
           percent: 100,
-          hz: "360z",
+          hz: "360hz",
         },
         {
           user: "Halledo",
