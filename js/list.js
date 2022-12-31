@@ -2938,6 +2938,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "BlizzardLaZarioHW",
+          link: "https://www.youtube.com/watch?v=nGmejDeNuI0",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty Vain",
       author: "zPhysixX [Dreamzzy]",
