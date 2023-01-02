@@ -4463,60 +4463,7 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-        {
-          user: "Pudgy",
-          link: "https://www.youtube.com/watch?v=dxY_TkxNn2I",
-          percent: 100,
-          hz: "Mobile",
-        },
-        {
-          user: "Halledo",
-          link: "https://youtu.be/Lj-lo3aJMTM",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "ThirtyTwelve",
-          link: "https://www.youtube.com/watch?v=rBW8eVsN2ts",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Troy3",
-          link: "https://youtu.be/6kFW3iq4Ydk",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "Stolen Burrito",
-          link: "https://youtu.be/nFiEFnkfzlE",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "boardhunter123",
-          link: "https://youtu.be/vOp4B5PeaOI",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Charlotte",
-          link: "https://youtu.be/H9LU990m3CI",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Sonic21",
-          link: "https://www.youtube.com/watch?v=BbfObYlPFOY",
-          percent: 100,
-          hz: "Mobile",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/EVSCrrGNxtI",
-          percent: 100,
-          hz: "360hz",
-        },
+
       ],
       name: "Shitty bVb",
       author: "Overflux [KSol72]",
