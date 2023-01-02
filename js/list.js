@@ -369,6 +369,17 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+
+      ],
+      name: "Shitty Space Boy",
+      author: "SeazeIsCool",
+      id: 79774886,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/hIkq6yvEkAc",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
         {
           user: "Troy3",
           link: "https://youtu.be/4-YCQL-FkIE",
@@ -675,6 +686,17 @@ const d = {
       id: 78210068,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/6yBgrx0p1c0",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
+
+      ],
+      name: "Shitty Hell Ball III",
+      author: "BlizzardLaZarioHW",
+      id: 86416209,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=Q5yGggbutZg",
     },
     /*=============================================================================*/
     {
@@ -1234,6 +1256,17 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+
+      ],
+      name: "Shitty 521",
+      author: "Tinkby [arielus05]",
+      id: 86116630,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/jqZUKyZk5HA",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
         {
           user: "Converto",
           link: "https://youtu.be/x8bOtSTqh2Q",
@@ -1439,7 +1472,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "TinkBy",
+          user: "Tinkby",
           link: "https://www.youtube.com/watch?v=tA6bGTVpnOs",
           percent: 100,
           hz: "280hz",
@@ -1623,6 +1656,17 @@ const d = {
       id: 79749908,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/jQGkyjbtPh4",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
+
+      ],
+      name: "Shitty Delusion",
+      author: "Dipper552",
+      id: 86839519,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=gwLqAJ88nCk",
     },
     /*=============================================================================*/
     {
@@ -2569,7 +2613,7 @@ const d = {
           hz: "288hz",
         },
 {
-          user: "TinkBy",
+          user: "Tinkby",
           link: "https://www.youtube.com/watch?v=AxQpkyfDZBo",
           percent: 100,
           hz: "280hz",
