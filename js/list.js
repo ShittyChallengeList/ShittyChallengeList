@@ -400,7 +400,7 @@ const d = {
         },
       ],
       name: "Shitty Steak Lung X",
-      author: "Jasker [Charlotte]",
+      author: "Jasker and Charlotte [Charlotte]",
       id: 77769482,
       pass: "None",
       percentToQualify: 100,
