@@ -603,40 +603,40 @@ const d = {
     },
 
     /*=============================================================================*/
-    {
-      vids: [
-        {
-          user: "Troy3",
-          link: "https://www.youtube.com/watch?v=XED9MoLkEtc",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "Charlotte",
-          link: "https://youtu.be/s5eYxige4p0?t=12",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Pudgy",
-          link: "https://youtu.be/SDEYPw7vIFI",
-          percent: 100,
-          hz: "Mobile",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/ohRgCsxiP3A",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Kubik",
-      author: "Zenmode",
-      id: 65865005,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/kZEbQjVbygA",
-      phacked: 1,
-    },
+    // {
+    //   vids: [
+    //     {
+    //       user: "Troy3",
+    //       link: "https://www.youtube.com/watch?v=XED9MoLkEtc",
+    //       percent: 100,
+    //       hz: "180hz",
+    //     },
+    //     {
+    //       user: "Charlotte",
+    //       link: "https://youtu.be/s5eYxige4p0?t=12",
+    //       percent: 100,
+    //       hz: "360hz",
+    //     },
+    //     {
+    //       user: "Pudgy",
+    //       link: "https://youtu.be/SDEYPw7vIFI",
+    //       percent: 100,
+    //       hz: "Mobile",
+    //     },
+    //     {
+    //       user: "Draven",
+    //       link: "https://youtu.be/ohRgCsxiP3A",
+    //       percent: 100,
+    //       hz: "360hz",
+    //     },
+    //   ],
+    //   name: "Shitty Kubik",
+    //   author: "Zenmode",
+    //   id: 65865005,
+    //   percentToQualify: 100,
+    //   verificationVid: "https://youtu.be/kZEbQjVbygA",
+    //   phacked: 1,
+    // },
     /*=============================================================================*/
     {
       vids: [
