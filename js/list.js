@@ -1672,7 +1672,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "https://www.youtube.com/watch?v=boiof5BXdlg",
+          user: "krix",
           link: "https://www.youtube.com/watch?v=boiof5BXdlg",
           percent: 100,
           hz: "300hz",
