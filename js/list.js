@@ -1256,7 +1256,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=kin3V3esDB4",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty 521",
       author: "Tinkby [arielus05]",
@@ -1660,6 +1665,18 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=kin3V3esDB4",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "https://www.youtube.com/watch?v=boiof5BXdlg",
+          link: "https://www.youtube.com/watch?v=boiof5BXdlg",
+          percent: 100,
+          hz: "300hz",
+        },
 
       ],
       name: "Shitty Delusion",
@@ -2203,6 +2220,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Crystalline",
       author: "Dipper552",
@@ -2336,6 +2359,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty SGF",
       author: "Magic",
@@ -2403,6 +2432,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/dXP8v_Hth8Y",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
         },
@@ -2617,6 +2652,12 @@ const d = {
           link: "https://www.youtube.com/watch?v=AxQpkyfDZBo",
           percent: 100,
           hz: "280hz",
+        },
+{
+          user: "BlizzardLaZarioHW",
+          link: "https://www.youtube.com/watch?v=ckCpNScJth4",
+          percent: 100,
+          hz: "240hz",
         },
       ],
       name: "Shitty Nauru",
@@ -3666,6 +3707,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Yubin",
       author: "Swidiot [Dark Angle]",
@@ -4052,6 +4099,18 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/cWaLLxhA6oY",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "ItsASandyXD",
+          link: "https://www.youtube.com/watch?v=LwLDdk5nafI",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
         },
