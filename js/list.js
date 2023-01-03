@@ -3171,12 +3171,6 @@ const d = {
           percent: 100,
           hz: "288hz",
         },
-{
-          user: "krix",
-          link: "https://www.youtube.com/watch?v=_QbYLtLHyvM",
-          percent: 100,
-          hz: "240hz",
-        },
         {
           user: "Draven",
           link: "https://youtu.be/wlCyvYcCt1c",
