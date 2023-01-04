@@ -20,7 +20,7 @@
   <meta charset="UTF-8">
 
   <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
-  <link href="css/stylesheet-main.css" type="text/css" rel="stylesheet">
+  <link href="css/recordsubmission.css" type="text/css" rel="stylesheet">
   <link rel="shortcut icon" href="https://gdbrowser.com/assets/trophy2.png" type="image/x-icon">
 </head>
 
@@ -38,7 +38,7 @@
       <p id="version-node">ur welcome kris</p>
     </div>
     <div id="header-links">
-      <a id="FormHelp" target="_blank" href="https://scl.pages.dev" role="button">
+      <a id="FormHelp" href="https://scl.pages.dev" role="button">
         List
       </a>
       <a id="pc-link" target="_blank" href="https://discord.gg/gN826WxqcG" role="button">
@@ -56,7 +56,7 @@
         <input type="text" id="levelauthors" placeholder="Level Author(s)" name="levelauthors"><br>
         <input type="text" id="listusername" placeholder="List Username (what you want to be called on the list)" name="listusername"><br>
         <input type="text" id="videolink" placeholder="Video Link (Youtube, Twitch, Medal)" name="videolink"><br>
-        <input type="text" id="fpsused" placeholder="FPS used" name="fpsused"><br>
+        <input type="text" id="fpsused" placeholder="FPS used ( don't include ''FPS'' )" name="fpsused"><br>
         <input type="text" id="thoughts" placeholder="Notes or thoughts on the levels placements (optional)" name="thoughts"><br>
         <div id="centerbutton">
           <button id="submit">Submit</button>
@@ -64,6 +64,7 @@
       </form>
     </div>
   </div>
+  <script src="variables.js"></script>
   <script>
     // height changing script
     var hChange = function () {
@@ -91,29 +92,29 @@
     
     form.addEventListener('submit', (e) => {
       let messages = []
-      if (discordtag.value === '' || discordtag.value == null) {
-        messages.push('discordtag is required')
+      if (discordtag.value.trim() == '' || discordtag.value == null) {
+        messages.push('Discord tag is required')
       }
       if (!(discordtag.value.includes("#"))) {
-        messages.push('discordtag must require a #')
+        messages.push('Discord tag must require a "#"')
       }
-      if (levelnames.value === '' || levelnames.value == null) {
-        messages.push('levelnames is required')
+      if (levelnames.value.trim() === '' || levelnames.value == null) {
+        messages.push('Level name(s) is required')
       }
-      if (levelauthors.value === '' || levelauthors.value == null) {
-        messages.push('levelauthors is required')
+      if (levelauthors.value.trim() === '' || levelauthors.value == null) {
+        messages.push('Level author(s) is required')
       }
-      if (listusername.value === '' || listusername.value == null) {
-        messages.push('listusername is required')
+      if (listusername.value.trim() === '' || listusername.value == null) {
+        messages.push('List username is required')
       }
-      if (videolink.value === '' || videolink.value == null) {
-        messages.push('videolink is required')
+      if (videolink.value.trim() === '' || videolink.value == null) {
+        messages.push('Video link is required')
       }
-      if (fpsused.value === '' || fpsused.value == null) {
-        messages.push('fpsused is required')
+      if (fpsused.value.trim() === '' || fpsused.value == null) {
+        messages.push('Fps used is required')
       }
       if (isNaN(fpsused.value)) {
-        messages.push('fpsused must be a number')
+        messages.push('Fps used must be a number')
       }
     
       if (messages.length > 0) {
@@ -128,12 +129,12 @@
           embeds: [{
             title: 'new record',
             fields: [
-              { name: 'Discord Tag', value: discordtag.value },
-              { name: 'Level Names', value: levelnames.value },
-              { name: 'Level Authors', value: levelauthors.value },
-              { name: 'List Username', value: listusername.value },
-              { name: 'Video Link', value: videolink.value },
-              { name: 'FPS Used', value: fpsused.value },
+              { name: 'Discord Tag', value: discordtag.value.trim() },
+              { name: 'Level Names', value: levelnames.value.trim() },
+              { name: 'Level Authors', value: levelauthors.value.trim() },
+              { name: 'List Username', value: listusername.value.trim() },
+              { name: 'Video Link', value: videolink.value.trim() },
+              { name: 'FPS Used', value: fpsused.value.trim() },
             ]
           }],
         };
@@ -141,14 +142,10 @@
           embeds: [{
             title: 'new opinion',
             fields: [
-              { name: 'Thoughts', value: thoughts.value },
+              { name: 'Thoughts', value: thoughts.value.trim() },
             ]
           }],
         };
-
-        const recordwebhookUrl = 'https://discord.com/api/webhooks/1060032996142501990/6KyOaegi8lwhUralOFwuzjlUl7_4Y6TvHCv_oOho4PN6p0gZ05GsAinBmKH3QVbYCyFg';
-
-        const opinionswebhookUrl = 'https://discord.com/api/webhooks/1060038414684147824/fefS_j-i85pWN6hOBcSbsqn_S5wpAe8PPX6jlgWxMxwwKJtGmcmSxIL7xH04hCGpayve';
 
         const response = await fetch(recordwebhookUrl, {
           method: 'POST',
@@ -164,7 +161,7 @@
           },
           body: JSON.stringify(opinionswebhookBody),
         });
-
+        form.reset();
       }
   </script>
   <noscript>
