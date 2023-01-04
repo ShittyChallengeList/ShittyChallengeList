@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>Shitty Challenge List</title>
+  <meta name="google-site-verification" content="RxbHA1Ep11OdrI6KhJpCdvb7YHX5GQs9vrbLFS64UTc" />
+  <meta property="og:site_name" content="Shitty Challenge List">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SCL">
+  <meta property="og:description"
+    content="The Shitty Challenge List (SCL) is a list of Geometry Dash Challenge Levels that have been turned into the style of a Shitty Level">
+  <meta name="og:image" itemprop="image"
+    content="https://cdn.discordapp.com/attachments/807312585246244924/1041410454041415761/SCLLAnekoIconfirstBetterEvenMoreBlurAndTextSharp.png">
+  <meta name="theme-color" content="#3c579b" />
+
+  <meta name="description"
+    content="The Shitty Challenge List (SCL) is a list of Geometry Dash Challenge Levels that have been turned into the style of a Shitty Level">
+  <meta name="keywords" content="Geometry Dash, SCL, Shitty Challenge List">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+
+  <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
+  <link href="css/stylesheet-main.css" type="text/css" rel="stylesheet">
+  <link rel="shortcut icon" href="https://gdbrowser.com/assets/trophy2.png" type="image/x-icon">
+</head>
+
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="sweetalert2.all.min.js"></script>
+
+  <script type='text/javascript' src="js/list.js"></script>
+  <script type='text/javascript' src="js/userData.js"></script>
+
+  <header id="submission_record_header">
+    <div id="sitename">
+      <img src="css\assets\SCLLogoText.png" height="78" width="163">
+      <p id="version-node">ur welcome kris</p>
+    </div>
+    <div id="header-links">
+      <a id="FormHelp" target="_blank" href="https://scl.pages.dev" role="button">
+        List
+      </a>
+      <a id="pc-link" target="_blank" href="https://discord.gg/gN826WxqcG" role="button">
+        <img src="css\assets\discord-logo-white.svg">
+      </a>
+    </div>
+  </header>
+  <div id="recordinfo">
+    <div id="submissionform">
+      <form id="formrecordstuffthiswillbethelongestidintheworld" onsubmit="sendContact(event)">
+        <h1 id="formtitle">Submit a Record</h1>
+        <div id="error"></div>
+        <input type="text" id="discordtag" placeholder="Discord Tag (e.g. wofihowef#1234)" name="discordtag"><br>
+        <input type="text" id="levelnames" placeholder="Level Name(s)" name="levelnames"><br>
+        <input type="text" id="levelauthors" placeholder="Level Author(s)" name="levelauthors"><br>
+        <input type="text" id="listusername" placeholder="List Username (what you want to be called on the list)" name="listusername"><br>
+        <input type="text" id="videolink" placeholder="Video Link (Youtube, Twitch, Medal)" name="videolink"><br>
+        <input type="text" id="fpsused" placeholder="FPS used" name="fpsused"><br>
+        <input type="text" id="thoughts" placeholder="Notes or thoughts on the levels placements (optional)" name="thoughts"><br>
+        <div id="centerbutton">
+          <button id="submit">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script>
+    // height changing script
+    var hChange = function () {
+      var height = $(window).height();
+      let remainingHeight = (height - 100) + "px";
+      $("#recordinfo").css('height', remainingHeight)
+    };
+    hChange();
+    $(window).resize(hChange)
+    // random color
+    var c = 0; //Math.floor(Math.random()*256);
+    function cueCSS() {}
+    cueCSS();
+    $('#hi').prop('style', 'background: hsl(' + c + ', 100%, 0%);')
+
+    const discordtag = document.getElementById('discordtag')
+    const levelnames = document.getElementById('levelnames')
+    const levelauthors = document.getElementById('levelauthors')
+    const listusername = document.getElementById('listusername')
+    const videolink = document.getElementById('videolink')
+    const fpsused = document.getElementById('fpsused')
+    const thoughts = document.getElementById('thoughts')
+    const form = document.getElementById('formrecordstuffthiswillbethelongestidintheworld')
+    const errorElement = document.getElementById('error')
+    
+    form.addEventListener('submit', (e) => {
+      let messages = []
+      if (discordtag.value === '' || discordtag.value == null) {
+        messages.push('discordtag is required')
+      }
+      if (!(discordtag.value.includes("#"))) {
+        messages.push('discordtag must require a #')
+      }
+      if (levelnames.value === '' || levelnames.value == null) {
+        messages.push('levelnames is required')
+      }
+      if (levelauthors.value === '' || levelauthors.value == null) {
+        messages.push('levelauthors is required')
+      }
+      if (listusername.value === '' || listusername.value == null) {
+        messages.push('listusername is required')
+      }
+      if (videolink.value === '' || videolink.value == null) {
+        messages.push('videolink is required')
+      }
+      if (fpsused.value === '' || fpsused.value == null) {
+        messages.push('fpsused is required')
+      }
+      if (isNaN(fpsused.value)) {
+        messages.push('fpsused must be a number')
+      }
+    
+      if (messages.length > 0) {
+        e.preventDefault()
+        errorElement.innerText = messages.join(', ')
+      }
+    })
+    async function sendContact(ev) {
+        ev.preventDefault();
+
+        const webhookBody = {
+          embeds: [{
+            title: 'new record',
+            fields: [
+              { name: 'Discord Tag', value: discordtag.value },
+              { name: 'Level Names', value: levelnames.value },
+              { name: 'Level Authors', value: levelauthors.value },
+              { name: 'List Username', value: listusername.value },
+              { name: 'Video Link', value: videolink.value },
+              { name: 'FPS Used', value: fpsused.value },
+            ]
+          }],
+        };
+        const opinionswebhookBody = {
+          embeds: [{
+            title: 'new opinion',
+            fields: [
+              { name: 'Thoughts', value: thoughts.value },
+            ]
+          }],
+        };
+
+        const recordwebhookUrl = 'https://discord.com/api/webhooks/1060032996142501990/6KyOaegi8lwhUralOFwuzjlUl7_4Y6TvHCv_oOho4PN6p0gZ05GsAinBmKH3QVbYCyFg';
+
+        const opinionswebhookUrl = 'https://discord.com/api/webhooks/1060038414684147824/fefS_j-i85pWN6hOBcSbsqn_S5wpAe8PPX6jlgWxMxwwKJtGmcmSxIL7xH04hCGpayve';
+
+        const response = await fetch(recordwebhookUrl, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(webhookBody),
+        });
+        const opinionsresponse = await fetch(opinionswebhookUrl, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(opinionswebhookBody),
+        });
+
+      }
+  </script>
+  <noscript>
+    <div id="block">
+      You are not using JavaScript
+    </div>
+  </noscript>
+</body>
+
+</html>
