@@ -17,11 +17,10 @@ body {
 	height: 100vh;
 	margin: 0;
 }
-header{
+header, #submission_record_header{
   position: fixed;
   min-width: 100vw;
   max-width: 100vw;
-  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: flex;
@@ -30,6 +29,12 @@ header{
   padding: 0 1.5em;
   height: 100px;
   box-sizing: border-box;
+}
+header{
+  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
+}
+#submission_record_header{
+  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/emojis/944968062648594462.webp?size=96&quality=lossless) center center;
 }
 #sitename{
   display: flex;
@@ -174,6 +179,14 @@ header{
   top: 100px;
   left: 30%;
   width: 40%;
+  overflow-y: auto;
+  color: white !important; 
+}
+#recordinfo{
+  background: linear-gradient(315deg, rgb(10, 14, 43), rgb(43, 55, 139) 100%);
+  position: fixed;
+  top: 100px;
+  width: 100%;
   overflow-y: auto;
   color: white !important; 
 }
@@ -460,4 +473,85 @@ input[type="checkbox"]:checked + label{
 
 #CopyID {
 	cursor: pointer;
+}
+
+/*its fucking krix time cunts*/
+
+#submissionform{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  max-width: 450px;
+  max-height: 675px;
+  height:90%;
+  background: linear-gradient(90deg, rgb(173, 175, 255), rgb(148, 150, 255))
+}
+
+#formtitle{
+  text-align: center;
+}
+
+#recordinfo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height:100%;
+  margin: 0 auto;
+}
+
+#submissionform{
+  margin: 0 auto;
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input[type="text"]{
+  margin-bottom: 20px;
+  padding: 15px;
+  width: 40vh;
+  border: medium none !important;
+  background-color: #d1d2ff;
+}
+
+input[type="placeholder"]{
+  color: #d1d1d1
+}
+
+#centerbutton{
+  text-align: center;
+}
+
+#submit{
+  cursor: pointer;
+  width: 90%;
+  border: none;
+  background: #37cd3c;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+#submit:hover {
+  background: #3bab40;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#submit:active {
+  background: #4f8752;
+}
+
+#error{
+  color: #aa0000
+}
+
+@media only screen and (max-width: 768px) {
+  #submissionform {
+    width:90%;
+  }
 }
