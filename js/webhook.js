@@ -68,6 +68,7 @@ async function sendContact(ev) {
       }],
     };
 
+    //krix you ballsman fucking fuck fucking FUCKING FUCK FUCK
     const recordwebhookUrl = process.env.RECORD_WEBHOOK_URL;
     const opinionswebhookUrl = process.env.OPINIONS_WEBHOOK_URL;
 
