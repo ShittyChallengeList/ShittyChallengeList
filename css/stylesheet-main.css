@@ -21,6 +21,7 @@ header{
   position: fixed;
   min-width: 100vw;
   max-width: 100vw;
+  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: flex;
@@ -29,9 +30,6 @@ header{
   padding: 0 1.5em;
   height: 100px;
   box-sizing: border-box;
-}
-header{
-  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
 }
 
 #sitename{
@@ -432,7 +430,7 @@ input[type="checkbox"]:checked + label{
   border-left: 2px solid;
   border-color: rgb(0, 0, 0);
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: rgb(94, 112, 214); 
