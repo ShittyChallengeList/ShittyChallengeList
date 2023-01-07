@@ -1451,6 +1451,17 @@ const d = {
     },
     /*=============================================================================*/
     {
+      "vids": [
+
+      ],        
+      name: "Shitty Berenjena",
+      author: "ItsASandyXD",
+      id: 86934909,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/Dpw6we2a_YA",
+    },
+    /*=============================================================================*/
+    {
       vids: [
         {
           user: "Toon",
@@ -1844,166 +1855,6 @@ const d = {
       id: 82262869,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=4KNsUtmq9pU&t=6s",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        {
-          user: "Pudgy",
-          link: "https://www.youtube.com/watch?v=0FA3hiE0kb4",
-          percent: 100,
-          hz: "Mobile",
-        },
-        {
-          user: "Jasker",
-          link: "https://www.youtube.com/watch?v=_PkWS8Loq5Q&list=PLA6k4aJGYx1CkLoIJX-P9UxVBpyQbeDEK&index=9",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "KrisGra",
-          link: "https://www.youtube.com/watch?v=_JZAc1ao__A",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Converto",
-          link: "https://youtu.be/fq5ho-g01OQ",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Halledo",
-          link: "https://youtu.be/a_e4VyNdKBQ",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Chuck Danger",
-          link: "https://medal.tv/games/geometry-dash/clips/82jzlUadLqKwE/d1337K6zEHkh?invite=cr-MSxySmYsNDMwNDUyMDEs",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "TravelChimp",
-          link: "https://youtu.be/n5sQa8nOf8k",
-          percent: 100,
-          hz: "288hz",
-        },
-        {
-          user: "Tai0",
-          link: "https://youtu.be/AkAHqFLHzEE",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Charlotte",
-          link: "https://www.youtube.com/watch?v=SrRxoer6imE",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Solerix",
-          link: "https://www.youtube.com/watch?v=Ft1LHAbtCd4",
-          percent: 100,
-          hz: "280hz",
-        },
-        {
-          user: "Troy3",
-          link: "https://youtu.be/l7ch1LjLjqY",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "Tinkby",
-          link: "https://youtu.be/mXkJuJOjgLM",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Prismatic",
-          link: "https://medal.tv/games/geometry-dash/clips/fc4vCWm_nT4lt/d1337wnE7biB?invite=cr-MSwycUksMTk4MjQxMjgs",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "nybia",
-          link: "https://youtu.be/-s4epBZVo2o",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Dipper552",
-          link: "https://www.youtube.com/watch?v=8aPiZu38lc4",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "crw05",
-          link: "https://www.youtube.com/watch?v=7t52i-qbpCY",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "DehydratedMoron",
-          link: "https://www.youtube.com/watch?v=BvFk8FcjIsM",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Damian",
-          link: "https://youtu.be/SM9x3bwEIu4",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "toon",
-          link: "https://youtu.be/yhLqDAeBizk",
-          percent: "100",
-          hz: "360hz",
-        },
-        {
-          user: "matw",
-          link: "https://youtu.be/K3wT_Kr8oUU",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "boardhunter123",
-          link: "https://m.youtube.com/watch?v=XyYRS764rjY&feature=youtu.be",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/JBPT2qSzm_Mzt/d1337gs0cGwe",
-          percent: "100",
-          hz: "144hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/xh3UU26yHVA",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "scorpion",
-          link: "https://www.youtube.com/watch?v=bUGbQqj_UgM",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Grilled",
-          link: "https://www.youtube.com/watch?v=muylu1hTJ5M",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Goodbye Moonmen",
-      author: "OverfluxQT [KSol72]",
-      id: 71065784,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=1GZp9E6XqyI&t=35s",
     },
     /*=============================================================================*/
     {
@@ -3059,6 +2910,166 @@ const d = {
       id: 73407731,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/x_Jto_rs8Ps",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
+        {
+          user: "Pudgy",
+          link: "https://www.youtube.com/watch?v=0FA3hiE0kb4",
+          percent: 100,
+          hz: "Mobile",
+        },
+        {
+          user: "Jasker",
+          link: "https://www.youtube.com/watch?v=_PkWS8Loq5Q&list=PLA6k4aJGYx1CkLoIJX-P9UxVBpyQbeDEK&index=9",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "KrisGra",
+          link: "https://www.youtube.com/watch?v=_JZAc1ao__A",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "Converto",
+          link: "https://youtu.be/fq5ho-g01OQ",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Halledo",
+          link: "https://youtu.be/a_e4VyNdKBQ",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "Chuck Danger",
+          link: "https://medal.tv/games/geometry-dash/clips/82jzlUadLqKwE/d1337K6zEHkh?invite=cr-MSxySmYsNDMwNDUyMDEs",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "TravelChimp",
+          link: "https://youtu.be/n5sQa8nOf8k",
+          percent: 100,
+          hz: "288hz",
+        },
+        {
+          user: "Tai0",
+          link: "https://youtu.be/AkAHqFLHzEE",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "Charlotte",
+          link: "https://www.youtube.com/watch?v=SrRxoer6imE",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Solerix",
+          link: "https://www.youtube.com/watch?v=Ft1LHAbtCd4",
+          percent: 100,
+          hz: "280hz",
+        },
+        {
+          user: "Troy3",
+          link: "https://youtu.be/l7ch1LjLjqY",
+          percent: 100,
+          hz: "180hz",
+        },
+        {
+          user: "Tinkby",
+          link: "https://youtu.be/mXkJuJOjgLM",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Prismatic",
+          link: "https://medal.tv/games/geometry-dash/clips/fc4vCWm_nT4lt/d1337wnE7biB?invite=cr-MSwycUksMTk4MjQxMjgs",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "nybia",
+          link: "https://youtu.be/-s4epBZVo2o",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "Dipper552",
+          link: "https://www.youtube.com/watch?v=8aPiZu38lc4",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "crw05",
+          link: "https://www.youtube.com/watch?v=7t52i-qbpCY",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "DehydratedMoron",
+          link: "https://www.youtube.com/watch?v=BvFk8FcjIsM",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "Damian",
+          link: "https://youtu.be/SM9x3bwEIu4",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "toon",
+          link: "https://youtu.be/yhLqDAeBizk",
+          percent: "100",
+          hz: "360hz",
+        },
+        {
+          user: "matw",
+          link: "https://youtu.be/K3wT_Kr8oUU",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "boardhunter123",
+          link: "https://m.youtube.com/watch?v=XyYRS764rjY&feature=youtu.be",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/JBPT2qSzm_Mzt/d1337gs0cGwe",
+          percent: "100",
+          hz: "144hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/xh3UU26yHVA",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "scorpion",
+          link: "https://www.youtube.com/watch?v=bUGbQqj_UgM",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Grilled",
+          link: "https://www.youtube.com/watch?v=muylu1hTJ5M",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty Goodbye Moonmen",
+      author: "OverfluxQT [KSol72]",
+      id: 71065784,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=1GZp9E6XqyI&t=35s",
     },
     /*=============================================================================*/
     {
@@ -5057,6 +5068,6 @@ for (let x = 0; x < list.length; x++) {
   if (x < 75) {
     list[x].key = x;
   } else if (x >= 75) {
-    list[x].legacyKey = 0;
+    list[x].legacykey = 0;
   }
 }
