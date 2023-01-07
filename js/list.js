@@ -5057,6 +5057,6 @@ for (let x = 0; x < list.length; x++) {
   if (x < 75) {
     list[x].key = x;
   } else if (x >= 75) {
-    list[x].legacykey = x;
+    list[x].legacyKey = 0;
   }
 }

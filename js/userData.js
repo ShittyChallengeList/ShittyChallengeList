@@ -122,7 +122,7 @@ function userList() {
   return user_data;
 }
 
-function getUserData(user) {
+  function getUserData(user) {
   var user_data = userList();
 
   var progresses = "<ol>";
@@ -168,6 +168,14 @@ function getUserData(user) {
     }
   }
   progresses = progresses + "</ol>";
+  //popup for profile records
+  let background = "url(css/assets/profile-popup-bg.svg)";
+  let confirmButtonColor = "rgb(32, 49, 149)";
+
+  if($("#styles").attr("href").includes("stylesheet-christmas.css")){
+    confirmButtonColor = "#00434a";
+    background = "url(css/christmas-assets/christmas-profile-popup-bg.svg)"
+  };
 
   Swal.fire({
     title: "#" + (user + 1) + " : " + user_data[user].name,
@@ -185,9 +193,8 @@ function getUserData(user) {
       progresses +
       "<br>" +
       "</strong></center>",
-    color: "white",
-    background:
-      "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
-    confirmButtonColor: "#223158",
+    color: "ghostwhite",
+    confirmButtonColor: confirmButtonColor,
+    background: background,
   });
 }
