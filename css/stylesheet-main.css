@@ -1,10 +1,28 @@
+/*TODO: make the colors into variables*/
+:root {
+  /**Blacks**/
+  --black: rgb(0, 0, 5);
+  --opaque-black: #0007;
+  --black-blue: #000025;
+  --dark-gray: rgb(18, 21, 36);
+  /**Blues**/
+  --discord-blurple: #5865F2;
+  --night-blue: rgb(18, 28, 80);
+  --dark-blue: rgb(32, 49, 149);
+  --bright-blue: rgb(54, 88, 224);
+  --light-blue: rgb(125, 149, 255);
+  --white-blue: #bec7ec;
+  --opaque-blue: rgba(125, 149, 255, 0.125);
+  --dark-purple: #16182f;
+}
+
 *{
   font-family: 'Mukta Mahee', sans-serif !important;
   color: ghostwhite;
   word-wrap: break-word;
 }
 body{
-  background: #00001b !important;
+  background: var(--black-blue) !important;
   min-height: 100vh;
   margin: 0;
   word-wrap: break-word;
@@ -15,8 +33,8 @@ body{
   left: 0;
   width: 100%;
   height: 100%;
-  background: black;
-  color: black;
+  background: var(--black);
+  color: var(--black);
   font-size: 3em;
 }
 a:link {
@@ -84,10 +102,10 @@ header{
 }
 #list-logo {
   transition: inherit;
-  filter: drop-shadow(0 0 5px black);
+  filter: drop-shadow(0 0 5px var(--black));
 }
 #sitename:hover #list-logo {
-  filter: drop-shadow(-5px 5px 10px black);
+  filter: drop-shadow(-5px 5px 10px var(--black));
   transform: translateX(5px);
 }
 #version-node {
@@ -107,7 +125,7 @@ header{
   padding: 0.5em 1em;
   background-color: transparent;
   border-radius: 1.15em;
-  box-shadow: 0 0 10px #00001b; /*00001b*/
+  box-shadow: 0 0 10px var(--black-blue); /*00001b*/
   transition:
   box-shadow 0.15s ease-in-out,
   backdrop-filter 0.15s ease-out;
@@ -115,17 +133,17 @@ header{
   white-space: nowrap;
 }
 #record-link:hover {
-  box-shadow: 0 0 15px black; /*black*/
+  box-shadow: 0 0 15px var(--black); /*black*/
   backdrop-filter: saturate(135%);
 }
 #pc-link{
   position: relative;
   text-align: right;
   font-size: 1.2em;
-  background-color: #5865F2;
+  background-color: var(--discord-blurple);
   padding: 0.5em 1em;
   border-radius: 1em;
-  box-shadow: 0 0 10px black;
+  box-shadow: 0 0 10px var(--black);
   transition: 
   scale 0.15s ease-out,
   box-shadow 0.15s ease-in-out,
@@ -149,7 +167,7 @@ header{
 }
 #pc-link img {
   height: 1.65em;
-  filter: drop-shadow(0px 0px 5px #0007);
+  filter: drop-shadow(0px 0px 5px var(--opaque-black));
   transition: inherit;
 }
 #pc-link:hover {
@@ -166,7 +184,7 @@ header{
 
 /*****List*****/
 #list{
-  background: linear-gradient(90deg, rgb(50, 73, 203), rgb(27, 40, 112));
+  background: linear-gradient(90deg, var(--dark-gray), var(--black));
   position: fixed;
   top: 100px;
   left: 0;
@@ -190,23 +208,23 @@ header{
   background 0.25s ease-out,
   color 0.25s ease-out,
   border-left 0.1s ease-out;
-  border-color: rgb(18, 28, 80);
+  border-color: var(--night-blue);
 }
 .entry:nth-child(odd){
-  background: linear-gradient(90deg, rgb(32, 49, 149), rgb(17, 25, 75));
+  background: linear-gradient(90deg, var(--dark-blue), var(--night-blue));
 }
 .entry:not(.selected):hover{
   background: linear-gradient(90deg,
-  rgb(54, 88, 224), 
-  rgb(87, 121, 255) 35%, 
-  rgb(125, 149, 255) 99%);
+  var(--bright-blue), 
+  var(--discord-blurple) 35%, 
+  var(--light-blue) 99%);
   cursor: pointer;
   color:rgba(255, 255, 255, 0.5) !important;
-  border-left: 8px solid rgb(18, 28, 80);
+  border-left: 8px solid var(--night-blue);
 }
 .selected {
-  background: linear-gradient(90deg, #1b1d3a, #00001b) !important;
-  border-left: 8px solid #00001b;
+  background: linear-gradient(90deg, #1b1d3a, var(--black-blue)) !important;
+  border-left: 8px solid var(--black-blue);
 }
 .author{
   font-variant: small-caps;
@@ -216,7 +234,7 @@ header{
 #additional-information{
   background: linear-gradient(135deg,
   #1b213a,
-  #00001b);
+  var(--black-blue));
   position: fixed;
   top: 100px;
   right: 0;
@@ -236,23 +254,23 @@ header{
 }
 #credits a{
   text-decoration: underline;
-  color: rgb(87, 121, 255);
+  color: var(--discord-blurple);
 }
 #credits a:hover {
-  color:#bec7ec;
+  color:var(--white-blue);
 }
 #staff-list {
   background: linear-gradient(115deg,
-  rgb(6, 10, 40) 0%,
-  rgb(17, 25, 75) 20%,
-  rgb(6, 13, 45) 20%,
-  rgb(18, 28, 80) 40%,
-  rgb(9, 18, 63) 40%,
-  rgb(19, 32, 95) 60%,
-  rgb(17, 27, 82) 60%,
-  rgb(27, 40, 112) 80%,
-  rgb(19, 32, 102) 80%,
-  rgb(32, 49, 149) 100%);
+  var(--black-blue) 0%,
+  var(--night-blue) 20%,
+  var(--black-blue) 20%,
+  var(--night-blue) 40%,
+  var(--night-blue) 40%,
+  var(--night-blue) 60%,
+  var(--night-blue) 60%,
+  var(--black) 80%,
+  var(--night-blue) 80%,
+  var(--dark-blue) 100%);
   padding: 1em 3em;
   border-radius: 1.5em;
   box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.5);
@@ -271,7 +289,7 @@ header{
   align-items: center;
 }
 #staff-list a:hover {
-  color:#bec7ec;
+  color:var(--white-blue);
   text-decoration:underline; 
 }
 .staff-title {
@@ -302,16 +320,16 @@ header{
   gap: 1em;
   box-sizing: border-box;
   background: linear-gradient(215deg,
-  rgb(6, 10, 40) 0%,
-  rgb(17, 25, 75) 20%,
-  rgb(6, 13, 45) 20%,
-  rgb(18, 28, 80) 40%,
-  rgb(9, 18, 63) 40%,
-  rgb(19, 32, 95) 60%,
-  rgb(17, 27, 82) 60%,
-  rgb(27, 40, 112) 80%,
-  rgb(19, 32, 102) 80%,
-  rgb(32, 49, 149) 100%);
+  var(--black-blue) 0%,
+  var(--night-blue) 20%,
+  var(--black-blue) 20%,
+  var(--night-blue) 40%,
+  var(--night-blue) 40%,
+  var(--night-blue) 60%,
+  var(--night-blue) 60%,
+  var(--black) 80%,
+  var(--night-blue) 80%,
+  var(--dark-blue) 100%);
 }
 #guidelines-title {
   font-weight: bold;
@@ -320,7 +338,7 @@ header{
 }
 #guidelines ul {
   box-sizing: border-box;
-  border: 1px solid rgba(125, 149, 255, 0.125);
+  border: 1px solid var(--opaque-blue);
   border-radius: 1.5em;
   padding: 1em;
   padding-left: 1.35em;
@@ -333,7 +351,7 @@ header{
 }
 #guidelines li:not(:last-child) {
   padding-bottom: 0.5em;
-  border-bottom: 1px solid rgba(125, 149, 255, 0.125);
+  border-bottom: 1px solid var(--opaque-blue);
 }
 #guidelines li::before {
   content: "-";
@@ -343,7 +361,7 @@ header{
   color: #7289DA;
 }
 #guidelines li a:hover {
-  color:#bec7ec;
+  color:var(--white-blue);
 }
 #additional-information hr {
   margin: 0;
@@ -355,8 +373,8 @@ header{
 
 /*****Info*****/
 #info{
-  box-shadow: inset 0 0 35px 5px black;
-  background: linear-gradient(165deg, rgb(18, 28, 80), rgb(4, 10, 39), rgb(18, 28, 80));
+  box-shadow: inset 0 0 35px 5px var(--black);
+  background: linear-gradient(165deg, var(--night-blue), rgb(4, 10, 39), var(--night-blue));
   position: fixed;
   top: 100px;
   left: 30%;
@@ -366,10 +384,10 @@ header{
 .level-info-button {
   font-size: 1.4rem;
   cursor: pointer;
-  background-color: rgb(32, 49, 149);
+  background-color: var(--dark-blue);
   padding: 0em 0.35em;
   border-radius: 0.75em;
-  box-shadow: 0 0 15px black;
+  box-shadow: 0 0 15px var(--black);
   margin-left: 0.1em;
   transition: 
   box-shadow 0.05s ease-in-out,
@@ -380,8 +398,8 @@ header{
   user-select: none;
 }
 .level-info-button:hover {
-  box-shadow: 0 0 20px 5px black;
-  background-color: rgb(50, 73, 203);
+  box-shadow: 0 0 20px 5px var(--black);
+  background-color: var(--dark-gray);
 }
 #leveltitle{
   font-size: 1.7em;
@@ -391,10 +409,10 @@ header{
   align-items: center;
 }
 #levelrank {
-  background-color: rgb(19, 32, 95);
+  background-color: var(--night-blue);
   padding: 0em 0.35em;
   border-radius: 0.5em;
-  box-shadow: 0 0 15px black;
+  box-shadow: 0 0 15px var(--black);
 }
 #levelname {
   font-size: 2.25rem;
@@ -416,10 +434,10 @@ header{
   gap: 1em;
 }
 #levelpoints {
-  background-color: rgb(19, 32, 95);
+  background-color: var(--night-blue);
   padding: 0em 0.35em;
   border-radius: 0.5em;
-  box-shadow: 0 0 15px black;
+  box-shadow: 0 0 15px var(--black);
 }
 #copy-buttons {
   display: flex;
@@ -465,16 +483,16 @@ header{
   font-size: 1.1rem;
   font-weight: bolder;
   padding: 0.5em 1em;
-  background-color: rgb(32, 49, 149);
+  background-color: var(--dark-blue);
   border-radius: 1.15em;
-  box-shadow: 0 0 15px 2px #00001b;
+  box-shadow: 0 0 15px 2px var(--black-blue);
   transition: 
   box-shadow 0.15s ease-in-out,
   background-color 0.15s ease-out;
 }
 #level-submit:hover {
-  box-shadow: 0 0 25px 5px black;
-  background-color: rgb(50, 73, 203);
+  box-shadow: 0 0 25px 5px var(--black);
+  background-color: var(--dark-gray);
 }
 #levelauthor{
   font-size: 1.1em;
@@ -491,7 +509,7 @@ header{
   border-radius: 0.75em;
   box-shadow: 0px 0px 35px rgba(87, 121, 255, 0.5), 0px 0px 35px -5px rgba(87, 121, 255, 0.5) inset;
   background:
-  radial-gradient(black, #0007, transparent 60%);
+  radial-gradient(var(--black), var(--opaque-black), transparent 60%);
 }
 .hacked{
   background: rgb(32, 65, 165);
@@ -517,7 +535,7 @@ header{
 #records-title{
   font-size: 1.5em;
   font-weight: bold;
-  color: black;
+  color: var(--black);
 }
 #records-table{
   margin: 2.3em auto 1em auto;
@@ -527,7 +545,7 @@ header{
 .record-entry {
   margin-bottom: 0.8em;
   border-radius: 0.75em;
-  box-shadow: 0 0 20px black;
+  box-shadow: 0 0 20px var(--black);
 }
 .interentry{
   width: 100%;
@@ -538,10 +556,10 @@ header{
   text-decoration:underline; 
 }
 .record-entry:nth-child(even){
-  background: rgb(17, 25, 75)
+  background: var(--night-blue)
 }
 .record-entry:nth-child(odd){
-  background: rgb(27, 40, 112)
+  background: var(--black)
 }
 
 /*I have no idea what these do but
@@ -549,12 +567,12 @@ I'm too scared to remove them*/
 #explanation-simple-title{
   font-size: 1.5em;
   font-weight: bold;
-  color: black;
+  color: var(--black);
 }
 #explanation-simple{
   font-size: 18px;
   font-weight: bold;
-  color: black;
+  color: var(--black);
 }
 
 /*****User list*****/
@@ -568,10 +586,10 @@ I'm too scared to remove them*/
 #user-rank-info center{
   font-size: 1.25rem;
   padding: 0.5em 0em;
-  background: #16182f;
+  background: var(--dark-purple);
   border-top-left-radius: 1.5em;
   border-top-right-radius: 1.5em;
-  border: 1px solid rgba(125, 149, 255, 0.125);
+  border: 1px solid var(--opaque-blue);
 }
 #user-rank {
   font-size: 20px;
@@ -581,9 +599,9 @@ I'm too scared to remove them*/
   list-style: none;
   padding: 1em 0em 1em 1em;
   margin: 0;
-  background: #16182f;
-  border-left: 1px solid rgba(125, 149, 255, 0.125);
-  border-right: 1px solid rgba(125, 149, 255, 0.125);
+  background: var(--dark-purple);
+  border-left: 1px solid var(--opaque-blue);
+  border-right: 1px solid var(--opaque-blue);
   word-break: break-word;
 }
 
@@ -593,15 +611,15 @@ User records popup
 */
 .swal2-popup {
   background-size: cover !important;
-  box-shadow: 0 0 25px 5px black;
+  box-shadow: 0 0 25px 5px var(--black);
   border-radius: 1em !important;
 }
 .swal2-popup a:hover {
-  color:#bec7ec;
+  color:var(--white-blue);
   text-decoration:underline; 
 }
 .swal2-confirm {
-  box-shadow: 0 0 20px black !important;
+  box-shadow: 0 0 20px var(--black) !important;
   border-radius: 0.75em !important;
 }
 /* 
@@ -614,15 +632,15 @@ Scroll bar
 }
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #060621; 
+  background: var(--black-blue); 
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgb(32, 49, 149); 
+  background: var(--dark-blue); 
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(54, 88, 224); 
+  background: var(--bright-blue); 
 }
 
 /*****Media queries*****/
@@ -704,10 +722,10 @@ Scroll bar
   #pc-link {
     text-align: right;
     font-size: 0.9em;
-    background-color: #5865F2;
+    background-color: var(--discord-blurple);
     padding: 0.5em 0.5em;
     border-radius: 1em;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px var(--black);
     transition: 
     scale 0.15s ease-out, 
     box-shadow 0.15s ease-in-out,
