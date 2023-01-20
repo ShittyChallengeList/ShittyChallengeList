@@ -375,7 +375,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-
+        {
+          user: "Draven",
+          link: "https://youtu.be/7u2buzy67qM",
+          percent: 100,
+          hz: "360hz",
+        }, 
       ],
       name: "Shitty Space Boy",
       author: "SeazeIsCool",
