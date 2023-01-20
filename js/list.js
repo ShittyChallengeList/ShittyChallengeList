@@ -225,7 +225,7 @@ const d = {
         },
         {
           user: "Draven",
-          link: "https://youtu.be/lEzss6G_X4E",
+          link: "https://youtu.be/5XKmnwBBzP8",
           percent: 100,
           hz: "360hz",
         },
