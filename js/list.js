@@ -708,7 +708,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-
+        {
+          user: "Draven",
+          link: "https://youtu.be/h4MorZWNFXY",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Hell Ball III",
       author: "BlizzardLaZarioHW",
@@ -1304,7 +1309,13 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-{
+        {
+          user: "Draven",
+          link: "https://youtu.be/6Lk1B_GiAwg",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
           user: "Charlotte",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
@@ -1506,7 +1517,12 @@ const d = {
     /*=============================================================================*/
     {
       "vids": [
-
+        {
+          user: "Draven",
+          link: "https://youtu.be/Tykv4MSS_Ig",
+          percent: 100,
+          hz: "360hz",
+        },
       ],        
       name: "Shitty Berenjena",
       author: "ItsASandyXD",
@@ -1751,6 +1767,12 @@ const d = {
         {
           user: "jeyk",
           link: "https://medal.tv/games/geometry-dash/clips/RazrUHpuH1wir/d1337rHKUVXA?invite=cr-MSw1VjYsMTQyMDAxNDAs",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/47KnTpGPpJs",
           percent: 100,
           hz: "360hz",
         },
