@@ -462,3 +462,15 @@ input[type="checkbox"]:checked + label{
 #CopyID {
 	cursor: pointer;
 }
+
+@media (max-width: 621px)  {
+  #header-links {
+    flex-direction: column;
+    gap: 0;
+  }
+  #version-node {
+    font-size: 1.2rem;
+    text-shadow: none;
+    color: white;
+  }
+}
