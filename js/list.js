@@ -921,7 +921,7 @@ const d = {
           user: "ItsASandyXD",
           link: "https://www.youtube.com/watch?v=SA8ep5PwXnA",
           percent: 100,
-          hz: "240hz,
+          hz: "240hz",
         },
       ],
       name: "Shitty Taco Redux",
