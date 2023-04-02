@@ -1964,15 +1964,15 @@ const d = {
       verificationVid: "https://youtu.be/8PH8MFFCyAk",
     },
     /*=============================================================================*/
-        {
-          vids: [
-          ],
-          name: "Shitty Kubik",
-          author: "Tinkby",
-          id: 87539396,
-          percentToQualify: 100,
-          verificationVid: "https://www.youtube.com/watch?v=B2BD83Px7b0",
-        },
+    {
+      vids: [
+      ],
+      name: "Shitty Kubik",
+      author: "Tinkby",
+      id: 87539396,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=B2BD83Px7b0",
+    },
     /*=============================================================================*/
     {
       vids: [
