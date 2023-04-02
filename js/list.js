@@ -1966,6 +1966,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+        {
+          user: "Charlotte",
+          link: "https://youtu.be/Cf2_wX02IjA",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Kubik",
       author: "Tinkby",
@@ -2098,6 +2104,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+        {
+          user: "Charlotte",
+          link: "https://youtu.be/Cf2_wX02IjA",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Adoraballa",
       author: "Scorpion",
@@ -2289,6 +2301,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/wrHWX4jMWkk",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Charlotte",
+          link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
           hz: "360hz",
         },
@@ -3128,6 +3146,12 @@ const d = {
 {
           user: "Toon",
           link: "https://www.youtube.com/watch?v=Ow7TLdIHGXA",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Charlotte",
+          link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
           hz: "360hz",
         },
