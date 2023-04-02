@@ -3,6 +3,16 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+      ],
+      name: "Shitty DIKEMBE",
+      author: "Ludwig [Gloomba]",
+      id: 87103615,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/0os5gtLpRCk",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
         {
           user: "toon",
           link: "https://www.youtube.com/watch?v=vf87NTxeHNI",
@@ -1954,6 +1964,16 @@ const d = {
       verificationVid: "https://youtu.be/8PH8MFFCyAk",
     },
     /*=============================================================================*/
+        {
+          vids: [
+          ],
+          name: "Shitty Kubik",
+          author: "Tinkby",
+          id: 87539396,
+          percentToQualify: 100,
+          verificationVid: "https://www.youtube.com/watch?v=B2BD83Px7b0",
+        },
+    /*=============================================================================*/
     {
       vids: [
         {
@@ -2074,6 +2094,16 @@ const d = {
       id: 82262869,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=4KNsUtmq9pU&t=6s",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty Adoraballa",
+      author: "Scorpion",
+      id: 87065202,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=yd-Y0gMhc20",
     },
     /*=============================================================================*/
     {
