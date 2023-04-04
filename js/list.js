@@ -1995,6 +1995,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "BlizzardLaZarioHW",
+          link: "https://www.youtube.com/watch?v=3rECD2wN9QI",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty Kubik",
       author: "Tinkby",
