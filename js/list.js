@@ -88,14 +88,14 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=8IWebQTnahE",
           percent: 100,
           hz: "360hz",
         },
       ],
       name: "Shitty Envenomed",
-      author: "Charlotte [Magic]",
+      author: "CIDIAM [Magic]",
       id: 77714706,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=YVoxZYRMmSQ",
@@ -146,7 +146,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=bvS9eUtxvfc",
           percent: 100,
           hz: "360hz",
@@ -159,7 +159,7 @@ const d = {
         },
       ],
       name: "Shitty VSC",
-      author: "Charlotte [KrisGra]",
+      author: "CIDIAM [KrisGra]",
       id: 78888928,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=Z86A2TCMuKw",
@@ -327,7 +327,7 @@ const d = {
         },
       ],
       name: "Shitty Craven Soul",
-      author: "Jasker [Charlotte]",
+      author: "Jasker [CIDIAM]",
       id: 78677090,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/YuWK8DVWTXA",
@@ -373,7 +373,7 @@ const d = {
         },
       ],
       name: "Shitty Toxic Blades",
-      author: "Jasker [Charlotte]",
+      author: "Jasker [CIDIAM]",
       id: 78605547,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/PZmNRC4zUOY",
@@ -439,7 +439,7 @@ const d = {
         },
       ],
       name: "Shitty Steak Lung X",
-      author: "Jasker and Charlotte [Charlotte]",
+      author: "Jasker and CIDIAM [CIDIAM]",
       id: 77769482,
       pass: "None",
       percentToQualify: 100,
@@ -455,7 +455,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -567,7 +567,7 @@ const d = {
         },
       ],
       name: "Shitty Black Lung X",
-      author: "Charlotte [Nybia]",
+      author: "CIDIAM [Nybia]",
       id: 81492948,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/_Qe4LgDaNns",
@@ -640,7 +640,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -669,7 +669,7 @@ const d = {
     //       hz: "180hz",
     //     },
     //     {
-    //       user: "Charlotte",
+    //       user: "CIDIAM",
     //       link: "https://youtu.be/s5eYxige4p0?t=12",
     //       percent: 100,
     //       hz: "360hz",
@@ -705,7 +705,7 @@ const d = {
         },
       ],
       name: "Shitty Vanuatu",
-      author: "Charlotte",
+      author: "CIDIAM",
       id: 80219422,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/XF-2QfqhGQM",
@@ -720,7 +720,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -788,7 +788,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/s5eYxige4p0?t=54",
           percent: 100,
           hz: "360hz",
@@ -876,7 +876,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -998,7 +998,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -1045,7 +1045,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -1169,7 +1169,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -1251,7 +1251,7 @@ const d = {
           hz: "165hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=SrRxoer6imE",
           percent: 100,
           hz: "360hz",
@@ -1415,7 +1415,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -1543,7 +1543,7 @@ const d = {
           hz: "180hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/s5eYxige4p0?t=117",
           percent: 100,
           hz: "360hz",
@@ -1709,7 +1709,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -1820,7 +1820,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -1860,7 +1860,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -1888,7 +1888,7 @@ const d = {
     {
       vids: [
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -1990,7 +1990,7 @@ const d = {
     {
       vids: [
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
           hz: "360hz",
@@ -2036,7 +2036,7 @@ const d = {
           hz: "165hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/s5eYxige4p0?t=83",
           percent: 100,
           hz: "360hz",
@@ -2134,7 +2134,7 @@ const d = {
     {
       vids: [
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
           hz: "360hz",
@@ -2168,7 +2168,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -2208,7 +2208,7 @@ const d = {
           hz: "180hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/s5eYxige4p0?t=144",
           percent: 100,
           hz: "360hz",
@@ -2294,7 +2294,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=SrRxoer6imE",
           percent: 100,
           hz: "360hz",
@@ -2319,7 +2319,7 @@ const d = {
         },
       ],
       name: "Shitty Carbon Commination",
-      author: "Charlotte [Amza]",
+      author: "CIDIAM [Amza]",
       id: 68901700,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/0IcGxuTdvao",
@@ -2340,14 +2340,14 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
           hz: "360hz",
         },
       ],
       name: "Shitty Challenge IX",
-      author: "Charlotte [Pudgy]",
+      author: "CIDIAM [Pudgy]",
       id: 78127751,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=iPFgMF3sblY",
@@ -2386,7 +2386,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
@@ -2426,7 +2426,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -2479,7 +2479,7 @@ const d = {
         },
       ],
       name: "Shitty Coughy Bean",
-      author: "Charlotte",
+      author: "CIDIAM",
       id: 77662094,
       pass: "None",
       percentToQualify: 100,
@@ -2543,7 +2543,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
@@ -2625,7 +2625,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
@@ -2725,7 +2725,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=Ow7TLdIHGXA",
           percent: 100,
           hz: "360hz",
@@ -2819,7 +2819,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -2949,7 +2949,7 @@ const d = {
           hz: "300hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/s5eYxige4p0?t=186",
           percent: 100,
           hz: "360hz",
@@ -3067,7 +3067,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=SrRxoer6imE",
           percent: 100,
           hz: "360hz",
@@ -3209,7 +3209,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
           hz: "360hz",
@@ -3231,7 +3231,7 @@ const d = {
           hz: "244hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=SrRxoer6imE",
           percent: 100,
           hz: "360hz",
@@ -3397,7 +3397,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=SrRxoer6imE",
           percent: 100,
           hz: "360hz",
@@ -3593,7 +3593,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -3766,7 +3766,7 @@ const d = {
           hz: "288hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=kin3V3esDB4",
           percent: 100,
           hz: "360hz",
@@ -3842,7 +3842,7 @@ const d = {
           hz: "180hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=SrRxoer6imE",
           percent: 100,
           hz: "360hz",
@@ -4068,7 +4068,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -4175,7 +4175,7 @@ const d = {
         },
       ],
       name: "Shitty Pablo Never Clear",
-      author: "Charlotte",
+      author: "CIDIAM",
       id: 77572228,
       pass: "None",
       percentToQualify: 100,
@@ -4209,7 +4209,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=Ow7TLdIHGXA",
           percent: 100,
           hz: "360hz",
@@ -4256,7 +4256,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
@@ -4338,7 +4338,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -4451,7 +4451,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -4617,7 +4617,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -4699,7 +4699,7 @@ const d = {
           hz: "144hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
           percent: 100,
           hz: "360hz",
@@ -4769,7 +4769,7 @@ const d = {
           hz: "360hz",
         },
 {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=HDC3u53l1-s",
           percent: 100,
           hz: "360hz",
@@ -4827,7 +4827,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -4891,7 +4891,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -5097,7 +5097,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://www.youtube.com/watch?v=_3tMGxw6GHg",
           percent: 100,
           hz: "360hz",
@@ -5184,7 +5184,7 @@ const d = {
           hz: "144hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -5230,7 +5230,7 @@ const d = {
           hz: "360hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
@@ -5349,7 +5349,7 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "Charlotte",
+          user: "CIDIAM",
           link: "https://youtu.be/H9LU990m3CI",
           percent: 100,
           hz: "360hz",
