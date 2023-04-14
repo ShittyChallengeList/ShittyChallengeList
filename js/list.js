@@ -549,6 +549,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=UXZ3J_zHoJY",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Temple Of Seraph",
       author: "Toxicysm [Magic]",
@@ -768,6 +774,12 @@ const d = {
         {
           user: "Grilled",
           link: "https://youtu.be/oedLt46lZU4",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=UXZ3J_zHoJY",
           percent: 100,
           hz: "360hz",
         },
@@ -1703,6 +1715,12 @@ const d = {
           link: "https://youtu.be/1ps3PDY8ffs",
           percent: 100,
           hz: "Mobile",
+        },
+        {
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=UXZ3J_zHoJY",
+          percent: 100,
+          hz: "360hz",
         },
       ],
       name: "Shitty Wave Challenge Yossa",
