@@ -2031,6 +2031,12 @@ const d = {
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "Pudgy",
+          link: "https://www.youtube.com/watch?v=puzclSufmNs",
+          percent: 100,
+          hz: "mobile",
+        },
       ],
       name: "Shitty Kubik",
       author: "Tinkby",
