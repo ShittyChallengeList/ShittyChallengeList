@@ -53,18 +53,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-        {
-          user: "Draven",
-          link: "https://youtu.be/9FjQ7dqFifo",
-          percent: 100,
-          hz: "360hz",
-        },
       ],
       name: "Shitty Lavender",
       author: "sincos",
       id: 83385866,
       percentToQualify: 100,
-      verificationVid: "https://youtu.be/r_u2wmC-Gr4",
+      verificationVid: "https://www.youtube.com/watch?v=9FjQ7dqFifo",
     },
     /*=============================================================================*/
     {
