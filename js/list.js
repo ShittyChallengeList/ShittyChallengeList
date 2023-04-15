@@ -557,21 +557,21 @@ const d = {
       verificationVid: "https://youtu.be/sCPBprp4YG0",
     },
     /*=============================================================================*/
-    {
-      vids: [
-        {
-          user: "Draven",
-          link: "https://youtu.be/uCTAaRTJg8Y",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Black Lung X",
-      author: "CIDIAM [Nybia]",
-      id: 81492948,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/_Qe4LgDaNns",
-    },
+    //{
+    //  vids: [
+    //    {
+    //      user: "Draven",
+    //      link: "https://youtu.be/uCTAaRTJg8Y",
+    //      percent: 100,
+    //      hz: "360hz",
+    //    },
+    //  ],
+    //  name: "Shitty Black Lung X",
+    //  author: "CIDIAM [Nybia]",
+    //  id: 81492948,
+    //  percentToQualify: 100,
+    //  verificationVid: "https://youtu.be/_Qe4LgDaNns",
+    //},
     /*=============================================================================*/
     {
       vids: [
@@ -970,6 +970,16 @@ const d = {
       percentToQualify: 100,
       verificationVid: "https://youtu.be/3jhj03L39IQ",
     },
+    /*=============================================================================*/
+        {
+          vids: [
+          ],
+          name: "Shitty Albondiga",
+          author: "OfxGD [ItsASandyXD]",
+          id: 88548047,
+          percentToQualify: 100,
+          verificationVid: "https://youtu.be/aV305tBGyJE",
+        },
     /*=============================================================================*/
     {
       vids: [
@@ -1429,6 +1439,16 @@ const d = {
       percentToQualify: 100,
       verificationVid: "https://youtu.be/FEZ4PQniXSQ",
     },
+    /*=============================================================================*/
+        {
+          vids: [
+          ],
+          name: "Shitty Inchoation",
+          author: "CIDIAM",
+          id: 87231466,
+          percentToQualify: 100,
+          verificationVid: "https://youtu.be/I_Os-e-JcBI",
+        },
     /*=============================================================================*/
     {
       vids: [
@@ -3135,6 +3155,16 @@ const d = {
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=VUslM02l_nY",
     },
+    /*=============================================================================*/
+        {
+          vids: [
+          ],
+          name: "Shitty Euphoric",
+          author: "Daveenio",
+          id: 87380744,
+          percentToQualify: 100,
+          verificationVid: "https://www.youtube.com/watch?v=HQfQYwl3yTU",
+        },
     /*=============================================================================*/
     {
       vids: [
