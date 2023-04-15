@@ -973,6 +973,12 @@ const d = {
     /*=============================================================================*/
         {
           vids: [
+            {
+              user: "CIDIAM",
+              link: "https://youtu.be/Cf2_wX02IjA",
+              percent: 100,
+              hz: "360hz",
+            },
           ],
           name: "Shitty Albondiga",
           author: "OfxGD [ItsASandyXD]",
@@ -2067,7 +2073,7 @@ const d = {
           user: "Pudgy",
           link: "https://www.youtube.com/watch?v=puzclSufmNs",
           percent: 100,
-          hz: "mobile",
+          hz: "Mobile",
         },
       ],
       name: "Shitty Kubik",
@@ -3158,6 +3164,12 @@ const d = {
     /*=============================================================================*/
         {
           vids: [
+            {
+              user: "CIDIAM",
+              link: "https://youtu.be/Cf2_wX02IjA",
+              percent: 100,
+              hz: "360hz",
+            },
           ],
           name: "Shitty Euphoric",
           author: "Daveenio",
