@@ -1546,6 +1546,12 @@ const d = {
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "CIDIAM",
+          link: "https://youtu.be/MBiqGyZ1LTE",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Sizzling Balls",
       author: "GGW [KSol72]",
@@ -1687,6 +1693,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/Tykv4MSS_Ig",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "CIDIAM",
+          link: "https://youtu.be/MBiqGyZ1LTE",
           percent: 100,
           hz: "360hz",
         },
@@ -1844,6 +1856,12 @@ const d = {
         {
           user: "Draven",
           link: "https://youtu.be/hU0G5jh1riM",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "CIDIAM",
+          link: "https://youtu.be/MBiqGyZ1LTE",
           percent: 100,
           hz: "360hz",
         },
@@ -2024,6 +2042,12 @@ const d = {
           link: "https://www.youtube.com/watch?v=TmQrcR5KKLc",
           percent: 100,
           hz: "240hz",
+        },
+        {
+          user: "CIDIAM",
+          link: "https://youtu.be/MBiqGyZ1LTE",
+          percent: 100,
+          hz: "360hz",
         },
       ],
       name: "Shitty Stercore",
