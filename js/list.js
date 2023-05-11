@@ -3,6 +3,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "BetoSSS",
+          link: "https://medal.tv/games/geometry-dash/clips/18NNl5Nmtcj3Tw/pRkVfyL5YsuL?invite=cr-MSx4R04sNDIzOTY5MjEs",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty DIKEMBE",
       author: "Ludwig [Gloomba]",
