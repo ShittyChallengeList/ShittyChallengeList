@@ -3492,6 +3492,7 @@ const d = {
         },
       ],
       name: "Shitty Yoshi Island",
+      author: "Wyatt_GD",
       id: 80082470,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/dABZy917J_w",
@@ -3802,6 +3803,12 @@ const d = {
           link: "https://www.youtube.com/watch?v=2BqMKRdIdnI",
           percent: 100,
           hz: "360hz",
+        },
+        {
+          user: "boylighty",
+          link: "https://www.youtube.com/watch?v=RwQnxF-HeKk",
+          percent: 100,
+          hz: "240hz",
         },
         {
           user: "Cric2",
