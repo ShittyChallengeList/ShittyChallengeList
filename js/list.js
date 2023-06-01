@@ -1925,7 +1925,7 @@ const d = {
           link: "https://www.youtube.com/watch?v=RiPAKW0Azto",
           percent: 100,
           hz: "288hz",
-        },1
+        },
       ],
       name: "Shitty Final Fantasy",
       author: "Sulky [Halledo]",
