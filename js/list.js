@@ -3,7 +3,13 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-{
+        {
+          user: "Draven",
+          link: "https://youtu.be/mFehz0yfx7U",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
           user: "BetoSSS",
           link: "https://medal.tv/games/geometry-dash/clips/18NNl5Nmtcj3Tw/pRkVfyL5YsuL?invite=cr-MSx4R04sNDIzOTY5MjEs",
           percent: 100,
@@ -1532,6 +1538,12 @@ const d = {
     /*=============================================================================*/
         {
           vids: [
+            {
+              user: "Draven",
+              link: "https://youtu.be/9wY9hoCte6Y",
+              percent: 100,
+              hz: "360hz",
+            },
           ],
           name: "Shitty Inchoation",
           author: "CIDIAM",
@@ -2202,6 +2214,12 @@ const d = {
     {
       vids: [
         {
+          user: "Draven",
+          link: "https://youtu.be/1tN1DfyNw4g",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
           user: "CIDIAM",
           link: "https://youtu.be/Cf2_wX02IjA",
           percent: 100,
@@ -2381,6 +2399,12 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
+        {
+          user: "Draven",
+          link: "https://youtu.be/KG6gU774iPw",
+          percent: 100,
+          hz: "360hz",
+        },
         {
           user: "CIDIAM",
           link: "https://youtu.be/Cf2_wX02IjA",
@@ -3398,6 +3422,12 @@ const d = {
     /*=============================================================================*/
         {
           vids: [
+            {
+              user: "Draven",
+              link: "https://youtu.be/KG6gU774iPw",
+              percent: 100,
+              hz: "360hz",
+            },
             {
               user: "CIDIAM",
               link: "https://youtu.be/Cf2_wX02IjA",
