@@ -1033,6 +1033,12 @@ const d = {
               percent: 100,
               hz: "144hz",
             },
+            {
+              user: "Draven",
+              link: "https://youtu.be/pboAm22hNA4",
+              percent: 100,
+              hz: "360hz",
+            },
           ],
           name: "Shitty Albondiga",
           author: "OfxGD [ItsASandyXD]",
