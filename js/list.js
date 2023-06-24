@@ -4896,7 +4896,7 @@ const d = {
           hz: "144hz",
         },
 {
-          user: "yaniseubank",
+          user: "slaapy",
           link: "https://www.youtube.com/watch?v=BrOraXfoxOs",
           percent: 100,
           hz: "240hz",
