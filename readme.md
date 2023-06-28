@@ -35,6 +35,7 @@ More Coming Soon!
 - Krisgra
 ---
 ## List Admins:
+- SEDTHEPRODIGY
 - KylashTheKiller
 ---
 ## List Moderators:
