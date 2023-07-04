@@ -1482,6 +1482,12 @@ const d = {
           percent: 100,
           hz: "240hz",
         },
+        {
+          user: "Cric2",
+          link: "https://www.youtube.com/watch?v=Ab-olMdFvzA",
+          percent: "100",
+          hz: "240hz",
+        }
       ],
       name: "Shitty Virulent Verge",
       author: "Vinny",
@@ -4509,6 +4515,12 @@ const d = {
           percent: 100,
           hz: "288hz",
         },
+{
+          user: "Cric2",
+          link: "https://www.youtube.com/watch?v=GHcUKthkXM8",
+          percent: "100",
+          hz: "240hz",
+        }
       ],
       name: "Shitty Funk god",
       author: "Dashermachine",
