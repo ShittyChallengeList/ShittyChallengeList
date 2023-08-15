@@ -1531,10 +1531,10 @@ const d = {
           hz: "240hz",
         },
         {
-          user: "Cric2",
-          link: "https://www.youtube.com/watch?v=Ab-olMdFvzA",
+          user: "Grilled",
+          link: "https://www.youtube.com/watch?v=DWr-bQV5ejk&ab_channel=GrilledTG",
           percent: "100",
-          hz: "240hz",
+          hz: "360hz",
         }
       ],
       name: "Shitty Virulent Verge",
