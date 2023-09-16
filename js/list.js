@@ -71,16 +71,6 @@
     /*=============================================================================*/
     {
       vids: [
-      ],
-      name: "Shitty Lavender",
-      author: "sincos",
-      id: 87039689,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=9FjQ7dqFifo",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
         {
           user: "toon",
           link: "https://www.youtube.com/watch?v=ike2xhgaaU0",
