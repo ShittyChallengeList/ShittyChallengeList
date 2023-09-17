@@ -22,7 +22,7 @@
           hz: "144hz",
         },
        {
-          user: "Shitty Dikkembe",
+          user: "StormTrue",
           link: "https://www.youtube.com/watch?v=aGLOCfXMUZ8",
           percent: 100,
           hz: "360hz",
