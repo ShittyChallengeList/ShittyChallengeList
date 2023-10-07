@@ -1447,6 +1447,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=8p2PEadEdv4",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Vera Lynn",
       author: "Jasker [Chuck Danger]",
@@ -1553,7 +1559,12 @@
           percent: 100,
           hz: "360hz",
         },
-
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=umHIJYIP3UU",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Flame",
       author: "Jasker [TheRandomStuff]",
@@ -1657,15 +1668,16 @@
         {
           user: "Grilled",
           link: "https://www.youtube.com/watch?v=DWr-bQV5ejk&ab_channel=GrilledTG",
-          percent: "100",
+          percent: 100,
           hz: "360hz",
-        }
+        },
 {
           user: "StormTrue",
           link: "https://www.youtube.com/watch?v=v5C11g9xYVc",
-          percent: "100",
+          percent: 100,
           hz: "360hz",
-        }
+        },
+
       ],
       name: "Shitty Virulent Verge",
       author: "Vinny",
@@ -1787,6 +1799,12 @@
 {
           user: "KSol",
           link: "https://youtu.be/hz7h1NsJTPk",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=DLFbsQlU4MU",
           percent: 100,
           hz: "360hz",
         },
@@ -2362,6 +2380,12 @@
 {
           user: "KSol",
           link: "https://youtu.be/ESiNAQZYSWE",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Halledo",
+          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=477s",
           percent: 100,
           hz: "360hz",
         },
@@ -4232,6 +4256,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "Halledo",
+          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=69s",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Yoshi Island",
       author: "Wyatt_GD",
@@ -5402,6 +5432,12 @@
           link: "https://medal.tv/games/geometry-dash/clips/1wJWmcaVe8YDBr/d133722PYNfm?invite=cr-MSxiWWYsMzE0MjM0MjYs",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "Shyft",
+          link: "https://youtu.be/gcdK9ekfUBM",
+          percent: 100,
+          hz: "240hz",
         },
       ],
       name: "Shitty I Suppose",
