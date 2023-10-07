@@ -239,9 +239,9 @@
           percent: 100,
           hz: "360hz",
         },
-{
+        {
           user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=_Gb8lqrVPFs",
+          link: "https://youtu.be/_Gb8lqrVPFs",
           percent: 100,
           hz: "360hz",
         },
@@ -1443,13 +1443,7 @@
         },
 {
           user: "zypherioxx",
-          link: "https://www.youtube.com/watch?v=jvpy4achdsQ",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=8p2PEadEdv4",
+          link: "https://youtu.be/jvpy4achdsQ",
           percent: 100,
           hz: "360hz",
         },
@@ -4238,12 +4232,6 @@
           percent: 100,
           hz: "360hz",
         },
-{
-          user: "Halledo",
-          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=71s",
-          percent: 100,
-          hz: "360hz",
-        },
       ],
       name: "Shitty Yoshi Island",
       author: "Wyatt_GD",
@@ -5403,7 +5391,18 @@
           percent: 100,
           hz: "360hz",
         },
-
+{
+          user: "Yorx",
+          link: "https://www.youtube.com/watch?v=ywZceXoLIds",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Hugo",
+          link: "https://medal.tv/games/geometry-dash/clips/1wJWmcaVe8YDBr/d133722PYNfm?invite=cr-MSxiWWYsMzE0MjM0MjYs",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty I Suppose",
       author: "Jasker",
@@ -5452,7 +5451,7 @@
         },
 {
           user: "Halledo",
-          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=36s",
+          link: "https://youtu.be/YTzoCVodp7Y?si=7Z2I6xZ-N2YvQ7mx&t=36s",
           percent: 100,
           hz: "360hz",
         },
@@ -5588,7 +5587,7 @@
         },
 {
           user: "Halledo",
-          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y",
+          link: "https://youtu.be/YTzoCVodp7Y?si=7Z2I6xZ-N2YvQ7mx",
           percent: 100,
           hz: "360hz",
         },
