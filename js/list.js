@@ -704,7 +704,7 @@
           hz: "288hz",
         },
 {
-          user: "KSol72",
+          user: "KSol",
           link: "https://www.youtube.com/watch?v=EhcuzmKdNps",
           percent: 100,
           hz: "360hz",
@@ -1553,13 +1553,7 @@
           hz: "240hz",
         },
 {
-          user: "Cric2",
-          link: "https://www.youtube.com/watch?v=Ab-olMdFvzA",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "KSol72",
+          user: "KSol",
           link: "https://www.youtube.com/watch?v=HX8r5Uo0ZFQ&t=108s",
           percent: 100,
           hz: "360hz",
@@ -1801,7 +1795,7 @@
           hz: "360hz",
         },
 {
-          user: "KSol72",
+          user: "KSol",
           link: "https://www.youtube.com/watch?v=hz7h1NsJTPk",
           percent: 100,
           hz: "360hz",
@@ -2382,7 +2376,7 @@
           hz: "144hz",
         },
 {
-          user: "KSol72",
+          user: "KSol",
           link: "https://www.youtube.com/watch?v=ESiNAQZYSWE",
           percent: 100,
           hz: "360hz",
@@ -4819,7 +4813,7 @@
           hz: "288hz",
         },
 {
-          user: "KSol72",
+          user: "KSol",
           link: "https://www.youtube.com/watch?v=n9LQFUn4_bY",
           percent: 100,
           hz: "360hz",
@@ -4982,13 +4976,13 @@
 {
           user: "Cric2",
           link: "https://www.youtube.com/watch?v=GHcUKthkXM8",
-          percent: "100",
+          percent: 100,
           hz: "240hz",
         }
 {
           user: "zypherioxx",
           link: "https://www.youtube.com/watch?v=h0EAT3ajOdg",
-          percent: "100",
+          percent: 100,
           hz: "360hz",
         }
       ],
@@ -5811,7 +5805,6 @@
           hz: "360hz",
         },
       ],
-
       name: "Shitty Wave Technic",
       author: "Godsnom [Jasker]",
       id: 72422914,
