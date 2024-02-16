@@ -585,6 +585,16 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/BdPlFYvj7PI",
     },
+   /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty Cooks",
+      author: "toon [toon]",
+      id: 89521897,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
+    },
     /*=============================================================================*/
     {
       vids: [
