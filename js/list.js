@@ -2732,6 +2732,16 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/w8fSPi4_y6g",
     },
+   /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty Serenity",
+      author: "noots [toon]",
+      id: 89609760,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=omZzmnfyoUQ",
+    },
     /*=============================================================================*/
     {
       vids: [
