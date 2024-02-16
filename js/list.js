@@ -1662,6 +1662,16 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/NEi3I_BgH4s",
     },
+   /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty Baphomet",
+      author: "Jasker [Jasker]",
+      id: 89154723,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=6YuD0b1SDqk&ab_channel=Jasker",
+    },
     /*=============================================================================*/
     {
       vids: [
