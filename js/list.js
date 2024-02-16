@@ -1670,7 +1670,7 @@
       author: "Jasker [Jasker]",
       id: 89154723,
       percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=6YuD0b1SDqk&ab_channel=Jasker",
+      verificationVid: "https://www.youtube.com/watch?v=6YuD0b1SDqk",
     },
     /*=============================================================================*/
     {
