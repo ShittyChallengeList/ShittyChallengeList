@@ -1057,6 +1057,22 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=Q5yGggbutZg",
     },
+   /*=============================================================================*/
+    {
+      vids: [
+{
+          user: "Keruo",
+          link: "https://www.youtube.com/watch?v=QMQ8U7M9x0s",
+          percent: 100,
+          hz: "240hz",
+        },
+      ],
+      name: "Shitty Silence",
+      author: "GGW [KSol]",
+      id: 70510783,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=t1DbQ8ApJjc",
+    },
     /*=============================================================================*/
     {
       vids: [
@@ -3884,106 +3900,6 @@
       id: 69626629,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=l9MaMlQWwYo",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        {
-          user: "Halledo",
-          link: "https://youtu.be/i9Wnx2FF2hY?t=46",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "RoboJesus",
-          link: "https://youtu.be/XIxTWPWWt4E",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Tai0",
-          link: "https://youtu.be/yka_YJryLXU",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "ThirtyTwelve",
-          link: "https://www.youtube.com/watch?v=4yHlUoZoTck",
-          percent: 100,
-          hz: "300hz",
-        },
-        {
-          user: "WShedd",
-          link: "https://www.youtube.com/watch?v=Dp10fFdHnsU",
-          percent: 100,
-          hz: "288hz",
-        },
-        {
-          user: "Lunar79Au",
-          link: "https://youtu.be/RTJX35An71w?t=81",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "nybia",
-          link: "https://www.youtube.com/watch?v=9lzi7LTrmDU",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Dodo",
-          link: "https://www.youtube.com/watch?v=vyXg8APkFxs",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Troy3",
-          link: "https://www.youtube.com/watch?v=f1X-KyyT0F0",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/JZhEoykX0G-mx/d1337wuaXdWB",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Toon",
-          link: "https://youtu.be/usvyX45VcsI",
-          percent: 100,
-          hz: "288hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/K8stenzNr3Y",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "CIDIAM",
-          link: "https://www.youtube.com/watch?v=Ow7TLdIHGXA",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Loumig",
-          link: "https://www.youtube.com/watch?v=rOVhSFs8fAQ",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "Keruo",
-          link: "https://www.youtube.com/watch?v=QMQ8U7M9x0s",
-          percent: 100,
-          hz: "240hz",
-        },
-      ],
-      name: "Shitty Silence",
-      author: "GGW [KSol]",
-      id: 70510783,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=t1DbQ8ApJjc",
     },
     /*=============================================================================*/
     {
