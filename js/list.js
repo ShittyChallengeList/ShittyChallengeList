@@ -972,7 +972,7 @@
     {
       vids: [
       ],
-      name: "Shitty lightposts",
+      name: "Shitty Lightposts",
       author: "ScorpionCL [SeeImHappy]",
       id: 93279596,
       percentToQualify: 100,
