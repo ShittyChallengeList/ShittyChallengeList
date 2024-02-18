@@ -971,6 +971,18 @@
           /*=============================================================================*/
     {
       vids: [
+       {
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=lb9pYyUeHUY",
+          percent: 100,
+          hz: "300hz",
+        },
+       {
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/1tQEKsMULz2H3P",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Lightposts",
       author: "ScorpionCL [SeeImHappy]",
