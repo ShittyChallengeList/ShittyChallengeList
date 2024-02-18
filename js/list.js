@@ -532,6 +532,16 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/hIkq6yvEkAc",
     },
+       /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty BLEED",
+      author: "Dipper552 [Dipper552]",
+      id: 97314097,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=zMr479CFmXQ",
+    },
     /*=============================================================================*/
     {
       vids: [
