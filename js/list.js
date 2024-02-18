@@ -968,6 +968,16 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/XF-2QfqhGQM",
     },
+          /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty lightposts",
+      author: "ScorpionCL [SeeImHappy]",
+      id: 93279596,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=akD_xdOg12w",
+    },
     /*=============================================================================*/
     {
       vids: [
