@@ -537,7 +537,7 @@
       vids: [
       ],
       name: "Shitty BLEED",
-      author: "Dipper552 [Dipper552]",
+      author: "Dipper552",
       id: 97314097,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=zMr479CFmXQ",
