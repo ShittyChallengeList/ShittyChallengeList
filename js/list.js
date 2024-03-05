@@ -4,46 +4,6 @@
     {
       vids: [
         {
-          user: "Draven",
-          link: "https://youtu.be/mFehz0yfx7U",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "BetoSSS",
-          link: "https://medal.tv/games/geometry-dash/clips/18NNl5Nmtcj3Tw/pRkVfyL5YsuL?invite=cr-MSx4R04sNDIzOTY5MjEs",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/1rilv7oUHZnWqg/R9ufDdpO2Lxl?invite=cr-MSxMSGosMTk4MDU4MjEyLA",
-          percent: 100,
-          hz: "144hz",
-        },
-       {
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=aGLOCfXMUZ8",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "krix",
-          link: "https://www.youtube.com/watch?v=yQMfdfCKmbs",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty DIKEMBE",
-      author: "Ludwig [Gloomba]",
-      id: 87103615,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/0os5gtLpRCk",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        {
           user: "toon",
           link: "https://www.youtube.com/watch?v=vf87NTxeHNI",
           percent: 100,
@@ -79,6 +39,46 @@
       id: 81835814,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=ydYqELe-uA8",
+    },
+        /*=============================================================================*/
+    {
+      vids: [
+        {
+          user: "Draven",
+          link: "https://youtu.be/mFehz0yfx7U",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "BetoSSS",
+          link: "https://medal.tv/games/geometry-dash/clips/18NNl5Nmtcj3Tw/pRkVfyL5YsuL?invite=cr-MSx4R04sNDIzOTY5MjEs",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/1rilv7oUHZnWqg/R9ufDdpO2Lxl?invite=cr-MSxMSGosMTk4MDU4MjEyLA",
+          percent: 100,
+          hz: "144hz",
+        },
+       {
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=aGLOCfXMUZ8",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "krix",
+          link: "https://www.youtube.com/watch?v=yQMfdfCKmbs",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty DIKEMBE",
+      author: "Ludwig [Gloomba]",
+      id: 87103615,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/0os5gtLpRCk",
     },
     /*=============================================================================*/
     {
