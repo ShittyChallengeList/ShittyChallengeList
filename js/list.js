@@ -1351,6 +1351,22 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=U9CvQDgeRkc",
     },
+        /*=============================================================================*/
+    {
+      vids: [
+        {
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=l723DfvtSes",
+          percent: 100,
+          hz: "240hz",
+        },
+      ],
+      name: "Shitty Murder Mitten",
+      author: "Dipper552",
+      id: 91236966,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/jfbx7wqw4DA",
+    },
     /*=============================================================================*/
     {
       vids: [
