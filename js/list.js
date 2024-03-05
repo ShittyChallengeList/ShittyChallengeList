@@ -779,6 +779,16 @@
     /*=============================================================================*/
     {
       vids: [
+      ],
+      name: "Shitty Viper",
+      author: "Grilled [StormTrue]",
+      id: 101543853,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=CmJocguZyRA",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
         {
           user: "Draven",
           link: "https://youtu.be/vn7W0DgmyNA",
