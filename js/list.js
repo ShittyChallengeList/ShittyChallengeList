@@ -1099,6 +1099,16 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
     },
+        /*=============================================================================*/
+    {
+      vids: [
+      ],
+      name: "Shitty Electric Feel",
+      author: "itsAnelo",
+      id: 101628015,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=3ZetqeNAfX4",
+    },
    /*=============================================================================*/
     {
       vids: [
