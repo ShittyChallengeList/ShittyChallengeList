@@ -2283,6 +2283,76 @@
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=kin3V3esDB4",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "krix",
+          link: "https://www.youtube.com/watch?v=boiof5BXdlg",
+          percent: 100,
+          hz: "300hz",
+        },
+        {
+          user: "jeyk",
+          link: "https://medal.tv/games/geometry-dash/clips/RazrUHpuH1wir/d1337rHKUVXA?invite=cr-MSw1VjYsMTQyMDAxNDAs",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/47KnTpGPpJs",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/SojySx4yT_ovu/pJ8dXi8ehwfh?invite=cr-MSxsZ3osMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "lilnibblit",
+          link: "https://www.youtube.com/watch?v=p3Ce9lyhg-4",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Domesz",
+          link: "https://www.youtube.com/watch?v=sbB3jrRanOI",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Tapdot",
+          link: "https://youtu.be/aBu-3mkbVvU",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Grilled",
+          link: "https://youtu.be/IU2nzhp4ajc?t=1241",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Halledo",
+          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=429s",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty Delusion",
+      author: "Dipper552",
+      id: 86839519,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=gwLqAJ88nCk",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
         {
           user: "KrisGra",
           link: "https://youtu.be/DBv4hYDX1tA",
@@ -2862,76 +2932,6 @@
       id: 79749908,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/jQGkyjbtPh4",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-{
-          user: "CIDIAM",
-          link: "https://www.youtube.com/watch?v=kin3V3esDB4",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "krix",
-          link: "https://www.youtube.com/watch?v=boiof5BXdlg",
-          percent: 100,
-          hz: "300hz",
-        },
-        {
-          user: "jeyk",
-          link: "https://medal.tv/games/geometry-dash/clips/RazrUHpuH1wir/d1337rHKUVXA?invite=cr-MSw1VjYsMTQyMDAxNDAs",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/47KnTpGPpJs",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/SojySx4yT_ovu/pJ8dXi8ehwfh?invite=cr-MSxsZ3osMzQzNDU2Mjks",
-          percent: 100,
-          hz: "144hz",
-        },
-{
-          user: "lilnibblit",
-          link: "https://www.youtube.com/watch?v=p3Ce9lyhg-4",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Domesz",
-          link: "https://www.youtube.com/watch?v=sbB3jrRanOI",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Tapdot",
-          link: "https://youtu.be/aBu-3mkbVvU",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Grilled",
-          link: "https://youtu.be/IU2nzhp4ajc?t=1241",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Halledo",
-          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=429s",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Delusion",
-      author: "Dipper552",
-      id: 86839519,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=gwLqAJ88nCk",
     },
     /*=============================================================================*/
     {
