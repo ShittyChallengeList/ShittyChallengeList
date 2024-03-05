@@ -37,9 +37,9 @@ More Coming Soon!
 ## List Admins:
 - SEDTHEPRODIGY
 - KylashTheKiller
+- Grilled
 ---
 ## List Moderators:
-- Achlys
 - Brooke
 - BlizzardLaZario
 ---
@@ -48,7 +48,6 @@ More Coming Soon!
 ---
 ## Server Moderators:
 - Jasker
-- Quacky
 - Pudgy
 ---
 ## Repo Maintainers:
