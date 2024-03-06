@@ -7469,9 +7469,9 @@ console.log(
 
 //automatically changes keys aka awesome
 for (let x = 0; x < list.length; x++) {
-  if (x < 75) {
+  if (x < 100) {
     list[x].key = x;
-  } else if (x >= 75) {
+  } else if (x >= 100) {
     list[x].legacykey = 0;
   }
 }
