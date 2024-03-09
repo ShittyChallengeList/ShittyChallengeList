@@ -7004,47 +7004,6 @@
     {
       vids: [
         {
-          user: "Troy3",
-          link: "https://www.youtube.com/watch?v=rr6PiepRu1s",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "Stolen Burrito",
-          link: "https://youtu.be/RcZ3SS5Rp7o?t=805",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Dodo",
-          link: "https://drive.google.com/file/d/1aCvZcOnHCCZn8euqTnq4QWBrWbodmT7i/view?usp=sharing",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "CrokyTheKiwi",
-          link: "https://www.youtube.com/watch?v=CnTSQ8LJBI4",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "CIDIAM",
-          link: "https://youtu.be/H9LU990m3CI",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Bloody Knuckles",
-      author: "Nybia",
-      id: 81492236,
-      pass: "None",
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/vxBzggP99RQ",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        {
           user: "Pudgy",
           link: "https://www.youtube.com/watch?v=VRnnW3CLcWo",
           percent: 100,
