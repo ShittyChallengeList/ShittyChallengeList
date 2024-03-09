@@ -2488,40 +2488,6 @@
     },
     /*=============================================================================*/
     {
-      vids: [
-        {
-          user: "matw",
-          link: "https://www.youtube.com/shorts/EyvTTZfoe7g",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/vzeBf7ITF8Y",
-          percent: 100,
-          hz: "360hz",
-        },
-         {
-          user: "seeimhappy",
-          link: "https://www.youtube.com/watch?v=XkAQoHjuZrI&ab_channel=SeeImHappy",
-          percent: 100,
-          hz: "330hz",
-        },
-{
-          user: "Halledo",
-          link: "https://www.youtube.com/watch?v=N2MO66HOdOM&t=46s",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Dospuntos",
-      author: "Ludwig [KrisGra]",
-      id: 77628863,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/55lF9DxzSV4",
-    },
-    /*=============================================================================*/
-    {
       "vids": [
         {
           user: "Draven",
@@ -7186,17 +7152,6 @@
       id: 69108657,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=L3T-xD_n5MM",
-    },
-    /*=============================================================================*/
-    {
-      vids: [],
-      name: "Shitty Endgame",
-      author: "TheInsanePro [Tai0]",
-      more: "none",
-      id: 71952809,
-      pass: "pass",
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/bFg2e0oPZPU",
     },
     /*=============================================================================*/
     {
