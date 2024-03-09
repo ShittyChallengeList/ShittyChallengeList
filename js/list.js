@@ -685,82 +685,6 @@
       verificationVid: "https://www.youtube.com/watch?v=xY_HRtmupYA",
     },
     /*=============================================================================*/
-    {
-      vids: [
-        {
-          user: "KrisGra",
-          link: "https://www.youtube.com/watch?v=YNVWEk1SMfE",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Troy3",
-          link: "https://www.youtube.com/watch?v=XANQtjTE1uM",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "Tinkby",
-          link: "https://youtu.be/M3cAXctvq7c",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "toon",
-          link: "https://cdn.discordapp.com/attachments/944699619739328623/995551771831324733/Geometry_Dash_2022.07.10_-_00.46.09.08.DVR_Trim.mp4",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/Kdz9KPFs3aH3b/ZNqFO4s5nTBQ?theater=true",
-          percent: 100,
-          hz: "144hz",
-        },
-{
-          user: "matw",
-          link: "https://www.youtube.com/shorts/UhPLQJwGO1c",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/ncrZT513RO8",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Demonkiller124",
-          link: "https://www.youtube.com/watch?v=evLpVBzjpVw&ab_channel=judeluv3",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "CIDIAM",
-          link: "https://www.youtube.com/watch?v=UXZ3J_zHoJY",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Grilled",
-          link: "https://www.youtube.com/watch?v=e9f3ZB0dl8I",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Halledo",
-          link: "https://www.youtube.com/watch?v=N2MO66HOdOM&t=384s",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Temple Of Seraph",
-      author: "Toxicysm [Magic]",
-      id: 72009639,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/sCPBprp4YG0",
-    },
-    /*=============================================================================*/
     //{
     //  vids: [
     //    {
@@ -1461,6 +1385,82 @@
           percentToQualify: 100,
           verificationVid: "https://youtu.be/aV305tBGyJE",
         },
+       /*=============================================================================*/
+    {
+      vids: [
+        {
+          user: "KrisGra",
+          link: "https://www.youtube.com/watch?v=YNVWEk1SMfE",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "Troy3",
+          link: "https://www.youtube.com/watch?v=XANQtjTE1uM",
+          percent: 100,
+          hz: "180hz",
+        },
+        {
+          user: "Tinkby",
+          link: "https://youtu.be/M3cAXctvq7c",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "toon",
+          link: "https://cdn.discordapp.com/attachments/944699619739328623/995551771831324733/Geometry_Dash_2022.07.10_-_00.46.09.08.DVR_Trim.mp4",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/Kdz9KPFs3aH3b/ZNqFO4s5nTBQ?theater=true",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "matw",
+          link: "https://www.youtube.com/shorts/UhPLQJwGO1c",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/ncrZT513RO8",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Demonkiller124",
+          link: "https://www.youtube.com/watch?v=evLpVBzjpVw&ab_channel=judeluv3",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=UXZ3J_zHoJY",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Grilled",
+          link: "https://www.youtube.com/watch?v=e9f3ZB0dl8I",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Halledo",
+          link: "https://www.youtube.com/watch?v=N2MO66HOdOM&t=384s",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty Temple Of Seraph",
+      author: "Toxicysm [Magic]",
+      id: 72009639,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/sCPBprp4YG0",
+    },
     /*=============================================================================*/
     {
       vids: [
