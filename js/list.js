@@ -79,6 +79,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "SeeImHappy",
+          link: "https://www.youtube.com/watch?v=4aFWvOp4BBM",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty DIKEMBE",
       author: "Ludwig [Gloomba]",
@@ -1038,6 +1044,12 @@
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "boylighty",
+          link: "https://www.youtube.com/watch?v=vwZylxMat2Q",
+          percent: 100,
+          hz: "240hz",
+        },
 {
           user: "StormTrue",
           link: "https://www.youtube.com/watch?v=-2nwBkWUhg4",
@@ -2373,6 +2385,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=322s",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty Delusion",
       author: "Dipper552",
@@ -2927,6 +2945,12 @@
           link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=457s",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=55s",
+          percent: 100,
+          hz: "240hz",
         },
       ],
       name: "Shitty Sadism",
@@ -4433,6 +4457,12 @@
               percent: 100,
               hz: "360hz",
             },
+{
+              user: "StormTrue",
+              link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=112s",
+              percent: 100,
+              hz: "240hz",
+            },
           ],
           name: "Shitty Euphoric",
           author: "Daveenio",
@@ -4662,6 +4692,12 @@
           link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=69s",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw",
+          percent: 100,
+          hz: "240hz",
         },
       ],
       name: "Shitty Yoshi Island",
@@ -5019,6 +5055,12 @@
           link: "https://www.youtube.com/watch?v=yQ6sUZsXlVc",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=196s",
+          percent: 100,
+          hz: "240hz",
         },
 
       ],
@@ -5875,6 +5917,12 @@
           link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=19s",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=251s",
+          percent: 100,
+          hz: "240hz",
         },
       ],
       name: "Shitty Franzy Skill Issue",
@@ -6980,6 +7028,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=84s",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty SOHH",
       author: "Strix",
@@ -7040,6 +7094,12 @@
         {
           user: "Aura",
           link: "https://www.youtube.com/watch?v=qyDzWseGsf8",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=23s",
           percent: 100,
           hz: "240hz",
         },
@@ -7203,7 +7263,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=288s",
+          percent: 100,
+          hz: "240hz",
+        },
+],
       name: "Shitty Bedrock Dance",
       author: "Tai0",
       id: 66870212,
@@ -7221,7 +7288,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=150s",
+          percent: 100,
+          hz: "240hz",
+        },
+],
       name: "Shitty Easy Wave Practice",
       author: "Wadur",
       id: 67093063,
