@@ -39,6 +39,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "jeyk",
+          link: "https://medal.tv/games/geometry-dash/clips/2095SPBiusszHh/ICPtmF9Ng4fF?invite=cr-MSxiY20sMTQyMDAxNDAs?mobilebypass=true",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty SADOMASOCHISM",
       author: "Jasker [Coakmuffer]",
@@ -6013,6 +6019,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/201Cus151BoWQP/KwLjFO78XywM?invite=cr-MSxLVUMsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Yubin",
       author: "Swidiot [Dark Angle]",
@@ -6670,6 +6682,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/201jzhemX270i7/CNhVALLLAy3k?invite=cr-MSxaaHAsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Swinging Balls",
       author: "Chuck Danger",
@@ -6745,6 +6763,12 @@
           link: "https://www.youtube.com/watch?v=l6eSXSlfX6w",
           percent: 100,
           hz: "165hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/2018JKy8TqdMWp/J6tJ6WZ2Egs6?invite=cr-MSxQQU8sMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
         },
       ],
       name: "Shitty What You Love",
@@ -7034,6 +7058,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/200TM83ezxWulK/iX9WuguM2B3P?invite=cr-MSwwT2osMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty SOHH",
       author: "Strix",
@@ -7102,6 +7132,12 @@
           link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=23s",
           percent: 100,
           hz: "240hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/2012x64evurR5u/jjgYLWoUi8Ry?invite=cr-MSxjSncsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
         },
       ],
       name: "Shitty Rektumi",
@@ -7236,7 +7272,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/200LwwRyD81cMO/D28QdMmvkTDb?invite=cr-MSxMbW4sMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
+],
       name: "Shitty Soccermoms",
       author: "TravelChimp [Magic]",
       id: 102181566,
@@ -7254,7 +7297,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/201NMD47rcz7Cp/SNALzFPFn7GN?invite=cr-MSxEQUEsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
+],
       name: "Shitty Sheol Death",
       author: "Lawnmower",
       id: 66924028,
@@ -7270,6 +7320,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/2023MPzj8fPZNu/PihvKUjJFzaT?invite=cr-MSxuOWwsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
 ],
       name: "Shitty Bedrock Dance",
       author: "Tai0",
@@ -7279,7 +7335,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/202cAEjqa0T0AF/u5kyIozSMxfB?invite=cr-MSxKS1QsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
+],
       name: "Shitty Ravioli",
       author: "Magic",
       id: 72048762,
@@ -7295,6 +7358,18 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/202JiL1aoN7UzJ/UmAP1jlEOJGb?invite=cr-MSxxclYsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "Liz",
+          link: "https://www.youtube.com/watch?v=qzuivS0iAKw&t=258s",
+          percent: 100,
+          hz: "240hz",
+        },
 ],
       name: "Shitty Easy Wave Practice",
       author: "Wadur",
@@ -7304,7 +7379,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/202lJvWEnwaUo-/NJdZhuMgIhAN?invite=cr-MSxkU3QsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
+],
       name: "Shitty Clouded Park",
       author: "Magic",
       id: 69108657,
@@ -7322,7 +7404,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/202fJq-DOT3Q7e/pSgreJ2IqAzN?invite=cr-MSxQWWMsMzQzNDU2Mjks?mobilebypass=true",
+          percent: 100,
+          hz: "144hz",
+        },
+],
       name: "Shitty Cold Water",
       author: "Jasker",
       id: 73731976,
