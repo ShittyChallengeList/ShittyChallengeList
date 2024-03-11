@@ -6770,6 +6770,12 @@
           percent: 100,
           hz: "144hz",
         },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty What You Love",
       author: "Jasker",
@@ -6843,6 +6849,12 @@
         {
           user: "Draven",
           link: "https://youtu.be/-Huc3C_jC9U",
+          percent: 100,
+          hz: "360hz",
+        },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
         },
@@ -7064,6 +7076,12 @@
           percent: 100,
           hz: "144hz",
         },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty SOHH",
       author: "Strix",
@@ -7279,6 +7297,12 @@
           percent: 100,
           hz: "144hz",
         },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
 ],
       name: "Shitty Soccermoms",
       author: "TravelChimp [Magic]",
@@ -7288,7 +7312,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
       name: "Shitty YSA",
       author: "WShedd",
       id: 73096693,
@@ -7303,6 +7334,12 @@
           link: "https://medal.tv/games/geometry-dash/clips/201NMD47rcz7Cp/SNALzFPFn7GN?invite=cr-MSxEQUEsMzQzNDU2Mjks?mobilebypass=true",
           percent: 100,
           hz: "144hz",
+        },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
         },
 ],
       name: "Shitty Sheol Death",
@@ -7325,6 +7362,12 @@
           link: "https://medal.tv/games/geometry-dash/clips/2023MPzj8fPZNu/PihvKUjJFzaT?invite=cr-MSxuOWwsMzQzNDU2Mjks?mobilebypass=true",
           percent: 100,
           hz: "144hz",
+        },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
         },
 ],
       name: "Shitty Bedrock Dance",
@@ -7349,6 +7392,12 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=rLUHUH28hX0",
     },
+   {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
     /*=============================================================================*/
     {
       vids: [
@@ -7370,6 +7419,12 @@
           percent: 100,
           hz: "240hz",
         },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
 ],
       name: "Shitty Easy Wave Practice",
       author: "Wadur",
@@ -7386,6 +7441,12 @@
           percent: 100,
           hz: "144hz",
         },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
 ],
       name: "Shitty Clouded Park",
       author: "Magic",
@@ -7395,7 +7456,14 @@
     },
     /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
       name: "Shitty Venom Challenge",
       author: "Magic",
       id: 71327863,
@@ -7410,6 +7478,12 @@
           link: "https://medal.tv/games/geometry-dash/clips/202fJq-DOT3Q7e/pSgreJ2IqAzN?invite=cr-MSxQWWMsMzQzNDU2Mjks?mobilebypass=true",
           percent: 100,
           hz: "144hz",
+        },
+       {
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
         },
 ],
       name: "Shitty Cold Water",
