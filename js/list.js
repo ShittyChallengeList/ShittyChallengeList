@@ -6770,7 +6770,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -6852,7 +6852,7 @@
           percent: 100,
           hz: "360hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7076,7 +7076,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7297,7 +7297,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7313,7 +7313,7 @@
     /*=============================================================================*/
     {
       vids: [
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7335,7 +7335,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7363,7 +7363,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7385,6 +7385,12 @@
           percent: 100,
           hz: "144hz",
         },
+{
+          user: "Grilled",
+          link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
 ],
       name: "Shitty Ravioli",
       author: "Magic",
@@ -7392,12 +7398,6 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=rLUHUH28hX0",
     },
-   {
-          user: "Grilled",
-          link: "https://youtu.be/hpZPER3bOdQ",
-          percent: 100,
-          hz: "360hz",
-        },
     /*=============================================================================*/
     {
       vids: [
@@ -7419,7 +7419,7 @@
           percent: 100,
           hz: "240hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7441,7 +7441,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7457,7 +7457,7 @@
     /*=============================================================================*/
     {
       vids: [
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
@@ -7479,7 +7479,7 @@
           percent: 100,
           hz: "144hz",
         },
-       {
+{
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
