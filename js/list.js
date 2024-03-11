@@ -535,6 +535,12 @@
        /*=============================================================================*/
     {
       vids: [
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=R_aOMx_usHk&t=9s",
+          percent: 100,
+          hz: "240hz",
+        }, 
       ],
       name: "Shitty BLEED",
       author: "Dipper552",
@@ -1026,6 +1032,12 @@
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=-2nwBkWUhg4",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty Cooks",
       author: "toon [toon]",
@@ -1743,6 +1755,12 @@
    /*=============================================================================*/
     {
       vids: [
+{
+          user: "Dipper552",
+          link: "https://www.youtube.com/watch?v=3URJ6Y5QCu8",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Baphomet",
       author: "Jasker [Jasker]",
@@ -3252,6 +3270,12 @@
           percent: 100,
           hz: "300hz",
         },
+{
+          user: "indianocean",
+          link: "https://www.youtube.com/watch?v=RQoyd-Nym8s",
+          percent: 100,
+          hz: "145hz",
+        },
       ],
       name: "Shitty Adoraballa",
       author: "Scorpion",
@@ -3541,6 +3565,12 @@
           link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=179s",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "indianocean",
+          link: "https://www.youtube.com/watch?v=UTnB3HLmB6g",
+          percent: 100,
+          hz: "145hz",
         },
       ],
       name: "Shitty Challenge IX",
@@ -3964,6 +3994,12 @@
           link: "https://youtu.be/t5AedVeofMw",
           percent: 100,
           hz: "120hz",
+        },
+{
+          user: "indianocean",
+          link: "https://www.youtube.com/watch?v=CEPjLr2cBtE",
+          percent: 100,
+          hz: "144hz",
         },
       ],
       name: "Shitty Zeronium",
@@ -5455,6 +5491,24 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "Zvillepello",
+          link: "https://www.youtube.com/watch?v=sryg7DoLCAs&t=58s",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "NewAlexGamer",
+          link: "https://www.youtube.com/watch?v=9CSGT2fvhjE",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "Exeleb",
+          link: "https://www.youtube.com/watch?v=HPl3oZcjB7o",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty I Suppose",
       author: "Jasker",
@@ -5739,6 +5793,12 @@
           link: "https://www.youtube.com/watch?v=bTFarjgAnT8&list=PLLYklcSFXBvtX1otXiLFFfdA7PxmGRga1&index=4",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=mPknauOGffA",
+          percent: 100,
+          hz: "240hz",
         },
       ],
       name: "Shitty Goodbye Moonmen",
