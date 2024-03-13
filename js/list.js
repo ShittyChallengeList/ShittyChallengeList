@@ -6688,6 +6688,12 @@
           percent: 100,
           hz: "144hz",
         },
+{
+          user: "Grilled",
+          link: "https://youtu.be/t0KEFmMPXK4",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Swinging Balls",
       author: "Chuck Danger",
@@ -6970,6 +6976,12 @@
           percent: 100,
           hz: "144hz",
         },
+{
+          user: "Grilled",
+          link: "https://youtu.be/t0KEFmMPXK4",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty QHC",
       author: "RoboJesus [KSol]",
@@ -7092,7 +7104,12 @@
     /*=============================================================================*/
     {
       vids: [
-
+       {
+          user: "Grilled",
+          link: "https://youtu.be/t0KEFmMPXK4",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty bVb",
       author: "Overflux [KSol]",
@@ -7156,6 +7173,12 @@
           link: "https://medal.tv/games/geometry-dash/clips/2012x64evurR5u/jjgYLWoUi8Ry?invite=cr-MSxjSncsMzQzNDU2Mjks?mobilebypass=true",
           percent: 100,
           hz: "144hz",
+        },
+{
+          user: "Grilled",
+          link: "https://youtu.be/t0KEFmMPXK4",
+          percent: 100,
+          hz: "360hz",
         },
       ],
       name: "Shitty Rektumi",
