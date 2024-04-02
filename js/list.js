@@ -789,6 +789,28 @@
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "Keruo",
+          link: "https://www.youtube.com/watch?v=QMQ8U7M9x0s",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=-lZ3LYeT074",
+          percent: 100,
+          hz: "240hz",
+        },
+      ],
+      name: "Shitty Silence",
+      author: "GGW [KSol]",
+      id: 70510783,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=t1DbQ8ApJjc",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
         {
           user: "Troy3",
           link: "https://www.youtube.com/watch?v=I88ZPldwPIY",
@@ -1078,28 +1100,6 @@
    /*=============================================================================*/
     {
       vids: [
-{
-          user: "Keruo",
-          link: "https://www.youtube.com/watch?v=QMQ8U7M9x0s",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=-lZ3LYeT074",
-          percent: 100,
-          hz: "240hz",
-        },
-      ],
-      name: "Shitty Silence",
-      author: "GGW [KSol]",
-      id: 70510783,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=t1DbQ8ApJjc",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
         {
           user: "KrisGra",
           link: "https://www.youtube.com/watch?v=MdzvFsIhYmg",
@@ -1334,28 +1334,6 @@
       verificationVid: "https://www.youtube.com/watch?v=U9CvQDgeRkc",
     },
         /*=============================================================================*/
-       {
-      vids: [
-{
-          user: "boylighty",
-          link: "https://www.youtube.com/watch?v=vwZylxMat2Q",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=-2nwBkWUhg4",
-          percent: 100,
-          hz: "240hz",
-        },
-      ],
-      name: "Shitty Cooks",
-      author: "toon [toon]",
-      id: 102182487,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
-    },
-        /*=============================================================================*/
     {
       vids: [
         {
@@ -1446,6 +1424,28 @@
           verificationVid: "https://youtu.be/aV305tBGyJE",
         },
        /*=============================================================================*/
+       {
+      vids: [
+{
+          user: "boylighty",
+          link: "https://www.youtube.com/watch?v=vwZylxMat2Q",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=-2nwBkWUhg4",
+          percent: 100,
+          hz: "240hz",
+        },
+      ],
+      name: "Shitty Cooks",
+      author: "toon [toon]",
+      id: 102182487,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
+    },
+        /*=============================================================================*/
     {
       vids: [
         {
@@ -1526,6 +1526,82 @@
       id: 72009639,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/sCPBprp4YG0",
+    },
+    /*=============================================================================*/
+    {
+      vids: [
+{
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=kin3V3esDB4",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "krix",
+          link: "https://www.youtube.com/watch?v=boiof5BXdlg",
+          percent: 100,
+          hz: "300hz",
+        },
+        {
+          user: "jeyk",
+          link: "https://medal.tv/games/geometry-dash/clips/RazrUHpuH1wir/d1337rHKUVXA?invite=cr-MSw1VjYsMTQyMDAxNDAs",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/47KnTpGPpJs",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/SojySx4yT_ovu/pJ8dXi8ehwfh?invite=cr-MSxsZ3osMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "lilnibblit",
+          link: "https://www.youtube.com/watch?v=p3Ce9lyhg-4",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Domesz",
+          link: "https://www.youtube.com/watch?v=sbB3jrRanOI",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Tapdot",
+          link: "https://youtu.be/aBu-3mkbVvU",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Grilled",
+          link: "https://youtu.be/IU2nzhp4ajc?t=1241",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Halledo",
+          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=429s",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=322s",
+          percent: 100,
+          hz: "240hz",
+        },
+      ],
+      name: "Shitty Delusion",
+      author: "Dipper552",
+      id: 86839519,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=gwLqAJ88nCk",
     },
     /*=============================================================================*/
     {
@@ -2357,82 +2433,6 @@
       id: 71813072,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=3-25PejWzIw",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-{
-          user: "CIDIAM",
-          link: "https://www.youtube.com/watch?v=kin3V3esDB4",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "krix",
-          link: "https://www.youtube.com/watch?v=boiof5BXdlg",
-          percent: 100,
-          hz: "300hz",
-        },
-        {
-          user: "jeyk",
-          link: "https://medal.tv/games/geometry-dash/clips/RazrUHpuH1wir/d1337rHKUVXA?invite=cr-MSw1VjYsMTQyMDAxNDAs",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/47KnTpGPpJs",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/SojySx4yT_ovu/pJ8dXi8ehwfh?invite=cr-MSxsZ3osMzQzNDU2Mjks",
-          percent: 100,
-          hz: "144hz",
-        },
-{
-          user: "lilnibblit",
-          link: "https://www.youtube.com/watch?v=p3Ce9lyhg-4",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Domesz",
-          link: "https://www.youtube.com/watch?v=sbB3jrRanOI",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Tapdot",
-          link: "https://youtu.be/aBu-3mkbVvU",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Grilled",
-          link: "https://youtu.be/IU2nzhp4ajc?t=1241",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Halledo",
-          link: "https://www.youtube.com/watch?v=YTzoCVodp7Y&t=429s",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=ir1JAjxuffw#t=322s",
-          percent: 100,
-          hz: "240hz",
-        },
-      ],
-      name: "Shitty Delusion",
-      author: "Dipper552",
-      id: 86839519,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=gwLqAJ88nCk",
     },
     /*=============================================================================*/
     {
