@@ -1090,6 +1090,12 @@
           percent: 100,
           hz: "144hz",
         },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=ITuMq2P8yRo&t=8s",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty Electric Feel",
       author: "itsAneko",
@@ -7551,6 +7557,12 @@
 {
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Cramble",
+          link: "https://youtu.be/dIBy69fc5z8",
           percent: 100,
           hz: "360hz",
         },
