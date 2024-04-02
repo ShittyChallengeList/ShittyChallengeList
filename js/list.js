@@ -4682,6 +4682,7 @@
           link: "https://www.youtube.com/shorts/QPcOhTdwMd4",
           percent: 100,
           hz: "120hz",
+        },
       ],
       name: "Shitty Lost Sense",
       author: "Strix",
