@@ -2941,6 +2941,7 @@
           link: "https://youtu.be/eH6uVXHJFgc",
           percent: 100,
           hz: "360hz",
+},
       ],
       name: "Shitty Serenity",
       author: "noots [toon]",
