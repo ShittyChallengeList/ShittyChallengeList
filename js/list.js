@@ -727,6 +727,12 @@
     /*=============================================================================*/
     {
       vids: [
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20Rl6S0HLjdPNr/d1337s3eAy21?invite=cr-MSxFbkIsMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Viper",
       author: "Grilled [StormTrue]",
@@ -766,6 +772,12 @@
           link: "https://www.youtube.com/watch?v=u2kDUnF3soE",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20L6h1E2loWXf8/d1337Bptm9JG?invite=cr-MSxkVkosMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
         },
       ],
       name: "Shitty Run",
@@ -1050,6 +1062,12 @@
     /*=============================================================================*/
     {
       vids: [
+        {
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20JPRp58W3zzBg/d1337jnpJYPZ?invite=cr-MSxaNW0sMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Electric Feel",
       author: "itsAneko",
@@ -1063,6 +1081,12 @@
 {
           user: "Keruo",
           link: "https://www.youtube.com/watch?v=QMQ8U7M9x0s",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=-lZ3LYeT074",
           percent: 100,
           hz: "240hz",
         },
@@ -2233,6 +2257,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "Vantasia",
+          link: "https://www.youtube.com/shorts/E0P-GqDhMFo",
+          percent: 100,
+          hz: "300hz",
+        },
       ],
       name: "Shitty 521",
       author: "Tinkby [arielus05]",
@@ -2906,6 +2936,11 @@
    /*=============================================================================*/
     {
       vids: [
+{
+          user: "Cramble",
+          link: "https://youtu.be/eH6uVXHJFgc",
+          percent: 100,
+          hz: "360hz",
       ],
       name: "Shitty Serenity",
       author: "noots [toon]",
@@ -4209,6 +4244,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20GpekmgSZ4kOT/d1337QZG9jPs?invite=cr-MSxKa24sMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Nauru",
       author: "Vinny",
@@ -4469,6 +4510,12 @@
               percent: 100,
               hz: "240hz",
             },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20pJI2OQxPA9A2/d1337qomhUFJ?invite=cr-MSxsZm0sMzQzNDU2Mjks",
+          percent: "100",
+          hz: "144hz",
+        },
           ],
           name: "Shitty Euphoric",
           author: "Daveenio",
@@ -4629,6 +4676,11 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "Vantasia",
+          link: "https://www.youtube.com/shorts/QPcOhTdwMd4",
+          percent: 100,
+          hz: "120hz",
       ],
       name: "Shitty Lost Sense",
       author: "Strix",
@@ -5930,6 +5982,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20pjgSwy56T8bG/d1337Efz75IO?invite=cr-MSx5VGosMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Franzy Skill Issue",
       author: "Ludwig",
@@ -7094,6 +7152,12 @@
           percent: 100,
           hz: "360hz",
         },
+{
+          user: "KrisYa",
+          link: "https://youtu.be/CXN0E8nVPWI?si=XDD87c0aToaTMX28",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty SOHH",
       author: "Strix",
@@ -7348,6 +7412,12 @@
           percent: 100,
           hz: "240hz",
         },
+        {
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20oMDWqtFQF8OM/d1337VmQEdd1?invite=cr-MSxtRmosMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty YSA",
       author: "WShedd",
@@ -7419,6 +7489,12 @@
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
+        },
+{
+          user: "bot",
+          link: "https://www.youtube.com/watch?v=wBg8vX1SbkU",
+          percent: 100,
+          hz: "240hz",
         },
 ],
       name: "Shitty Ravioli",
@@ -7498,6 +7574,24 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/20oVWTxOaldxo7/d1337sOmHvUE?invite=cr-MSwzTjMsMzQzNDU2Mjks",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "KrisYa",
+          link: "https://youtu.be/VYdyU5shiGU?si=ggq6e7I7yHXKAk6t",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Cramble",
+          link: "https://youtu.be/G35nKkEEoCY?si=a56crjDD2Fhu5DLe",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Venom Challenge",
       author: "Magic",
@@ -7517,6 +7611,12 @@
 {
           user: "Grilled",
           link: "https://youtu.be/hpZPER3bOdQ",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "KrisYa",
+          link: "https://youtu.be/kxN9AIxW0UY?si=WZ3TWOzyWHqHH_Wqv=-lZ3LYeT074",
           percent: 100,
           hz: "360hz",
         },
