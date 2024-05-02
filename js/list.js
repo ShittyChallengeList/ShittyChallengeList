@@ -98,6 +98,15 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/0os5gtLpRCk",
     },
+       /*=============================================================================*/
+    {
+      vids: [],
+      name: "Shitty Torrent",
+      author: "Grilled [StormTrue]",
+      id: 92657729,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=SUQMH6ZFis4",
+    },
     /*=============================================================================*/
     {
       vids: [
