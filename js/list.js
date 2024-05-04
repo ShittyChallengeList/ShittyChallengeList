@@ -561,6 +561,15 @@
     },
        /*=============================================================================*/
     {
+      vids: [],
+      name: "Shitty Final Fantasy",
+      author: "Nongo",
+      id: 93588046,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=xDdnl5Y8DlA",
+    },
+       /*=============================================================================*/
+    {
       vids: [
 {
           user: "StormTrue",
