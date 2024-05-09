@@ -102,7 +102,7 @@
     {
       vids: [],
       name: "Shitty Torrent",
-      author: "[FR] aelz [StormTrue]",
+      author: "aelz [StormTrue]",
       id: 92657729,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=SUQMH6ZFis4",
@@ -753,7 +753,7 @@
         },
       ],
       name: "Shitty Viper",
-      author: "[FR] aelz [StormTrue]",
+      author: "aelz [StormTrue]",
       id: 101543853,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=CmJocguZyRA",
