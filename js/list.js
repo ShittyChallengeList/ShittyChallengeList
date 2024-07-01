@@ -5586,6 +5586,94 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/Vg_WT2QR6YM",
     },
+       /*=============================================================================*/
+    {
+      vids: [
+        {
+          user: "Stolen Burrito",
+          link: "https://youtu.be/nFiEFnkfzlE",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "Troy3",
+          link: "https://www.youtube.com/watch?v=bcFSDnMKl1Y",
+          percent: 100,
+          hz: "180hz",
+        },
+        {
+          user: "matw",
+          link: "https://youtube.com/shorts/txblTzf8yPQ?feature=share",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "Toon",
+          link: "https://youtu.be/usvyX45VcsI",
+          percent: 100,
+          hz: "288hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/cWaLLxhA6oY",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "ItsASandyXD",
+          link: "https://www.youtube.com/watch?v=LwLDdk5nafI",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "TinkBy",
+          link: "https://www.youtube.com/watch?v=PXr7HIouCUo",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "arielus05",
+          link: "https://medal.tv/games/geometry-dash/clips/SjlojZ5YrdXa4/mU4y1uh7ojDy?invite=cr-MSw5REIsMzQzNDU2Mjks",
+          percent: 100,
+          hz: "60hz",
+        },
+{
+          user: "Dipper552",
+          link: "https://www.youtube.com/watch?v=GNz7JMkp75s",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "shinonihi",
+          link: "https://youtu.be/pMqvyp4WsoM",
+          percent: 100,
+          hz: "144hz",
+        },
+                {
+          user: "shinonihi",
+          link: "https://youtu.be/pMqvyp4WsoM",
+          percent: 100,
+          hz: "144hz",
+        },
+        {
+          user: "[FR] aelz",
+          link: "https://youtu.be/KW3ymGo8QvQ",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty my mom is dead",
+      author: "Ludwig [Halledo]",
+      id: 77792578,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/_duOldU_nag",
+    },
     /*=============================================================================*/
     {
       vids: [
@@ -6654,94 +6742,6 @@
       id: 70502748,
       percentToQualify: 100,
       verificationVid: "NA",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        {
-          user: "Stolen Burrito",
-          link: "https://youtu.be/nFiEFnkfzlE",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "Troy3",
-          link: "https://www.youtube.com/watch?v=bcFSDnMKl1Y",
-          percent: 100,
-          hz: "180hz",
-        },
-        {
-          user: "matw",
-          link: "https://youtube.com/shorts/txblTzf8yPQ?feature=share",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "Toon",
-          link: "https://youtu.be/usvyX45VcsI",
-          percent: 100,
-          hz: "288hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/cWaLLxhA6oY",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "ItsASandyXD",
-          link: "https://www.youtube.com/watch?v=LwLDdk5nafI",
-          percent: 100,
-          hz: "144hz",
-        },
-{
-          user: "CIDIAM",
-          link: "https://www.youtube.com/watch?v=dm6Z5yP_dkQ",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "TinkBy",
-          link: "https://www.youtube.com/watch?v=PXr7HIouCUo",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "arielus05",
-          link: "https://medal.tv/games/geometry-dash/clips/SjlojZ5YrdXa4/mU4y1uh7ojDy?invite=cr-MSw5REIsMzQzNDU2Mjks",
-          percent: 100,
-          hz: "60hz",
-        },
-{
-          user: "Dipper552",
-          link: "https://www.youtube.com/watch?v=GNz7JMkp75s",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "shinonihi",
-          link: "https://youtu.be/pMqvyp4WsoM",
-          percent: 100,
-          hz: "144hz",
-        },
-                {
-          user: "shinonihi",
-          link: "https://youtu.be/pMqvyp4WsoM",
-          percent: 100,
-          hz: "144hz",
-        },
-        {
-          user: "[FR] aelz",
-          link: "https://youtu.be/KW3ymGo8QvQ",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty my mom is dead",
-      author: "Ludwig [Halledo]",
-      id: 77792578,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/_duOldU_nag",
     },
     /*=============================================================================*/
     {
