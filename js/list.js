@@ -1586,40 +1586,6 @@
           percentToQualify: 100,
           verificationVid: "https://youtu.be/aV305tBGyJE",
         },
-       /*=============================================================================*/
-       {
-      vids: [
-{
-          user: "boylighty",
-          link: "https://www.youtube.com/watch?v=vwZylxMat2Q",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=-2nwBkWUhg4",
-          percent: 100,
-          hz: "240hz",
-        },
-{
-          user: "[NCC] XaviiiFG",
-          link: "https://youtu.be/9WqVFREor8E",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Halledo",
-          link: "https://youtu.be/FnQzrvLcO8I",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty Cooks",
-      author: "toon [toon]",
-      id: 102182487,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
-    },
         /*=============================================================================*/
     {
       vids: [
@@ -2108,6 +2074,40 @@
       id: 89154723,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=6YuD0b1SDqk",
+    },
+          /*=============================================================================*/
+       {
+      vids: [
+{
+          user: "boylighty",
+          link: "https://www.youtube.com/watch?v=vwZylxMat2Q",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=-2nwBkWUhg4",
+          percent: 100,
+          hz: "240hz",
+        },
+{
+          user: "[NCC] XaviiiFG",
+          link: "https://youtu.be/9WqVFREor8E",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Halledo",
+          link: "https://youtu.be/FnQzrvLcO8I",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty Cooks",
+      author: "toon [toon]",
+      id: 102182487,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
     },
     /*=============================================================================*/
     {
