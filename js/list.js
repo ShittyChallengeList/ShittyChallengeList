@@ -2524,6 +2524,15 @@
           verificationVid: "https://youtu.be/I_Os-e-JcBI",
         },
     /*=============================================================================*/
+           {
+          vids: [],
+          name: "Shitty Rat Poison",
+          author: "Dipper552",
+          id: 89023659,
+          percentToQualify: 100,
+          verificationVid: "https://www.youtube.com/watch?v=blmaHFA_TXw",
+        },
+    /*=============================================================================*/
     {
       vids: [
         {
