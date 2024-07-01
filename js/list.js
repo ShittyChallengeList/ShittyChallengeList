@@ -166,112 +166,6 @@
     {
       vids: [
         {
-          user: "toon",
-          link: "https://youtu.be/yhLqDAeBizk",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Willow",
-          link: "https://www.youtube.com/watch?v=djyPOYUANjs",
-          percent: 100,
-          hz: "240hz",
-        },
-        {
-          user: "arielus05",
-          link: "https://www.youtube.com/watch?v=r6QVGnGAIx8",
-          percent: 100,
-          hz: "144hz",
-        },
-{
-          user: "Sebi",
-          link: "https://www.youtube.com/watch?v=frRtx23pPHQ",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "Draven",
-          link: "https://youtu.be/HzPIjfMO2pI",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "JoinMolten",
-          link: "https://youtu.be/fB21cWpRgOk",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "nobbbin",
-          link: "https://www.youtube.com/watch?v=AimA0ksp9D0",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "CIDIAM",
-          link: "https://www.youtube.com/watch?v=bvS9eUtxvfc",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Denni",
-          link: "https://www.youtube.com/watch?v=vmRBP46D2nQ",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "deltuh",
-          link: "https://www.youtube.com/watch?v=ivekCZNKByQ",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "Millinillion",
-          link: "https://www.youtube.com/watch?v=JbhjTyd_nJ8",
-          percent: 100,
-          hz: "360hz",
-        },
-{
-          user: "StormTrue",
-          link: "https://www.youtube.com/watch?v=RIJYKrrBiuc",
-          percent: 100,
-          hz: "300hz",
-        },
-{
-          user: "FusionFort",
-          link: "https://www.youtube.com/watch?v=olZbCJbJq8s",
-          percent: 100,
-          hz: "144hz",
-        },
-{
-          user: "Whybaby",
-          link: "https://www.youtube.com/watch?v=qdq4QmeF6-A",
-          percent: 100,
-          hz: "200hz",
-        },
-{
-          user: "caveZ",
-          link: "https://www.youtube.com/watch?v=eoFjRTiH9dg",
-          percent: 100,
-          hz: "360hz",
-        },
-        {
-          user: "SeeImHappy",
-          link: "https://youtu.be/mZejgxWIQbE",
-          percent: 100,
-          hz: "360hz",
-        },
-      ],
-      name: "Shitty VSC",
-      author: "CIDIAM [KrisGra]",
-      id: 78888928,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=Z86A2TCMuKw",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        {
           user: "Draven",
           link: "https://youtu.be/_UEsMxWOXT8",
           percent: 100,
@@ -461,6 +355,112 @@
       id: 78138348,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=ntRPrwCfJ-w",
+    },
+       /*=============================================================================*/
+    {
+      vids: [
+        {
+          user: "toon",
+          link: "https://youtu.be/yhLqDAeBizk",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Willow",
+          link: "https://www.youtube.com/watch?v=djyPOYUANjs",
+          percent: 100,
+          hz: "240hz",
+        },
+        {
+          user: "arielus05",
+          link: "https://www.youtube.com/watch?v=r6QVGnGAIx8",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "Sebi",
+          link: "https://www.youtube.com/watch?v=frRtx23pPHQ",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "Draven",
+          link: "https://youtu.be/HzPIjfMO2pI",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "JoinMolten",
+          link: "https://youtu.be/fB21cWpRgOk",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "nobbbin",
+          link: "https://www.youtube.com/watch?v=AimA0ksp9D0",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "CIDIAM",
+          link: "https://www.youtube.com/watch?v=bvS9eUtxvfc",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Denni",
+          link: "https://www.youtube.com/watch?v=vmRBP46D2nQ",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "deltuh",
+          link: "https://www.youtube.com/watch?v=ivekCZNKByQ",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "Millinillion",
+          link: "https://www.youtube.com/watch?v=JbhjTyd_nJ8",
+          percent: 100,
+          hz: "360hz",
+        },
+{
+          user: "StormTrue",
+          link: "https://www.youtube.com/watch?v=RIJYKrrBiuc",
+          percent: 100,
+          hz: "300hz",
+        },
+{
+          user: "FusionFort",
+          link: "https://www.youtube.com/watch?v=olZbCJbJq8s",
+          percent: 100,
+          hz: "144hz",
+        },
+{
+          user: "Whybaby",
+          link: "https://www.youtube.com/watch?v=qdq4QmeF6-A",
+          percent: 100,
+          hz: "200hz",
+        },
+{
+          user: "caveZ",
+          link: "https://www.youtube.com/watch?v=eoFjRTiH9dg",
+          percent: 100,
+          hz: "360hz",
+        },
+        {
+          user: "SeeImHappy",
+          link: "https://youtu.be/mZejgxWIQbE",
+          percent: 100,
+          hz: "360hz",
+        },
+      ],
+      name: "Shitty VSC",
+      author: "CIDIAM [KrisGra]",
+      id: 78888928,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=Z86A2TCMuKw",
     },
     /*=============================================================================*/
     {
