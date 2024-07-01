@@ -1051,6 +1051,15 @@
     //   phacked: 1,
     // },
     /*=============================================================================*/
+       {
+      vids: [],
+      name: "Shitty Whoopie",
+      author: "Dipper552",
+      id: 106006516,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=Qno_O3A0GWI",
+    },
+ /*=============================================================================*/
     {
       vids: [
         {
