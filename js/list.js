@@ -1053,7 +1053,7 @@
     /*=============================================================================*/
        {
       vids: [],
-      name: "Shitty Whoopie",
+      name: "Shitty woopie",
       author: "Dipper552",
       id: 106006516,
       percentToQualify: 100,
