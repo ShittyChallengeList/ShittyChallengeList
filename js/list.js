@@ -990,7 +990,7 @@
           hz: "360hz",
         },
        {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/kjhQnpOrDlc",
           percent: 100,
           hz: "360hz",
@@ -1196,7 +1196,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/oedLt46lZU4",
           percent: 100,
           hz: "360hz",
@@ -1336,7 +1336,7 @@
           hz: "288hz",
         },
           {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/k10vJfj6HoU",
           percent: 100,
           hz: "360hz",
@@ -1442,7 +1442,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=wnPh5Sv5XOY",
           percent: 100,
           hz: "360hz",
@@ -1662,7 +1662,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=e9f3ZB0dl8I",
           percent: 100,
           hz: "360hz",
@@ -1738,7 +1738,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/IU2nzhp4ajc?t=1241",
           percent: 100,
           hz: "360hz",
@@ -1862,7 +1862,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/wUdpViwV6zI",
           percent: 100,
           hz: "360hz",
@@ -1987,7 +1987,7 @@
           hz: "288hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=Zrekrhhk_7Y",
           percent: 100,
           hz: "360hz",
@@ -2339,7 +2339,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=DWr-bQV5ejk&ab_channel=GrilledTG",
           percent: 100,
           hz: "360hz",
@@ -2494,7 +2494,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=uxOo8El15eI",
           percent: 100,
           hz: "360hz",
@@ -2772,7 +2772,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=k3xI1bGLtuo",
           percent: 100,
           hz: "360hz",
@@ -2970,7 +2970,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=IXRv6Ap_MnI",
           percent: 100,
           hz: "360hz",
@@ -3092,7 +3092,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/pkBR08EXziA",
           percent: 100,
           hz: "360hz",
@@ -3132,7 +3132,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=pvJq-42l3EQ",
           percent: 100,
           hz: "360hz",
@@ -3218,7 +3218,7 @@
           hz: "144hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=4gdLE6XSQkQ&ab_channel=GrilledTG",
           percent: 100,
           hz: "360hz",
@@ -3370,7 +3370,7 @@
           hz: "300hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=uHT8w8_ICC4",
           percent: 100,
           hz: "360hz",
@@ -3562,7 +3562,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=n5_iMx27Blc",
           percent: 100,
           hz: "360hz",
@@ -3650,7 +3650,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=k3xI1bGLtuo",
           percent: 100,
           hz: "360hz",
@@ -3772,7 +3772,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=QbPc3iRbZ7k",
           percent: 100,
           hz: "360hz",
@@ -3894,7 +3894,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=QbPc3iRbZ7k",
           percent: 100,
           hz: "360hz",
@@ -3952,7 +3952,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=k3xI1bGLtuo",
           percent: 100,
           hz: "360hz",
@@ -4010,7 +4010,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=gxmgUU62Ps8",
           percent: 100,
           hz: "360hz",
@@ -4117,7 +4117,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=BHjzjeKqp3o",
           percent: 100,
           hz: "360hz",
@@ -4265,7 +4265,7 @@
           hz: "144hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/pkBR08EXziA",
           percent: 100,
           hz: "360hz",
@@ -4365,7 +4365,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=IFLwcfBF17Y",
           percent: 100,
           hz: "360hz",
@@ -4519,7 +4519,7 @@
           hz: "144hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=IFLwcfBF17Y",
           percent: 100,
           hz: "360hz",
@@ -4673,7 +4673,7 @@
               hz: "240hz",
             },
 {
-              user: "[FR] aelz",
+              user: "aelz",
               link: "https://www.youtube.com/watch?v=zOozwmEbRIk",
               percent: 100,
               hz: "300hz",
@@ -4803,7 +4803,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=IFLwcfBF17Y",
           percent: "100",
           hz: "360hz",
@@ -4957,7 +4957,7 @@
           hz: "240hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/pkBR08EXziA",
           percent: 100,
           hz: "360hz",
@@ -5087,7 +5087,7 @@
           hz: "165hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=Kp01H9pSQyk",
           percent: 100,
           hz: "360hz",
@@ -5290,7 +5290,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/Gsj3E0sgnJ4",
           percent: 100,
           hz: "360hz",
@@ -5511,7 +5511,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=QbPc3iRbZ7k",
           percent: 100,
           hz: "360hz",
@@ -5689,7 +5689,7 @@
           hz: "144hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/KW3ymGo8QvQ",
           percent: 100,
           hz: "360hz",
@@ -5801,7 +5801,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=IFLwcfBF17Y",
           percent: 100,
           hz: "360hz",
@@ -5997,7 +5997,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=pvJq-42l3EQ&t=9s",
           percent: 100,
           hz: "360hz",
@@ -6062,7 +6062,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=pvJq-42l3EQ&t=29s",
           percent: 100,
           hz: "360hz",
@@ -6145,7 +6145,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/tCD6uLWmytI",
           percent: 100,
           hz: "360hz",
@@ -6323,7 +6323,7 @@
           hz: "144hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=QbPc3iRbZ7k",
           percent: 100,
           hz: "360hz",
@@ -6532,7 +6532,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=muylu1hTJ5M",
           percent: 100,
           hz: "360hz",
@@ -6746,7 +6746,7 @@
           hz: "144hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=QbPc3iRbZ7k",
           percent: 100,
           hz: "360hz",
@@ -6822,7 +6822,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/t0KEFmMPXK4",
           percent: 100,
           hz: "360hz",
@@ -6928,7 +6928,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7016,7 +7016,7 @@
           hz: "360hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7140,7 +7140,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/t0KEFmMPXK4",
           percent: 100,
           hz: "360hz",
@@ -7264,7 +7264,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7310,7 +7310,7 @@
     {
       vids: [
        {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/t0KEFmMPXK4",
           percent: 100,
           hz: "360hz",
@@ -7398,7 +7398,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/t0KEFmMPXK4",
           percent: 100,
           hz: "360hz",
@@ -7528,7 +7528,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=ZjMAlFtCC90",
           percent: 100,
           hz: "360hz",
@@ -7556,7 +7556,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7584,7 +7584,7 @@
        {
       vids: [],
       name: "Shitty Pennutoh Challenge",
-      author: "KSol [[FR] aelz]",
+      author: "KSol [aelz]",
       id: 72632090,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/e9c--muWW9I",
@@ -7593,7 +7593,7 @@
     {
       vids: [
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7639,7 +7639,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7691,7 +7691,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7731,7 +7731,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7777,7 +7777,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7823,7 +7823,7 @@
     {
       vids: [
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -7905,7 +7905,7 @@
           hz: "144hz",
         },
 {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://youtu.be/hpZPER3bOdQ",
           percent: 100,
           hz: "360hz",
@@ -8071,7 +8071,7 @@
           hz: "360hz",
         },
         {
-          user: "[FR] aelz",
+          user: "aelz",
           link: "https://www.youtube.com/watch?v=muylu1hTJ5M",
           percent: 100,
           hz: "360hz",
