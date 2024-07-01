@@ -154,6 +154,15 @@
       verificationVid: "https://www.youtube.com/watch?v=YVoxZYRMmSQ",
     },
     /*=============================================================================*/
+       {
+      vids: [],
+      name: "Shitty Saga Jihen",
+      author: "itsAneko and Jasker [Jasker]",
+      id: 105589164,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/x8gj4zGTcqM",
+    },
+    /*=============================================================================*/
     {
       vids: [
         {
