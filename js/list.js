@@ -7581,6 +7581,15 @@
       verificationVid: "https://youtu.be/W9bSbV8ewxU",
     },
     /*=============================================================================*/
+       {
+      vids: [],
+      name: "Shitty Pennutoh Challenge",
+      author: "KSol [[FR] aelz]",
+      id: 72632090,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/e9c--muWW9I",
+    },
+    /*=============================================================================*/
     {
       vids: [
 {
@@ -8163,15 +8172,6 @@
       id: 71065784,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=1GZp9E6XqyI&t=35s",
-    },
-    /*=============================================================================*/
-    {
-      vids: [],
-      name: "Shitty Pennutoh Challenge",
-      author: "KSol",
-      id: 72632090,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=9iKOXpEtiK0",
     },
     /*=============================================================================*/
     {
