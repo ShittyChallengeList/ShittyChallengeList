@@ -3723,6 +3723,12 @@
           percent: 100,
           hz: "360hz",
         },
+        {
+          user: "aelz",
+          link: "https://youtu.be/yNF9AMkgqUc",
+          percent: 100,
+          hz: "360hz",
+        },
       ],
       name: "Shitty Malawi",
       author: "KSol [Pudgy]",
