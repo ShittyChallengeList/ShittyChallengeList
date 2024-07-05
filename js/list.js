@@ -6243,18 +6243,18 @@
           percent: 100,
           hz: "240hz",
         },
+        {
+          user: "K3NNYY0",
+          link: "https://youtu.be/4E0q5cUc8Uo",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Shitty Yubin",
       author: "Swidiot [Dark Angle]",
       id: 68311663,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/JQL_qfRqL_I",
-    },
-    {
-      user: "K3NNYY0",
-      link: "https://youtu.be/4E0q5cUc8Uo",
-      percent: 100,
-      hz: "240hz",
     },
     /*=============================================================================*/
     {
