@@ -1755,6 +1755,15 @@
     },
     /*=============================================================================*/
     {
+      vids: [],
+      name: "Shitty Habit",
+      author: "Dipper552",
+      id: 101303724,
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=mBXLhTscni4",
+    },
+    /*=============================================================================*/
+    {
       vids: [
 {
           user: "CIDIAM",
