@@ -1756,7 +1756,7 @@
     /*=============================================================================*/
     {
       vids: [],
-      name: "Shitty Habit",
+      name: "Shitty habit",
       author: "Dipper552",
       id: 101303724,
       percentToQualify: 100,
