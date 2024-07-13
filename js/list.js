@@ -1304,6 +1304,15 @@
       verificationVid: "https://www.youtube.com/watch?v=3ZetqeNAfX4",
     },
    /*=============================================================================*/
+        {
+          vids: [],
+          name: "Shitty habit",
+          author: "Dipper552",
+          id: 101303724,
+          percentToQualify: 100,
+          verificationVid: "https://www.youtube.com/watch?v=mBXLhTscni4",
+        },
+   /*=============================================================================*/
     {
       vids: [
         {
@@ -1752,15 +1761,6 @@
       id: 72009639,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/sCPBprp4YG0",
-    },
-    /*=============================================================================*/
-    {
-      vids: [],
-      name: "Shitty habit",
-      author: "Dipper552",
-      id: 101303724,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=mBXLhTscni4",
     },
     /*=============================================================================*/
     {
