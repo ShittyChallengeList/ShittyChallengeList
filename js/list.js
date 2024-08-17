@@ -7486,6 +7486,12 @@
           percent: 100,
           hz: "240hz",
         },
+{
+          user: "vDav1d",
+          link: "https://www.youtube.com/watch?v=OVO1AXxb9ow",
+          percent: 100,
+          hz: "144hz",
+        },
       ],
       name: "Shitty Swinging Balls",
       author: "Chuck Danger",
